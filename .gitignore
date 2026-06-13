@@ -1,6 +1,10 @@
 .env
 .env.*
 !.env.example
+*.key
+*.pem
+*.sqlite-wal
+*.sqlite-shm
 
 .git/
 node_modules/
@@ -16,8 +20,21 @@ target/
 dist/
 build/
 coverage/
+models/
+Models/
 MODELS/
+_Models/
 _MODELS/
+huggingface/
+.huggingface/
+ollama/
+*.gguf
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.bin
+*.pkl
 JUNKET/
 BACKSIDE/
 03_FINAL_READY/Unsorted/
@@ -30,6 +47,7 @@ _archive/
 EXPORTS/
 _STATION_EXPORTS/
 github/
+#recycle/
 
 *.tmp
 *.log
