@@ -46,6 +46,7 @@ try:
 except ImportError:
     HAS_PG = False
 
+from .backside_paths import PIPELINE_LOG_DIR
 from .station_base import (
     StationBase, StationVerdict, Manifest, Signal, SignalType
 )
@@ -172,7 +173,7 @@ class PipelineEngine:
             "FAP_PG_DSN",
             "",
         )
-        self.log_dir = Path(log_dir or os.environ.get("FAP_LOG_DIR", r"D:\BIL\data\fap_logs"))
+        self.log_dir = Path(log_dir or os.environ.get("FAP_LOG_DIR", str(PIPELINE_LOG_DIR)))
         self.log_dir.mkdir(parents=True, exist_ok=True)
         self._conn = None
         self._signal_handlers: list[callable] = []

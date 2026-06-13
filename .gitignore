@@ -38,3 +38,7 @@ github/
 *.bak
 *.bak-*
 ~$*
+
+# Windows-drive runtime mounts accidentally materialized on POSIX hosts
+X:\\*/
+Z:\\*/

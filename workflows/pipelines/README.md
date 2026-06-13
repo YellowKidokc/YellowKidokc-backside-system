@@ -51,21 +51,21 @@ Each packet can either run a full pipeline or stop at one station.
 
 ## Stages
 
-- Intake: classify, identify, detect format, deduplicate
-- Transform: clean, extract, vectorize, build HTML, render TTS, create thumbnails
+- Intake: clean/extract into lossless text, vectorize, then classify/identify/deduplicate
+- Transform: build HTML, render TTS, create thumbnails
 - Validate: grade, audit, map axioms, cross-check
 - Route: vault drop, R2 publish, Substack queue, Postgres warehouse, NAS archive
 - Signals: gap, duplicate, quality, ready, upstream
 
 ## Engine Layer
 
-The working Python engine imported from `D:\BIL` lives under `engines/`.
+The working Python engine uses the canonical `X:\Backside` spine and lives under `engines/`.
 
 - `engines/pipeline/station_base.py`: station base classes, manifests, signals
 - `engines/pipeline/pipeline_engine.py`: watcher, registry, routing, logging
 - `engines/pipeline/llm_hub.py`: queued LLM checkpoint layer
-- `engines/pipeline/stations/classifier.py`: working Station 1
-- `engines/pipeline/stations/media_transformer.py`: working Station 2
+- `engines/pipeline/stations/vectorizer.py`: vector evidence station before classification
+- `engines/pipeline/stations/classifier.py`: classification station after vectorization
 
 See `docs/engine-import-map.md`.
 
@@ -111,7 +111,7 @@ See `docs/claude-cli-operating-pattern.md`.
 ## Wiki Layer
 
 The Karpathy-style Obsidian wiki layer is installed locally as `olw 0.8.3` and
-has a test workspace at `D:\FAP\wiki-compiler`.
+uses the shared Backside workspace at `X:\Backside\_Shared\wiki` by default.
 
 See `docs/karpathy-wiki-layer.md`.
 

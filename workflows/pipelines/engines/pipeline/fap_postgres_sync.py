@@ -14,6 +14,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(REPO_ROOT))
+from engines.pipeline.backside_paths import PIPELINE_LOG_DIR, PIPELINE_REPORT_DIR
 
 try:
     import psycopg2
@@ -24,10 +25,10 @@ except ImportError:
 from engines.pipeline.pipeline_engine import DDL
 
 LOG_DIRS = [
-    Path(os.environ.get("FAP_LOG_DIR", r"D:\FAP\logs")),
-    Path(os.environ.get("FAP_ENGINE_LOG_DIR", r"D:\BIL\data\fap_logs")),
+    Path(os.environ.get("FAP_LOG_DIR", str(PIPELINE_LOG_DIR))),
+    Path(os.environ.get("FAP_ENGINE_LOG_DIR", str(PIPELINE_LOG_DIR))),
 ]
-REPORT_DIR = Path(os.environ.get("FAP_SYNC_REPORT_DIR", r"D:\BIL\data\fap_sync"))
+REPORT_DIR = Path(os.environ.get("FAP_SYNC_REPORT_DIR", str(PIPELINE_REPORT_DIR / "sync")))
 PG_DSN = os.environ.get("FAP_PG_DSN", "")
 
 
