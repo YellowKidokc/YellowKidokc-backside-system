@@ -24,10 +24,18 @@ import os
 import logging
 from pathlib import Path
 
-# Add BIL root to path
-BIL_ROOT = Path(__file__).resolve().parents[2]
-sys.path.insert(0, str(BIL_ROOT))
+# Add pipeline repo root to path
+PIPELINE_REPO_ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(PIPELINE_REPO_ROOT))
 
+from engines.pipeline.backside_paths import (
+    KNOWLEDGE_GRAPHS_ROOT,
+    PIPELINE_LOG_DIR,
+    PIPELINE_QUEUE_DIR,
+    PIPELINE_RUNTIME_ROOT,
+    PIPELINE_WIKI_DIR,
+    VECTORIZE_BEFORE_CLASSIFY,
+)
 from engines.pipeline.pipeline_engine import PipelineEngine
 from engines.pipeline.stations.classifier import ClassifierStation
 from engines.pipeline.stations.media_transformer import MediaTransformStation
@@ -47,32 +55,32 @@ logging.basicConfig(
 logger = logging.getLogger("FAP-Boot")
 
 # ══════════════════════════════════════════════════════════════════
-# FAP DIRECTORY STRUCTURE
+# BACKSIDE DIRECTORY STRUCTURE
 # ══════════════════════════════════════════════════════════════════
-FAP_ROOT = os.environ.get("FAP_ROOT", r"D:\FAP")
+FAP_ROOT = os.environ.get("FAP_ROOT", str(PIPELINE_RUNTIME_ROOT))
 DIRS = {
     "intake":         os.path.join(FAP_ROOT, "intake"),
+    "lossless":       os.path.join(FAP_ROOT, "lossless"),
+    "vectorized":     os.path.join(FAP_ROOT, "vectorized"),
     "classified":     os.path.join(FAP_ROOT, "classified"),
     "media_routed":   os.path.join(FAP_ROOT, "media-routed"),
-    "lossless":       os.path.join(FAP_ROOT, "lossless"),
     "framework_tagged": os.path.join(FAP_ROOT, "framework-tagged"),
-    "vectorized":     os.path.join(FAP_ROOT, "vectorized"),
     "graded":         os.path.join(FAP_ROOT, "graded"),
     "axiom_mapped":   os.path.join(FAP_ROOT, "axiom-mapped"),
-    "output":         os.path.join(FAP_ROOT, "output"),
+    "output":         os.path.join(KNOWLEDGE_GRAPHS_ROOT, "pipeline-output"),
     "rubric_output":  os.path.join(FAP_ROOT, "rubric-output"),
     "review":         os.path.join(FAP_ROOT, "_review"),
     "rejected":       os.path.join(FAP_ROOT, "_rejected"),
-    "wiki":           os.path.join(FAP_ROOT, "wiki"),
-    "queue":          os.path.join(FAP_ROOT, "_queue"),
-    "logs":           os.path.join(FAP_ROOT, "logs"),
+    "wiki":           str(PIPELINE_WIKI_DIR),
+    "queue":          str(PIPELINE_QUEUE_DIR),
+    "logs":           str(PIPELINE_LOG_DIR),
 }
 
 PG_DSN = os.environ.get("FAP_PG_DSN", "")
 
 ALL_STATIONS = [
-    "classifier", "media-transform-router", "lossless-formatter",
-    "framework-classifier", "vectorizer", "paper-grader",
+    "lossless-formatter", "vectorizer", "classifier", "media-transform-router",
+    "framework-classifier", "paper-grader",
     "axiom-mapper", "wiki-compiler", "rubric-export",
 ]
 
@@ -88,18 +96,36 @@ def create_directories():
 
 def create_engine(pg_dsn: str = None) -> PipelineEngine:
     """Create and configure the FAP engine with Paper Mill pipeline."""
+    if not VECTORIZE_BEFORE_CLASSIFY:
+        raise RuntimeError("Station doctrine violation: VECTORIZE_BEFORE_CLASSIFY must stay enabled")
     engine = PipelineEngine(pg_dsn=pg_dsn or PG_DSN)
 
-    # Station 1: Classifier
-    engine.register_station(ClassifierStation(
+    # Station 1: Lossless formatter
+    engine.register_station(LosslessFormatterStation(
         input_dir=DIRS["intake"],
+        output_dir=DIRS["lossless"],
+        review_dir=os.path.join(DIRS["review"], "lossless-formatter"),
+        fail_dir=os.path.join(DIRS["rejected"], "lossless-formatter"),
+    ), pipeline_name="paper-mill", order=1)
+
+    # Station 2: Vectorizer (doctrine: vectorize before classify)
+    engine.register_station(VectorizerStation(
+        input_dir=DIRS["lossless"],
+        output_dir=DIRS["vectorized"],
+        review_dir=os.path.join(DIRS["review"], "vectorizer"),
+        fail_dir=os.path.join(DIRS["rejected"], "vectorizer"),
+    ), pipeline_name="paper-mill", order=2)
+
+    # Station 3: Classifier
+    engine.register_station(ClassifierStation(
+        input_dir=DIRS["vectorized"],
         output_dir=DIRS["classified"],
         review_dir=os.path.join(DIRS["review"], "classifier"),
         fail_dir=os.path.join(DIRS["rejected"], "classifier"),
         threshold_pass=0.6, threshold_fail=0.25,
-    ), pipeline_name="paper-mill", order=1)
+    ), pipeline_name="paper-mill", order=3)
 
-    # Station 2: Media/text route
+    # Station 4: Media/text route
     engine.register_station(MediaTransformStation(
         input_dir=DIRS["classified"],
         output_dir=DIRS["media_routed"],
@@ -107,35 +133,19 @@ def create_engine(pg_dsn: str = None) -> PipelineEngine:
         review_dir=os.path.join(DIRS["review"], "media-transform-router"),
         fail_dir=os.path.join(DIRS["rejected"], "media-transform-router"),
         threshold_pass=0.55, threshold_fail=0.25,
-    ), pipeline_name="paper-mill", order=2)
+    ), pipeline_name="paper-mill", order=4)
 
-    # Station 3: Lossless formatter
-    engine.register_station(LosslessFormatterStation(
-        input_dir=DIRS["media_routed"],
-        output_dir=DIRS["lossless"],
-        review_dir=os.path.join(DIRS["review"], "lossless-formatter"),
-        fail_dir=os.path.join(DIRS["rejected"], "lossless-formatter"),
-    ), pipeline_name="paper-mill", order=3)
-
-    # Station 4: Framework classifier (deep formal tagging)
+    # Station 5: Framework classifier (deep formal tagging after vector evidence exists)
     engine.register_station(FrameworkClassifierStation(
-        input_dir=DIRS["lossless"],
+        input_dir=DIRS["media_routed"],
         output_dir=DIRS["framework_tagged"],
         review_dir=os.path.join(DIRS["review"], "framework-classifier"),
         fail_dir=os.path.join(DIRS["rejected"], "framework-classifier"),
-    ), pipeline_name="paper-mill", order=4)
-
-    # Station 5: Vectorizer
-    engine.register_station(VectorizerStation(
-        input_dir=DIRS["framework_tagged"],
-        output_dir=DIRS["vectorized"],
-        review_dir=os.path.join(DIRS["review"], "vectorizer"),
-        fail_dir=os.path.join(DIRS["rejected"], "vectorizer"),
     ), pipeline_name="paper-mill", order=5)
 
     # Station 6: Paper grader (LLM Hub)
     engine.register_station(PaperGraderStation(
-        input_dir=DIRS["vectorized"],
+        input_dir=DIRS["framework_tagged"],
         output_dir=DIRS["graded"],
         review_dir=os.path.join(DIRS["review"], "paper-grader"),
         fail_dir=os.path.join(DIRS["rejected"], "paper-grader"),
