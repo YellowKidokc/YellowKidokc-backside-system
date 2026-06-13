@@ -1,0 +1,84 @@
+{
+  "paper_id": "MDA-034-technology-entropy",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-034-technology-entropy",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-034-technology-entropy\\JSON\\MDA-034-technology-entropy.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 6,
+  "failing_claim_count": 6,
+  "formal_marker_count": 1,
+  "failure_counts": {
+    "weak:Q3_mechanism": 6,
+    "weak:Q4_evidence": 6,
+    "weak:Q5_falsifiability": 6,
+    "weak:Q6_boundary": 5
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The investigation into the moral trajectory of American society requires a philosophical definition of technology that moves beyond mere tool usage."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Technology’s role as a cultural determinant places its study within the domain of the humanities philosophy of technology, which emphasizes its meaning and impact on society.2 If philosophy seeks to understand how things in the broadest sense relate, then the vast scope and complexity of technological systems compel analysis of their moral footprint."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "This conceptual framework requires acknowledging that technology is fundamentally **value-laden**.1 Technical systems embody the goals of efficiency and power."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "If technological artifacts are the exteriorization of human intent, then the shift toward designed decay indicates a societal and corporate will that prioritizes maximum extraction over cultural permanence and stability."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Mass smartphone/social media adoption (post-2013) precisely corresponds with youth anxiety/depression spike.17 Causal evidence confirmed.23 The algorithmic objective of maximizing attention capture leads to a technological environment that interferes with the biological mechanisms of emotional regulation and sleep."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

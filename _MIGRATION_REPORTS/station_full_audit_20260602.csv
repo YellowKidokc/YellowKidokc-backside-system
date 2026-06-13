@@ -1,0 +1,53 @@
+station,status,registry,registry_type,run_files,py_count,config_files,readme,syntax_failures,stale_refs
+7q-classifier.station,WRAPPER_PRESENT,yes,local,RUN.bat,4,,yes,,
+7q-engine.station,REVIEW_STALE_REFS,yes,local,RUN.bat,10,,yes,,README.REMOTE_PLACEHOLDER_20260601.md -> \\dlowenas\brain\Backside\apps
+ai-portal-generator.station,WRAPPER_PRESENT,yes,local,RUN.bat; RUN_BUILD_AI_PORTAL.bat; TROUBLESHOOT_AI_PORTAL.bat,1,config.json,yes,,
+ai-research-agents.station,REVIEW_STALE_REFS,yes,local,RUN.bat,4,,yes,,README.REMOTE_PLACEHOLDER_20260601.md -> \\dlowenas\brain\Backside\apps
+apologetic-pipeline.station,WRAPPER_PRESENT,yes,local,RUN.bat,1,,no,,
+axioms.station,REVIEW_STALE_REFS,yes,local,QUEUE_IMPORTED_PAPERS_TO_INBOX.bat; RUN.bat; RUN_AXIOMS_WORKFLOW.bat; RUN_AXIOM_RIGOR_GATE.bat; RUN_FULL_PAPER_INTELLIGENCE.bat; TROUBLESHOOT_AXIOMS_WORKFLOW.bat; UPDATE_AXIOMS_REFERENCE_HTML.bat,11,,yes,,RUN_FULL_PAPER_INTELLIGENCE.bat -> X:\Backside\workflows
+brain-map.station,REVIEW_STALE_REFS,yes,local,,58,,no,,theophysics-brain-map-main\ARCHITECTURE.md -> D:\brain | theophysics-brain-map-main\BRAIN_README.md -> X:\Backside\workflows | theophysics-brain-map-main\FOLDER_CONVENTIONS.md -> D:\brain | theophysics-brain-map-main\README.md -> X:\brain | theophysics-brain-map-main\ROOT_REORG_TARGET_2026-05-20.md -> X:\Backside\workflows | theophysics-brain-map-main\00_WORKFLOWS\D_DRIVE_PROGRAMS_AND_WORK_AREAS_MAP.md -> D:\brain | theophysics-brain-map-main\00_WORKFLOWS\WORKFLOWS_ROOT_MIGRATION_STATUS.md -> X:\brain | theophysics-brain-map-main\00_WORKFLOWS\prompts\x-drive-reorg\4b_root_simplification.md -> X:\brain
+claim-extractor.station,REVIEW_STALE_REFS,yes,local,EXTRACT.bat; RUN.bat,3,config.json,no,,COWORK_PROMPT.md -> D:\brain
+classify-documents.station,WRAPPER_PRESENT,yes,local,RUN.bat,1,config.json,no,,
+deberta-runner.station,WRAPPER_PRESENT,yes,local,INSTALL.bat; RUN.bat; TEST.bat,1,config.json,no,,
+file-intelligence.station,REVIEW_STALE_REFS,yes,local,INSTALL.bat; RUN.bat,34,,yes,,README.REMOTE_PLACEHOLDER_20260601.md -> \\dlowenas\brain\Backside\apps
+fruits-spirit-canon.station,WRAPPER_PRESENT,yes,local,RUN.bat; RUN_FRUITS_ENGINE.bat,3,,yes,,
+graph-linker.station,SCAFFOLD_OR_CONTEXT,yes,local,,0,,yes,,
+harvest-links.station,WRAPPER_PRESENT,yes,local,RUN.bat,1,config.json,no,,
+hdbscan-cluster.station,WRAPPER_PRESENT,yes,local,INSTALL.bat; RUN.bat; TEST.bat,1,config.json,no,,
+html-article.station,REVIEW_STALE_REFS,yes,local,RUN.bat,9,,no,,05_CLAIMS\README.md -> D:\brain | 05_CLAIMS\run_prompt.md -> D:\brain | 08_SECTION_VECTORS\README.md -> X:\Backside\workflows | 09_GRAPH_LINKS\README.md -> X:\Backside\workflows | configs\WORKER_ASSIGNMENTS.md -> X:\Backside\workflows | prompts\COWORK_REVIEW_PROMPT.md -> X:\Backside\workflows | prompts\QUICK_FIX_PASS.md -> X:\Backside\workflows | prompts\WORKER_DISPATCH.md -> X:\Backside\workflows
+image-processor.station,WRAPPER_PRESENT,yes,local,INSTALL.bat; RUN.bat; TEST.bat,2,config.json,no,,
+link-pull.station,WRAPPER_PRESENT,yes,local,INSTALL.bat; PASTE_AND_RUN.bat; RUN.bat; TROUBLESHOOT.bat; UPDATE.bat,1,config.json,no,,
+link-research.station,REVIEW_STALE_REFS,yes,remote,RUN.bat; run_engine.bat,16,pyproject.toml,yes,,README.REMOTE_PLACEHOLDER_20260601.md -> \\dlowenas\brain\Backside\apps
+lossless_context_pipeline,WRAPPER_PRESENT,yes,,RUN.bat,14,,yes,,
+master-equation-canon.station,WRAPPER_PRESENT,yes,local,RUN.bat,1,,yes,,
+math-layer.station,WRAPPER_PRESENT,yes,local,RUN_MATH_TTS_WORKFLOW.bat,19,package.json,yes,,
+math-translation-layer.station,WRAPPER_PRESENT,yes,local,RUN.bat; RUN_FIRST_LAYER_SWEEP.bat; RUN_MATH_TTS_WORKFLOW.bat,30,package.json,yes,,
+mda-publication.station,WRAPPER_PRESENT,yes,local,RUN.bat,3,config.json,yes,,
+metadata-extractor.station,SCAFFOLD_OR_CONTEXT,yes,local,,0,,yes,,
+obsidian-export.station,WRAPPER_PRESENT,yes,local,RUN.bat,2,,yes,,
+ollama,WRAPPER_PRESENT,no,,BATCH_REPROCESS_ALL.bat; RUN_OLLAMA_HANDOFF.bat,1,,no,,
+open-brain-map.station,SCAFFOLD_OR_CONTEXT,yes,local,,0,,no,,
+operators-canon.station,WRAPPER_PRESENT,yes,local,RUN.bat,1,,yes,,
+paper-grader-nlp.station,REVIEW_STALE_REFS,yes,local,RUN.bat,3,,yes,,README.md -> X:\brain | README.REMOTE_PLACEHOLDER_20260601.md -> \\dlowenas\brain\Backside\apps | paper-proof-grader\README.md -> D:\brain
+paper-intelligence-suite.station,WRAPPER_PRESENT,yes,local,INSTALL.bat; LAUNCH.bat; RUN.bat; RUN_7Q_GTQ.bat; RUN_LOCAL_PAPER_INTELLIGENCE.bat,80,pyproject.toml,yes,,
+paper-proof-grader.station,REVIEW_STALE_REFS,yes,local,RUN.bat; RUN_AXIOM_7Q_OPENAI_SAMPLE.bat; RUN_DOCKER_GTQ_ALL25.bat; RUN_FRUITS_OF_SPIRIT.bat; RUN_NOW_NO_PAUSE.bat,7,config.json,yes,,README.md -> D:\brain | _MIGRATION_NOTES\REMOTE_STUB_README_20260601-180457.md -> \\dlowenas\brain\Backside\apps
+paper-recommender.station,SCAFFOLD_OR_CONTEXT,yes,local,,0,,yes,,
+paperqa2.station,WRAPPER_PRESENT,yes,local,RUN.bat,59,pyproject.toml,yes,,
+postgres-sync.station,REVIEW_STALE_REFS,yes,local,CONNECT.bat; EXPORT.bat; IMPORT.bat; INSTALL.bat; LOAD_YOUTUBE_JSON.bat; RUN.bat,1,config.json,no,,db_utils.py -> D:\brain
+preference-engine.station,WRAPPER_PRESENT,yes,local,RUN.bat; START_BIL.bat,0,,yes,,
+readability-rewriter.station,SCAFFOLD_OR_CONTEXT,yes,local,,0,,yes,,
+sbert-embedder.station,WRAPPER_PRESENT,yes,local,INSTALL.bat; RUN.bat; TEST.bat,1,config.json,no,,
+section-splitter.station,SCAFFOLD_OR_CONTEXT,yes,local,,0,,yes,,
+series-flow-auditor.station,WRAPPER_PRESENT,yes,local,RUN.bat,1,,yes,,
+session-handoff-combined.station,SCAFFOLD_OR_CONTEXT,yes,local,,0,,no,,
+session-handoff-drop.station,WRAPPER_PRESENT,yes,local,RUN.bat,1,config.json,no,,
+summarizer.station,SCAFFOLD_OR_CONTEXT,yes,local,,0,,yes,,
+theophysics-engine.station,REVIEW_STALE_REFS,yes,local,RUN.bat,0,package.json,yes,,README.REMOTE_PLACEHOLDER_20260601.md -> \\dlowenas\brain\Backside\apps
+transcribe-and-classify.station,WRAPPER_PRESENT,yes,local,RUN.bat,1,config.json,no,,
+Treaties,WRAPPER_PRESENT,yes,,RUN.bat; RUN_PIPELINE.bat,69,pyproject.toml,yes,,
+trinity-canon.station,WRAPPER_PRESENT,yes,local,RUN.bat,1,,yes,,
+vault-rater-tsr100.station,WRAPPER_PRESENT,yes,,RUN.bat,1,,no,,
+whisper-transcribe.station,REVIEW_STALE_REFS,yes,local,INSTALL.bat; RUN.bat; TEST.bat,1,config.json,no,,TROUBLESHOOT.md -> D:\brain
+youtube-fetch.station,REVIEW_STALE_REFS,yes,local,INSTALL.bat; RUN.bat; TEST.bat,2,config.json,no,,TROUBLESHOOT.md -> D:\brain
+youtube-qa.station,REVIEW_STALE_REFS,yes,local,RUN.bat,1,config.json,yes,,README.md -> X:\Backside\workflows
+youtube-scrape.station,WRAPPER_PRESENT,yes,local,RUN.bat,1,config.json,no,,

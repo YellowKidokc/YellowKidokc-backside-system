@@ -1,0 +1,141 @@
+{
+  "paper_id": "MDA-035-great-reconfiguration",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-035-great-reconfiguration",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-035-great-reconfiguration\\JSON\\MDA-035-great-reconfiguration.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 12,
+  "failing_claim_count": 12,
+  "formal_marker_count": 3,
+  "failure_counts": {
+    "weak:Q5_falsifiability": 12,
+    "weak:Q6_boundary": 7,
+    "weak:Q3_mechanism": 10,
+    "weak:Q4_evidence": 9
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The General Social Survey (GSS) transitioned to a multimode format (in-person, web, and phone) starting in 2021 and 2022.7 Researchers must explicitly note that changes in attendance metrics (ATTEND) reported during this period may be artifacts of this methodological shift (\"mode effects\") rather than solely representing genuine social change.7 Finally, historical data from the **US Religion Census (RCMS)** provides valuable counts of congregations and adherents.10 However, because this data relies on denominational self-reporting, cross-tradition comparisons require adjusting for differing definitions of \"member,\" \"communicant,\" or \"adherent\" across Catholic, Protestant, and Evangelical traditions.10 --- I.C."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "2. **Modality:** It uses online-only services, a multi-site broadcast model, or develops parasocial \"congregations\" (e.g., Discord, YouTube Live) that perform church-like functions such as teaching and pastoral care."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Denominational data demonstrates that major traditions maintained their size relative to the rapidly expanding US population."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "Category I: The Mega-Scale and Centralization Phenomenon (1980–Present) The megachurch model constitutes the first major organizational adaptation to institutional decline."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "Individuals who attend worship services least often (one to three times a month) are demonstrably *more* likely than frequent attenders to agree that they have to \"do something for Him\" to receive material blessings from God (**49% versus 42%**).21 This connection suggests that a system of commodification of divine favor is replacing the communal model."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The prosperity teaching thus functions as a Ritual Substitution, reframing financial giving as a transaction that guarantees a material return, replacing traditional concepts of sacrifice or spiritual formation."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "House church networks, such as Roots Assembly of God, which operates as a decentralized network of 10 house churches rather than a single congregation, meet the Modality and Structure criteria for NTFs.22 This model offers discipleship and community without the high operational costs and institutional overhead of the traditional church."
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Quantifying the \"Saved Non-Attender\" Cohort Analysis of the 2023–2024 RLS data provides a measure of this detached cohort."
+    },
+    {
+      "index": 9,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "This detachment fuels NTF growth because NTFs are designed to meet this demand."
+    },
+    {
+      "index": 10,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Therefore, this segment is the most critical competitive battleground for the future of organized religious expression in the United States."
+    },
+    {
+      "index": 11,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "This leveling off should not be interpreted as a successful recovery of the traditional model, but rather the establishment of a **new, lower baseline** of nominal affiliation."
+    },
+    {
+      "index": 12,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

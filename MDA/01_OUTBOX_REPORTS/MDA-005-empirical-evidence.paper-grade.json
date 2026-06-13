@@ -1,0 +1,198 @@
+{
+  "paper_id": "MDA-005-empirical-evidence",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-005-empirical-evidence.md",
+  "generated_at": "2026-05-30T05:31:49",
+  "metrics": {
+    "word_count": 1125,
+    "section_count": 22,
+    "equation_count": 4,
+    "claim_candidate_count": 4,
+    "top_terms": "decline, points, 1973, constraint, domains, 1968, correlation, rate, html, social, coherence, years, should, transition, across"
+  },
+  "sections": [
+    {
+      "title": "Document Start",
+      "text": "---\nscrape_mode: markitdown_full\nsource_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-005-empirical-evidence.html\"\nsource_sha256: 8edf4761f847ecc7c6ff9fdc895fe19e86138e40da93845b8b42cd609c1f8210\ntitle: \"The Empirical Evidence — The Moral Decline of America\"\nmain_selector: \"main\"\nscraped_at: \"2026-05-25T13:22:47\"\n---\n[← Main Index](../index.html)\n|\n[Moral Decline](index.html)\n[← Prev](MDA-900-appendix-original-introduction.html)\n|\nNext →\nTheophysics Research • Series 6.8 • Part 4"
+    },
+    {
+      "title": "The Empirical Evidence",
+      "text": "Four predictions. Four tests. All confirmed.\n![Story Illustration](../images/mda/PHASE_TRANSITION conv 12.webp)\nAmerican data, 1900–2025\nDavid Lowe • Theophysics Institute\nIf social coherence (χ) is a real order parameter governed by constraint pressure (P), it makes specific, falsifiable predictions.\nNot vague directional claims. Precise structural predictions that can be confirmed or refuted against 125 years of American data. We tested four of them. Here is what the data returned."
+    },
+    {
+      "title": "The Four Predictions",
+      "text": "1\n**Cross-domain correlation** — All domains should move together, not independently\n2\n**Structural synchronization** — Phase transition should occur simultaneously across domains\n3\n**Threshold behavior** — Collapse should be sudden, not gradual\n4\n**Control group divergence** — Populations maintaining constraints should maintain coherence\n---"
+    },
+    {
+      "title": "Test 1: Cross-Domain Correlation",
+      "text": "**Null hypothesis:** The seven domains are independent phenomena. Expected correlation: R ≈ 0.\n**Our hypothesis:** The seven domains are repeated measurements of a single latent variable (χ). Expected correlation: R ≫ 0.\n**Method:** Compute pairwise Pearson correlations across all seven domain indices for the full measurement period (1940–2024, n = 11 time points).\nPairwise Pearson Correlation Matrix — Seven Domains, 1940–2024\n| | Family | Religious | Institutional | Education | Media | Economic | Social |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Family | 1.000 | — | — | — | — | — | — |\n| Religious | 0.984 | 1.000 | — | — | — | — | — |\n| Institutional | 0.996 | 0.989 | 1.000 | — | — | — | — |\n| Education | 0.994 | 0.995 | 0.990 | 1.000 | — | — | — |\n| Media | 0.993 | 0.967 | 0.991 | 0.978 | 1.000 | — | — |\n| Economic | 0.970 | 0.996 | 0.976 | 0.989 | 0.945 | 1.000 | — |\n| Social | 0.998 | 0.989 | 0.996 | 0.995 | 0.991 | 0.976 | 1.000 |"
+    },
+    {
+      "title": "Mean Correlation",
+      "text": "R̄ = 0.986"
+    },
+    {
+      "title": "Across all 21 domain pairs",
+      "text": "Fisher z-Test\nz = 7.44\np << 0.0001"
+    },
+    {
+      "title": "Threshold Exceeded",
+      "text": "21 / 21\nAll pairs exceed critical r = 0.602\nThe seven domains are not independent. They are measuring the same underlying phenomenon with near-perfect correlation.\n---"
+    },
+    {
+      "title": "Test 2: Structural Break Synchronization",
+      "text": "**Method:** Identify the period of maximum decline for each domain independently.\n**Null hypothesis:** If domains are independent, maximum decline periods should be distributed randomly across the century.\nMaximum Decline by Domain — 1940–2024\n| Domain | Largest Single-Period Decline | Year of Maximum Decline |\n| --- | --- | --- |\n| Media | −25 points | 1968 |\n| Family | −20 points | 1973 |\n| Institutional | −15 points | 1968 |\n| Social | −15 points | 1973 |\n| Religious | −10 points | 1968 |\n| Education | −10 points | 1973 |\n| Economic | −10 points | 1980 |\n**Six of seven domains show maximum decline in the 1968–1973 window.**\nIf maximum declines were uniformly distributed across 84 years (1940–2024), the probability of 6 or more domains peaking within the same 5-year window is:"
+    },
+    {
+      "title": "Probability of Coincidence",
+      "text": "![Story Illustration](../images/mda/PHASE_TRANSITION conv 8.webp)\np < 10-8\nThis is not coincidence. This is phase transition.\n---"
+    },
+    {
+      "title": "Test 3: Threshold Behavior",
+      "text": "**Prediction:** If this is a true phase transition, decline should be discontinuous — faster during the critical window than before or after.\n**Method:** Compare rate of decline across three distinct periods."
+    },
+    {
+      "title": "Decline Rate by Period",
+      "text": "| Period | Duration | Average Decline | Rate (points / year) |\n| --- | --- | --- | --- |\n| 1940–1960 | 20 years | 8.6 points | 0.43 |\n| 1960–1973 CRITICAL WINDOW | 13 years | 25.0 points | 1.92 |\n| 1973–2024 | 51 years | 38.9 points | 0.76 |\nvs. Post-Transition Period\n2.5x\nfaster decline at Tc than the subsequent 51 years\nvs. Pre-Transition Period\n4.5x\nfaster decline at Tc than the preceding 20 years\nThis is the signature of a critical transition — not gradual erosion, but rapid phase change.\n---"
+    },
+    {
+      "title": "Test 4: The Control Group",
+      "text": "If coherence collapse is caused by constraint removal, then populations that *rejected* constraint removal should maintain coherence. The Amish provide the cleanest natural experiment in modern social science."
+    },
+    {
+      "title": "Constraints the Amish Rejected Rejecting",
+      "text": "Did not adopt no-fault divorce"
+    },
+    {
+      "title": "Did not adopt fiat currency dependence",
+      "text": "Did not adopt mass media saturation"
+    },
+    {
+      "title": "Did not adopt the contraceptive revolution",
+      "text": "Maintained religious authority structures\n**Prediction:** χAmish(t) ≈ constant while χAmerica(t) → 0\nAmish vs. America — Key Coherence Metrics\n| Metric | America 1960 | America 2020 | Amish 2020 | Amish Δ |\n| --- | --- | --- | --- | --- |\n| Divorce rate (per 1,000) | 2.2 | 2.3\\* | <0.5 | Stable |\n| Out-of-wedlock births | 5% | 40% | <5% | Stable |\n| Weekly religious attendance | 49% | 22% | >95% | Stable |\n| Violent crime rate (per 100k) | 160 | 380 | Near zero | Stable |\n| Addiction prevalence | Low | 13%+ | <2% | Stable |\n| Generalized trust | 55% | 30% | >80% | Stable |\n\\*American divorce rate decline reflects marriage rate collapse, not family stability.\nSame genetics. Same geography. Same century. Different constraints. Different outcome.\n---"
+    },
+    {
+      "title": "The Constraint Removal Events",
+      "text": "What caused P to cross below Pc in 1968–1973? No single event caused the collapse. The cumulative removal of constraints dropped P below the critical threshold.\n| Year | Event | Constraint Removed | Domain Impact |\n| --- | --- | --- | --- |\n| 1968 | Hays Code collapse | Media censorship | Media: −25 pts |\n| 1968 | MLK / RFK assassinations | Authority legitimacy | Institutional: −15 pts |\n| 1969 | Woodstock / counterculture | Cultural norms | Social |\n| 1970 | No-fault divorce (CA) | Marital permanence | Family: −20 pts |\n| 1971 | Nixon closes gold window | Monetary discipline | Economic (delayed) |\n| 1972 | *Eisenstadt v. Baird* | Reproductive constraint | Family |\n| 1973 | *Roe v. Wade* | Reproductive constraint | Family |\n| 1973–74 | Watergate / Nixon resignation | Political trust | Institutional |\nEach event alone was survivable. Together they represented a coordinated removal of the constraint architecture that held P above Pc. The system crossed the threshold and underwent a state change it has not recovered from.\n---"
+    },
+    {
+      "title": "Summary of Evidence",
+      "text": "| Test | Prediction | Result | Significance |\n| --- | --- | --- | --- |\n| **Cross-domain correlation** | R̄ ≫ 0 | R̄ = 0.986 | p << 0.0001 |\n| **Structural synchronization** | Breaks in same window | 6/7 in 1968–1973 | p < 10−8 |\n| **Threshold behavior** | Discontinuous decline | 2.5x faster at Tc | Confirmed |\n| **Control group** | Amish χ stable | χ\\_Amish ≫ χ\\_America | Confirmed |\nAll four predictions confirmed.\nThese are not findings that support the model. They are the conditions under which the model would be falsified — and the model survived all four. Cross-domain unity at R̄ = 0.986. Simultaneous structural breaks at p < 10−8. A critical transition rate 2.5 times the background decay. A control population that maintained coherence under identical external conditions by maintaining constraints.\nThe hypothesis is confirmed. Social coherence (χ) behaves as a real order parameter. Constraint pressure (P) is the governing variable. The collapse of America's moral architecture between 1968 and 1973 was a phase transition — not a cultural drift, not a generational preference shift, not an inevitable evolution.\nA phase transition. With a cause. And a direction. And a way back.\n[Previous\nIntroduction](MDA-900-appendix-original-introduction.html)\n[Moral Decline Series](index.html)"
+    },
+    {
+      "title": "Next",
+      "text": "Implications & Falsifiability\nGenesis to Quantum • Theophysics Institute\nDavid Lowe • Theophysics Institute"
+    },
+    {
+      "title": "Related Work",
+      "text": "Core article, supporting evidence, and broader context\nRing 1 — This Article"
+    },
+    {
+      "title": "The core argument",
+      "text": "You are here.\nRing 2 — Supporting Evidence"
+    },
+    {
+      "title": "Deeper dives and formal treatments",
+      "text": "No connections mapped yet.\nRing 3 — Broader Context"
+    },
+    {
+      "title": "Related topics across the framework",
+      "text": "No connections mapped yet."
+    }
+  ],
+  "equations": [
+    "R̄ = 0.986",
+    "z = 7.44",
+    "All pairs exceed critical r = 0.602",
+    "| **Cross-domain correlation** | R̄ ≫ 0 | R̄ = 0.986 | p << 0.0001 |"
+  ],
+  "claims": [
+    {
+      "paper_id": "MDA-005-empirical-evidence",
+      "section": "Test 4: The Control Group",
+      "one_sentence_claim": "If coherence collapse is caused by constraint removal, then populations that *rejected* constraint removal should maintain coherence.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: coherence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-005-empirical-evidence",
+      "section": "Summary of Evidence",
+      "one_sentence_claim": "These are not findings that support the model.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: model",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "R̄ = 0.986",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-005-empirical-evidence",
+      "section": "Summary of Evidence",
+      "one_sentence_claim": "They are the conditions under which the model would be falsified — and the model survived all four.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: model",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "R̄ = 0.986",
+      "Q1_identity": "clear",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-005-empirical-evidence",
+      "section": "Related Work",
+      "one_sentence_claim": "Core article, supporting evidence, and broader context Ring 1 — This Article",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

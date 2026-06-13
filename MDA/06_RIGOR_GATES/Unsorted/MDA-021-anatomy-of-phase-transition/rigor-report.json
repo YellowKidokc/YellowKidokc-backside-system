@@ -1,0 +1,152 @@
+{
+  "paper_id": "MDA-021-anatomy-of-phase-transition",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-021-anatomy-of-phase-transition",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-021-anatomy-of-phase-transition\\JSON\\MDA-021-anatomy-of-phase-transition.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 13,
+  "failing_claim_count": 13,
+  "formal_marker_count": 0,
+  "failure_counts": {
+    "weak:Q4_evidence": 12,
+    "weak:Q5_falsifiability": 13,
+    "weak:Q6_boundary": 13,
+    "weak:Q3_mechanism": 4
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Not because this era was morally flawless — it wasn't."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "I want to name what was actually happening in the language of the equation, because this isn't nostalgia — it's [thermodynamics](/glossary/?term=thermodynamics \"See glossary: thermodynamics\")."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The observer function was high because the social architecture *demanded* engagement with the coherence sources."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The equation says this configuration produces rising coherence: dC/dt > 0."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Because the equation also reveals something the \"good old days\" narrative misses: the system was *brittle*."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "People attended church because that's what you did."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "People stayed married because divorce carried social stigma."
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "In equation terms: the observed C was artificially inflated by institutional enforcement."
+    },
+    {
+      "index": 9,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The gap between observed and actual coherence is the measure of the system's fragility."
+    },
+    {
+      "index": 10,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The answer, as we'll see in Part 4, was no — because the entropy release from justice correction was simultaneous with entropy release from multiple other sources."
+    },
+    {
+      "index": 11,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Let me leave you with the specific data points that define the baseline, because every subsequent part of this series will measure decline against these numbers: | Metric | Peak Value | Year | Source | | --- | --- | --- | --- | | Weekly Church Attendance | 49% | 1958 | Gallup | | Trust in Government | 73% | 1958 | NES/Pew | | Christian Identification | ~87% | ~1973 | Gallup | | Unmarried Adults 30-39 | 15% | ~1960 | Census | | Non-Marital Birth Rate (White) | 3.1% | 1965 | CDC | | Divorce Rate | 2.2/1000 | 1960 | Census | | SAT Verbal Score | 478 | ~1965 | College Board | | Union Membership | 34.8% | 1958 | BLS | | Pornography Access Index | 0 | 1900-1965 | Composite | | Composite Coherence Index | ~91 | 1940 | Composite | These are the numbers that fell."
+    },
+    {
+      "index": 12,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The equation was positive. dC/dt > 0."
+    },
+    {
+      "index": 13,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

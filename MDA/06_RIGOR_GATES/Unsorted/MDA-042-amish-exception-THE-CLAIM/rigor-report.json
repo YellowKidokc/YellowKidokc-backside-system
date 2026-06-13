@@ -1,0 +1,104 @@
+{
+  "paper_id": "MDA-042-amish-exception-THE-CLAIM",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-042-amish-exception-THE-CLAIM",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-042-amish-exception-THE-CLAIM\\JSON\\MDA-042-amish-exception-THE-CLAIM.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 8,
+  "failing_claim_count": 8,
+  "formal_marker_count": 0,
+  "failure_counts": {
+    "weak:Q3_mechanism": 5,
+    "weak:Q4_evidence": 8,
+    "weak:Q5_falsifiability": 8,
+    "weak:Q6_boundary": 8
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "--- scrape_mode: markitdown_full source_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-042-amish-exception-THE-CLAIM.html\" source_sha256: 454c7d7ea0eb1511a96e927f9832720a25540116692b134a7c660d5c464f8a21 title: \"The Amish Exception — Decline Was Not Inevitable\" main_selector: \"main\" scraped_at: \"2026-05-25T13:22:59\" --- [← Main Index](../index.html) | [Moral Decline](index.html) [Amish Proof →](MDA-044-amish-proof.html) [Genesis to Quantum](index.html)"
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "We know because we have a control group. ---"
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Principle: shared meaning requires shared information sources."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Principle: coherence requires boundaries."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Principle: coherence requires relationship."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Relationship requires scale limits. ---"
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Coherence didn’t collapse because modernity made it impossible."
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Coherence collapsed because we made choices — individually rational, collectively catastrophic — that destroyed it."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "paper_id": "MDA-001-story-introduction",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-001-story-introduction",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-001-story-introduction\\JSON\\MDA-001-story-introduction.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:28",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 7,
+  "failing_claim_count": 7,
+  "formal_marker_count": 4,
+  "failure_counts": {
+    "weak:Q4_evidence": 7,
+    "weak:Q5_falsifiability": 7,
+    "weak:Q6_boundary": 6,
+    "weak:Q3_mechanism": 3
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Not because the men change - but because the world around them changes."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "* -Samuel's father tells him the truth, and it matches Samuel's world. **Delta â‰ˆ 0.** * -Samuel tells Henry the truth, and it mostly matches. **Delta is small.** * -Henry tells Bill the truth, and it still matches. **Delta is small.** * -Bill tells Tom the truth, and *Tom feels the gap.* **Delta is growing.** * -Tom tells Jake almost nothing - because what can he say? **Delta â†’ âˆž.** * -Jake, finally, passes it on to a young man named Tyler. **The chain begins again.**"
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Remove the constraints, and behavior changes - not because people become evil, but because people are adaptive."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "*What was once imposed can now be chosen.* Samuel stayed because he had no choice."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "Each generation lives inside a different technological environment: | Era | Technology | Pace | Silence | | --- | --- | --- | --- | | 1900 | None | Walk pace; 6-mile journey to see a girl | Total; stars and crickets | | 1926 | Radio, Model T | Shrinking distance; voices from far away | Invaded 1hr/night | | 1950 | Television | 4hrs/day; images of strangers | Family gathers around one screen | | 1974 | TV everywhere, The Pill | 6hrs/day; chaos in living room | Can't remember last silence | | 1998 | Internet, early phones | Always on; infinite scroll begins | Notifications interrupt thought | | 2025 | Smartphone, AI, dating apps | 7+ hours screen time | Must be \\*chosen\\* | Technology is not the villain."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Self-control. ![Story Illustration](../images/mda/Phantom_Money_Phantom_Morals conv 12.webp) Each of these requires time and structure to develop."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 â€” This Article"
+    }
+  ]
+}

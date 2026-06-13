@@ -1,0 +1,82 @@
+{
+  "paper_id": "MDA-030-trinity-mechanism",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-030-trinity-mechanism",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-030-trinity-mechanism\\JSON\\MDA-030-trinity-mechanism.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 6,
+  "failing_claim_count": 6,
+  "formal_marker_count": 7,
+  "failure_counts": {
+    "weak:Q4_evidence": 5,
+    "weak:Q5_falsifiability": 6,
+    "weak:Q6_boundary": 5,
+    "weak:Q3_mechanism": 5
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "At the heart of Theophysics is the **χ-field (Chi-field)** — the substrate of reality described by the Master Equation."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "A system with zero potential is \"Nothing.\" THEREFORE: Every functioning reality requires a Generator of Potential (Source)."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Infinite potential without structure is merely \"Chaos\" or \"Noise.\" THEREFORE: Every functioning reality requires an Organizer of Pattern (Logos)."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "THEREFORE: Every functioning reality requires an Agent of Actualization (Execution)."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "The Actualizer (Life) This proves that the Trinity is not an analogy \"like\" a system."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

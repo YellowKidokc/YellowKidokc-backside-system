@@ -1,0 +1,82 @@
+{
+  "paper_id": "MDA-012-william-1950",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-012-william-1950",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-012-william-1950\\JSON\\MDA-012-william-1950.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:28",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 6,
+  "failing_claim_count": 6,
+  "formal_marker_count": 2,
+  "failure_counts": {
+    "weak:Q3_mechanism": 3,
+    "weak:Q4_evidence": 6,
+    "weak:Q5_falsifiability": 6,
+    "weak:Q6_boundary": 6
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Television shows you how other people live."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "People are marrying younger - because they can afford to. * -Fertility rate: 3.0 children per woman, rising toward 3.7 by 1957."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The late shows, the news, the glimpses of a wider world."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The system functions not because constraint pressure is uniformly strong, but because **redundancy remains**."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Williamâ€™s generation unintentionally commits the central error: **they mistake inherited coherence for proof that constraints are unnecessary.** Because the system feels safe, they conclude that virtue is self-sustaining and freedom is costless."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 â€” This Article"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "paper_id": "MDA-009-the-1900-baseline",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-009-the-1900-baseline.md",
+  "generated_at": "2026-05-30T05:31:50",
+  "metrics": {
+    "word_count": 1289,
+    "section_count": 33,
+    "equation_count": 14,
+    "claim_candidate_count": 7,
+    "top_terms": "what, were, people, your, html, meant, they, numbers, practice, part, moral, rate, because, decline, coherence"
+  },
+  "sections": [
+    {
+      "title": "Document Start",
+      "text": "---\nscrape_mode: markitdown_full\nsource_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-009-the-1900-baseline.html\"\nsource_sha256: 483072069551d1e0577eb22486bb20120478bea1677c5ec5b43be9c84936309d\ntitle: \"Part 3: The 1900 Baseline — The Moral Decline of America\"\nmain_selector: \"main\"\nscraped_at: \"2026-05-25T13:22:48\"\n---\n[← Main Index](../index.html)\n|\n[Moral Decline](index.html)\n[← Prev](MDA-007-nine-domains.html)\n|\n[Next: Part 4 →](MDA-015-long-decline.html)\n[Moral Decline of America](index.html)"
+    },
+    {
+      "title": "Part-Series",
+      "text": "Part 3 of 10\n[Next](MDA-015-long-decline.html)\nTheophysics Research • MDA Part-Series"
+    },
+    {
+      "title": "PART 03 OF 10",
+      "text": "# The 1900 Baseline\nWhat χ = 0.85 actually looked like — not paradise, but a coherent system where the parts fit together.\n![Story Illustration](../images/mda/PHASE_TRANSITION conv 5.webp)\nDavid Lowe • Theophysics Institute\n[The Coherence Factor](/glossary/?term=the-coherence-factor \"See glossary: The Coherence Factor\")\n**The Coherence Factor (χ)** measures the degree to which a civilization's subsystems—families, institutions, trust networks, moral frameworks, and information flows—remain internally consistent, mutually reinforcing, and capable of coordinated action.\nχ = 1.0 means perfect alignment. χ = 0.0 means total fragmentation.\nCurrent U.S. χ: **≈ 0.27**\nCritical Threshold: **0.35**\nStatus: **Threshold Crossed**\nBefore we trace the decline, we need to understand what we lost.\nWhat did America look like when χ = 0.85?\nNot paradise. Not a golden age. Real problems existed.\nBut coherence was high. The systems reinforced each other. The center held.\nHere's what that looked like.\n---"
+    },
+    {
+      "title": "Family",
+      "text": "χF = 0.92"
+    },
+    {
+      "title": "The numbers",
+      "text": "* 95% of children lived with both biological parents\n* Divorce rate: 0.7 per 1,000 (vs. 2.4 today)\n* Out-of-wedlock birth rate: 3% (vs. 40% today)\n* Average age at first marriage: 22 (women), 26 (men)\n* Average household size: 4.6 people"
+    },
+    {
+      "title": "What it meant in practice",
+      "text": "You were born into an intact family. Your parents stayed married. Your grandparents lived nearby—often in the same house. Your aunts, uncles, and cousins were within walking distance.\nWhen you had problems, you had people. Not programs. Not professionals. People who knew you, owed you, and would be ashamed if they didn't help.\nFamily wasn't an option. It was the default. The structure everyone operated within."
+    },
+    {
+      "title": "Trust",
+      "text": "χT = 0.85"
+    },
+    {
+      "title": "The numbers",
+      "text": "* 75%+ reported trusting \"most people\"\n* Handshake deals were legally and socially binding\n* Contracts were short—often one page\n* Neighbors left doors unlocked"
+    },
+    {
+      "title": "What it meant in practice",
+      "text": "If someone gave you their word, that meant something. Not because people were more virtuous, but because reputation was everything and communities were small enough to enforce it.\nYou couldn't cheat someone and disappear. Everyone would know by next Sunday.\nTrust wasn't naive. It was rational. The consequences of betrayal were real and immediate."
+    },
+    {
+      "title": "Safety",
+      "text": "χS = 0.75"
+    },
+    {
+      "title": "The numbers",
+      "text": "* Homicide rate: ~1 per 100,000 (rural areas)\n* Higher in cities (especially industrial centers)\n* Child safety: Kids roamed freely\n* Property crime: Present but lower"
+    },
+    {
+      "title": "What it meant in practice",
+      "text": "Children walked to school alone. They played outside until dark. Doors were unlocked.\nThis wasn't because people were stupid. It was because the community was the surveillance system. Everyone knew everyone's children. Strangers were noticed immediately.\nViolence existed—especially in cities. But the baseline assumption was safety, not danger."
+    },
+    {
+      "title": "Self-Control",
+      "text": "χC = 0.80"
+    },
+    {
+      "title": "The numbers",
+      "text": "* Obesity rate: ~5% (vs. 42% today)\n* Alcohol consumption: Higher per capita but more regulated socially\n* Consumer debt: Near zero (credit didn't exist for most people)\n* Savings rate: 15–20% of income"
+    },
+    {
+      "title": "What it meant in practice",
+      "text": "You ate what you grew or what you could afford. Overeating was physically difficult—food required preparation.\nDebt was shameful. You saved before you bought. \"Living beyond your means\" was a moral failing, not a lifestyle.\nImpulse control was reinforced by necessity. You couldn't have things immediately. Delayed gratification wasn't a choice—it was the only option."
+    },
+    {
+      "title": "Mental Health",
+      "text": "χM = 0.82"
+    },
+    {
+      "title": "The numbers",
+      "text": "* Suicide rate: ~10 per 100,000 (similar to today, but different demographics)\n* Depression diagnosis: Rare (though measurement methods differed)\n* \"Deaths of despair\": Not a category\n* Psychiatric medication: Virtually none"
+    },
+    {
+      "title": "What it meant in practice",
+      "text": "People had hard lives. Genuine suffering. Loss, grief, poverty, pain.\nBut they also had meaning. Purpose. Community. Belonging.\nYou knew who you were. You knew where you fit. You had a role to play and people who depended on you.\nMeaninglessness—the sense that nothing matters—was rare. Life was hard but not empty."
+    },
+    {
+      "title": "Economic",
+      "text": "χE = 0.78"
+    },
+    {
+      "title": "The numbers",
+      "text": "* Home ownership: 47% (lower than today's ~66%)\n* Household savings rate: 15–20%\n* Bankruptcy rate: Low\n* Multi-generational wealth transfer: Common"
+    },
+    {
+      "title": "What it meant in practice",
+      "text": "Most people didn't own much. But what they owned, they owned outright. No mortgage. No car payment. No credit card debt.\nYour grandfather's farm became your father's farm became your farm. Wealth accumulated across generations, slowly but surely.\nYou expected your children to be better off than you. And they usually were.\n![Story Illustration](../images/mda/The_1962_Software_Crash conv 2.webp)"
+    },
+    {
+      "title": "Civic",
+      "text": "χP = 0.88"
+    },
+    {
+      "title": "The numbers",
+      "text": "* Civic organization membership: 60%+ of adults\n* Church attendance: 40% weekly\n* Voter participation: ~70% in major elections\n* Volunteer rates: Immeasurable (not tracked because it was assumed)"
+    },
+    {
+      "title": "What it meant in practice",
+      "text": "You belonged to things. The church. The Elks. The Masons. The women's auxiliary. The volunteer fire department. The PTA before there was a PTA.\nThese weren't resume items. They were your social fabric. Where you met people. Where you helped people. Where people helped you.\nBowling alone wasn't a concept—because nobody bowled alone."
+    },
+    {
+      "title": "Shared Meaning",
+      "text": "χΣ = 0.90"
+    },
+    {
+      "title": "The numbers",
+      "text": "* Religious affiliation: 96%\n* Weekly church attendance: 40%\n* Shared moral framework: Near-universal Christian consensus\n* Common information sources: Local newspaper, church, community"
+    },
+    {
+      "title": "What it meant in practice",
+      "text": "Everyone knew the same stories. Adam and Eve. The Prodigal Son. The Good Samaritan. You didn't have to explain them—everyone got the reference.\nRight and wrong were agreed upon. Not perfectly—debates existed—but the framework was shared. Adultery was wrong. Theft was wrong. Lying was wrong. These weren't opinions. They were facts.\nMoral disagreements happened within a shared framework, not across incommensurable worldviews."
+    },
+    {
+      "title": "Intergenerational",
+      "text": "χI = 0.92"
+    },
+    {
+      "title": "The numbers",
+      "text": "* Children learned from parents: ~70% entered parents' profession or close variant\n* Three-generation households: 25%\n* Elder care by family: ~90%\n* Cultural/religious continuity: 95%+"
+    },
+    {
+      "title": "What it meant in practice",
+      "text": "Your grandfather taught your father who taught you. Skills, values, stories, wisdom—transmitted directly.\nWhen you got old, your children took care of you. Not the government. Not a nursing home. Your children. In your home. Or theirs.\nThe old were repositories of wisdom, not burdens to warehouse. Because they had something you needed: knowledge of how to live.\n---"
+    },
+    {
+      "title": "The Coherence Picture",
+      "text": "Composite\nχ = 0.85\nThe 1900 baseline. Not perfect — but coherent.\nNot perfect. Real problems existed:\n* Racism was structural and brutal\n* Women had limited options\n* Poverty was grinding\n* Medicine was primitive\n* Child mortality was high\nBut the systems reinforced each other.\nFamily supported trust. Trust supported community. Community supported meaning. Meaning supported self-control. Self-control supported family.\nIt was a **coherent** system. The parts fit together.\nThat's what we lost.\n---"
+    },
+    {
+      "title": "The Question",
+      "text": "We're not arguing for returning to 1900. We couldn't if we wanted to.\nBut we need to understand what coherence looked like when we had it.\nBecause you can't restore what you can't see.\nAnd right now, most people can't see it. They've never experienced it. They don't even know what they're missing.\n**χ = 0.85** wasn't perfect.\nBut **χ = 0.27** is catastrophic.\nThe next three parts trace how we got from one to the other.\n1900: χ = 0.85\n2024: χ = 0.27\nCoherence isn't automatic.\nIt can be lost.\nWe lost it.\nNext: Part 4 — The Long Decline (1900–1965).\n*The slow erosion no one noticed until it was too late.*\n[Previous: Part 2\nThe Nine Domains](MDA-007-nine-domains.html)"
+    },
+    {
+      "title": "Part 3 of 10",
+      "text": "[Next: Part 4\nThe Long Decline](MDA-015-long-decline.html)\nMoral Decline of America • Theophysics Institute\nDavid Lowe • Theophysics Institute • 2024-2026"
+    }
+  ],
+  "equations": [
+    "[The Coherence Factor](/glossary/?term=the-coherence-factor \"See glossary: The Coherence Factor\")",
+    "What did America look like when χ = 0.85?",
+    "χF = 0.92",
+    "χT = 0.85",
+    "χS = 0.75",
+    "χC = 0.80",
+    "χM = 0.82",
+    "χE = 0.78",
+    "χP = 0.88",
+    "χΣ = 0.90",
+    "χI = 0.92",
+    "χ = 0.85",
+    "1900: χ = 0.85",
+    "2024: χ = 0.27"
+  ],
+  "claims": [
+    {
+      "paper_id": "MDA-009-the-1900-baseline",
+      "section": "What it meant in practice",
+      "one_sentence_claim": "Not because people were more virtuous, but because reputation was everything and communities were small enough to enforce it.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-009-the-1900-baseline",
+      "section": "What it meant in practice",
+      "one_sentence_claim": "This wasn't because people were stupid.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-009-the-1900-baseline",
+      "section": "What it meant in practice",
+      "one_sentence_claim": "It was because the community was the surveillance system.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-009-the-1900-baseline",
+      "section": "The numbers",
+      "one_sentence_claim": "* Civic organization membership: 60%+ of adults * Church attendance: 40% weekly * Voter participation: ~70% in major elections * Volunteer rates: Immeasurable (not tracked because it was assumed)",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-009-the-1900-baseline",
+      "section": "What it meant in practice",
+      "one_sentence_claim": "Bowling alone wasn't a concept—because nobody bowled alone.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-009-the-1900-baseline",
+      "section": "What it meant in practice",
+      "one_sentence_claim": "Because they had something you needed: knowledge of how to live. ---",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-009-the-1900-baseline",
+      "section": "The Question",
+      "one_sentence_claim": "Because you can't restore what you can't see.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "χ = 0.85",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

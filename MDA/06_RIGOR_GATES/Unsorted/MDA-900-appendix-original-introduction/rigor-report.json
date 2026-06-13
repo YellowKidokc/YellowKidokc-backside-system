@@ -1,0 +1,153 @@
+{
+  "paper_id": "MDA-900-appendix-original-introduction",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-900-appendix-original-introduction",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-900-appendix-original-introduction\\JSON\\MDA-900-appendix-original-introduction.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:30",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 13,
+  "failing_claim_count": 13,
+  "formal_marker_count": 1,
+  "failure_counts": {
+    "weak:Q4_evidence": 9,
+    "weak:Q5_falsifiability": 11,
+    "weak:Q6_boundary": 12,
+    "weak:Q3_mechanism": 11
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Because I'm about to do something that will make some people uncomfortable."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "This series is about what happens when you point the equation at the United States of America between 1900 and 2025 and let the data speak."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Run the coherence equation on this data and something precise falls out."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence"
+      ],
+      "claim": "Then, in a window narrower than any purely sociological model predicts, G dropped and S spiked simultaneously."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The equation says: when O · G drops below the entropy threshold, coherence doesn't decline linearly."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "That's exactly what the data shows."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The fissures nobody noticed because the surface still looked solid."
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Each maps the domain's variables onto the Master Equation and shows what the physics predicts — and what actually happened."
+    },
+    {
+      "index": 9,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "400,000 people who rejected every variable the equation says would destroy coherence — and who are now the fastest-growing demographic in North America with an 85% retention rate, a 20-year population doubling time, and a 95% business survival rate."
+    },
+    {
+      "index": 10,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The experimental proof that the equation works in reverse."
+    },
+    {
+      "index": 11,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Every claim is grounded in publicly available data from the U.S."
+    },
+    {
+      "index": 12,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The same equation governs [quantum decoherence](/glossary/?term=quantum-decoherence \"See glossary: quantum decoherence\") and moral decay."
+    },
+    {
+      "index": 13,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

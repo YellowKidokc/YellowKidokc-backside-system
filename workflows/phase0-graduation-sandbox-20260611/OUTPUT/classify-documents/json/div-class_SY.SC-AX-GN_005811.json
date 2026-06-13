@@ -1,0 +1,59 @@
+{
+  "path": "div-class_SY.SC-AX-GN_005811.html",
+  "embedding_dim": 384,
+  "classification": {
+    "label": "slavery in the Bible",
+    "score": 0.3333333333333333,
+    "labels": [
+      "slavery in the Bible",
+      "God of the gaps",
+      "evidence for God existence",
+      "problem of evil and suffering",
+      "prayer does not work",
+      "resurrection of Jesus",
+      "Bible contradictions",
+      "evolution vs creation",
+      "Old Testament violence",
+      "religion as coping mechanism",
+      "Bible written by humans",
+      "religion causes harm",
+      "morality without God",
+      "religious indoctrination",
+      "intelligent design fine tuning",
+      "which God is real",
+      "ontological argument",
+      "God is unfalsifiable",
+      "cherry picking Bible",
+      "cosmological argument",
+      "divine hiddenness"
+    ],
+    "scores": [
+      0.3333333333333333,
+      0.3333333333333333,
+      0.25,
+      0.25,
+      0.25,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "engine": "deterministic-fallback"
+  },
+  "embedding_engine": "deterministic-fallback",
+  "engine_notes": [
+    "model_mode=fallback"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "paper_id": "MDA-007-nine-domains",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-007-nine-domains",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-007-nine-domains\\JSON\\MDA-007-nine-domains.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:28",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 3,
+  "failing_claim_count": 3,
+  "formal_marker_count": 0,
+  "failure_counts": {
+    "weak:Q3_mechanism": 2,
+    "weak:Q4_evidence": 3,
+    "weak:Q5_falsifiability": 3,
+    "weak:Q6_boundary": 3
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Without it, every transaction requires verification, every promise requires enforcement, and coordination becomes impossible."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "That's why χ isn't just an average—it's a measure of **systemic failure**. ---"
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Because that's the level below which **no civilization in recorded history has self-corrected**."
+    }
+  ]
+}

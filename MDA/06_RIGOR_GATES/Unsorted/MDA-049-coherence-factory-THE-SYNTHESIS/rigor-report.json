@@ -1,0 +1,124 @@
+{
+  "paper_id": "MDA-049-coherence-factory-THE-SYNTHESIS",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-049-coherence-factory-THE-SYNTHESIS",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-049-coherence-factory-THE-SYNTHESIS\\JSON\\MDA-049-coherence-factory-THE-SYNTHESIS.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:30",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 10,
+  "failing_claim_count": 10,
+  "formal_marker_count": 0,
+  "failure_counts": {
+    "weak:Q4_evidence": 10,
+    "weak:Q5_falsifiability": 10,
+    "weak:Q6_boundary": 10,
+    "weak:Q3_mechanism": 5
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "A people frozen in 1850, opting out of modern life because they cannot or will not keep up."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Run the equation on them and a different picture emerges."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "We start with the architecture — the seven structural rules that keep the membrane intact — and the single axiom that generates them all. ---"
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "It *artificially imposes* distance and friction so that interactions remain high-cost and therefore high-value."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "It is banned because it dissolves the bond."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Conservative districts even regulate the *capacity* of solar arrays, because too much surplus power recreates the grid by other means."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The algorithm calls it a brilliant filter. *Owning* a car restructures time, budget, and identity — it produces a sovereign individual who can leave at will. *Hiring* a car is expensive, requires planning, involves a third party, and leaves the user a tethered community member who is temporarily borrowing speed."
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The Amish do not look like the past because they were left behind."
+    },
+    {
+      "index": 9,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "They look like the past because they are running the only algorithm that has been empirically demonstrated to produce coherence at scale across multiple generations of accelerating entropy."
+    },
+    {
+      "index": 10,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

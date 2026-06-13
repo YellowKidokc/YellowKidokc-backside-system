@@ -1,0 +1,157 @@
+{
+  "paper_id": "MDA-038-coherence-metric",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-038-coherence-metric",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-038-coherence-metric\\JSON\\MDA-038-coherence-metric.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 13,
+  "failing_claim_count": 13,
+  "formal_marker_count": 3,
+  "failure_counts": {
+    "weak:Q3_mechanism": 12,
+    "weak:Q4_evidence": 11,
+    "weak:Q5_falsifiability": 12,
+    "weak:Q6_boundary": 12
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "## Abstract This paper introduces the **Coherence Metric** (χ), a quantitative measure of structural integrity derived from phase transition physics."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The question this paper addresses is simple: **Can physics measure moral decay?** Not metaphorically."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The claim is that structural integrity—whether in bridges, bodies, or civilizations—follows the same mathematical laws."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "The equation is not limited to a single domain."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The pattern maps perfectly to the coherence equation with the gold standard as P<sub>c</sub>."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "A5 Recovery requires **constraint restoration** (increasing P toward P<sub>c</sub>), not symptom management."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Test \\| Prediction \\| Kill Condition\\ T1 \\| Nine-domain overlay shows synchronized inflection at 1968–1973 \\| Inflection points are randomly distributed (p \\> 0.05)\\ T2 \\| χ curve-fit to \\|P − P c \\| β achieves R² \\> 0.85 across domains \\| Curve fit fails (R² \\< 0.70)\\ T3 \\| Cross-domain correlation matrix shows statistically significant clustering \\| Domains are statistically independent\\ T4 \\| Constraint removal events precede coherence collapse (Granger causality) \\| Collapse precedes constraint removal\\ T5 \\| Partial constraint restoration produces measurable χ increase \\| No coherence response to constraint restoration ------------------------------------------------------------------------"
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "1\\. **Correlation is not causation.** Synchronization is statistically anomalous, but the causal mechanism requires further formal analysis beyond Granger causality."
+    },
+    {
+      "index": 9,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "3\\. **β universality requires replication.** The mean β = 0.41 is consistent with known universality classes but requires independent replication across additional longitudinal datasets."
+    },
+    {
+      "index": 10,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The result is a natural experiment with an observable outcome. ~0%"
+    },
+    {
+      "index": 11,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Structural coherence = demographic survival The equation works in reverse."
+    },
+    {
+      "index": 12,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The equation does not care about your interpretation."
+    },
+    {
+      "index": 13,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "If they are not restored, the equation continues to run, and the output continues toward zero. ------------------------------------------------------------------------"
+    }
+  ]
+}

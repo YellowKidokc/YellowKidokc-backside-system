@@ -1,0 +1,65 @@
+{
+  "paper_id": "MDA-045-amish-control-group-THE-DATA",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-045-amish-control-group-THE-DATA",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-045-amish-control-group-THE-DATA\\JSON\\MDA-045-amish-control-group-THE-DATA.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:30",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 5,
+  "failing_claim_count": 5,
+  "formal_marker_count": 1,
+  "failure_counts": {
+    "weak:Q4_evidence": 3,
+    "weak:Q5_falsifiability": 5,
+    "weak:Q6_boundary": 4
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Those problems are acknowledged here because they make the coherence argument *stronger*, not weaker."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "* Total active mental illness cases identified112 / 12,500 * Overall prevalence of any mental illness~0.9% * Major depression prevalence (Amish)~0.33% * U.S. general population (same era)~5–6% Source: *American Journal of Psychiatry* 140 (1983): 56–61, 62–66, 67–71. ~1/15 Amish depression rate vs. national average A critical methodological note from Egeland: because alcohol abuse, drug abuse, and sociopathy were “essentially absent” in the Amish community, diagnosis was *cleaner* than in general population studies."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "Structural factors that enable this: * Patriarchal authority structures * Theology of forgiveness that pressures victims to reconcile * Cultural reluctance to involve “English” law enforcement * Limited access to outside support services * No reliable prevalence data because reporting rates are extremely low **No system built on human authority is immune to the abuse of that authority.** The Amish binding variable (external authority/Ordnung) constrains entropy — but when the authority itself becomes the source of harm, the system’s own design impedes correction."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The car is banned not because it is complex, but because it dissolves geographic necessity."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The television is banned not because it is entertaining, but because it replaces active participation with passive consumption."
+    }
+  ]
+}

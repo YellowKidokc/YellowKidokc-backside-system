@@ -1,0 +1,16 @@
+{
+  "name": "link-pull-drop",
+  "description": "Drop a txt or markdown file of links. YouTube links get transcript-first handling plus optional media download. Web links get fetched, HTML-saved, and text-extracted.",
+  "input_dir": "X:\\captures\\links\\DROP_HERE",
+  "output_dir": "X:\\captures\\links\\OUTPUT",
+  "archive_dir": "X:\\captures\\links\\ARCHIVE",
+  "youtube_output_dir": "X:\\captures\\links\\OUTPUT\\youtube",
+  "web_output_dir": "X:\\captures\\links\\OUTPUT\\web",
+  "text_extensions": [".txt", ".md"],
+  "download_youtube_media": true,
+  "fetch_web_pages": true,
+  "user_agent": "Mozilla/5.0 (compatible; BrainLinkPuller/1.0; +Theophysics)",
+  "timeout_sec": 30,
+  "max_web_chars": 40000,
+  "log_dir": "X:\\brain\\_LOGS"
+}

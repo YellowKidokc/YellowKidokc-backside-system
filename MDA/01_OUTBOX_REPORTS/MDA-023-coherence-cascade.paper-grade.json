@@ -1,0 +1,86 @@
+{
+  "paper_id": "MDA-023-coherence-cascade",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-023-coherence-cascade.md",
+  "generated_at": "2026-05-30T05:31:52",
+  "metrics": {
+    "word_count": 383,
+    "section_count": 11,
+    "equation_count": 2,
+    "claim_candidate_count": 1,
+    "top_terms": "2025, 1974, 1998, words, collapse, semantic, 1950, html, coherence, cascade, first, across, story, then, familial"
+  },
+  "sections": [
+    {
+      "title": "Document Start",
+      "text": "---\nscrape_mode: markitdown_full\nsource_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-023-coherence-cascade.html\"\nsource_sha256: 933597a936677acde1b88060f483e9a3f0ed36a5a400cd42e7a94fb622605d1d\ntitle: \"The Coherence Cascade: Words Fail First\"\nmain_selector: \"div.container\"\nscraped_at: \"2026-05-25T13:22:52\"\n---\n[← Main Index](/index.html)\n|"
+    },
+    {
+      "title": "Moral Decline of America",
+      "text": "# The Coherence Cascade\nTracking the Four-Domain Collapse Across Six Generations (1900â€“2025)\n![Story Illustration](../images/mda/Signal_Blackout conv 1.webp)\n**The Hypothesis:** Social coherence collapses in a predictable sequence.\n**Words fail first**â€”semantic meaning erodes before structures collapse.\nThen **Family**, then **Institutions**, then **Economy**.\nThe data across 125 years confirms this cascade.\n| Year | Story | SEMANTIC | FAMILIAL | INSTITUTIONAL | ECONOMIC | Status |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1900 | Samuel | 98 | 95 | 92 | 90 | BASELINE |\n| 1926 | Henry | 90 | 93 | 90 | 85 | THINNING |\n| 1950 | William | 75 | 88 | 90 | 92 | FALSE PEAK |\n| 1974 | Thomas | 40 | 50 | 45 | 65 | PHASE TRANSITION |\n| 1998 | Jacob I | 25 | 35 | 35 | 45 | RUBBLE |\n| 2025 | Jacob II | 18 | 20 | 18 | 25 | BOTTOM |"
+    },
+    {
+      "title": "THE PATTERN IS CLEAR",
+      "text": "**SEMANTIC** drops first: 98 â†’ 90 â†’ 75 â†’ 40 â†’ 25 â†’ 18\n**FAMILIAL** follows: 95 â†’ 93 â†’ 88 â†’ 50 â†’ 35 â†’ 20\n**INSTITUTIONAL** third: 92 â†’ 90 â†’ 90 â†’ 45 â†’ 35 â†’ 18\n**ECONOMIC** last: 90 â†’ 85 â†’ 92 â†’ 65 â†’ 45 â†’ 25"
+    },
+    {
+      "title": "Causal Events by Domain",
+      "text": "### SEMANTIC DRIFT\n* 1926 Henry must EXPLAIN \"duty\" to sons\n* 1950 Words become advertising slogans\n* 1974 \"Integrity\" only used as accusation\n* 1998 \"Friend\" = screen name\n* 2025 Words require conscious CHOICE"
+    },
+    {
+      "title": "FAMILIAL COLLAPSE",
+      "text": "* 1950 \"Ball and chain\" jokes begin\n* 1969 California no-fault divorce\n* 1974 Divorce rate 4.6/1000\n* 1998 33% unmarried age 30-39\n* 2025 46% unmarried, family optional"
+    },
+    {
+      "title": "INSTITUTIONAL COLLAPSE",
+      "text": "* 1958 Peak trust: 73%\n* 1974 Watergate: trust drops to 36%\n* 1998 \"They all lie\" as baseline\n* 2025 Record lows: <20% trust"
+    },
+    {
+      "title": "ECONOMIC UNMOORING",
+      "text": "* 1971 Nixon ends gold standard\n* 1974 Inflation hits 12.3%\n* 1998 Two incomes = one 1950 income\n* 2025 Gig economy, no pensions\nThe Moral Decay of America Project | Theophysics Research\nData derived from Census, Gallup, Pew, BLS, FBI UCR, and primary historical sources\n![Story Illustration](../images/mda/The_Observer_Collapsed conv 1.webp)"
+    },
+    {
+      "title": "Related Work",
+      "text": "Core article, supporting evidence, and broader context\nRing 1 â€” This Article"
+    },
+    {
+      "title": "The core argument",
+      "text": "You are here.\nRing 2 â€” Supporting Evidence"
+    },
+    {
+      "title": "Deeper dives and formal treatments",
+      "text": "No connections mapped yet.\nRing 3 â€” Broader Context"
+    },
+    {
+      "title": "Related topics across the framework",
+      "text": "No connections mapped yet."
+    }
+  ],
+  "equations": [
+    "* 1998 \"Friend\" = screen name",
+    "* 1998 Two incomes = one 1950 income"
+  ],
+  "claims": [
+    {
+      "paper_id": "MDA-023-coherence-cascade",
+      "section": "Related Work",
+      "one_sentence_claim": "Core article, supporting evidence, and broader context Ring 1 â€” This Article",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

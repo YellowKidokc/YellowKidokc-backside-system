@@ -1,0 +1,192 @@
+{
+  "paper_id": "MDA-054-way-back",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-054-way-back",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-054-way-back\\JSON\\MDA-054-way-back.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:30",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 17,
+  "failing_claim_count": 16,
+  "formal_marker_count": 1,
+  "failure_counts": {
+    "weak:Q3_mechanism": 12,
+    "weak:Q4_evidence": 16,
+    "weak:Q5_falsifiability": 14,
+    "weak:Q6_boundary": 13
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The equation doesn't prescribe what β must be."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Not because people are evil, but because the shared meaning that makes correction *possible* has dissolved.\""
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "When Drift exceeds Coherence (δ > χ), internal reform becomes impossible — because the instruments of reform (courts, bureaucracy, money) are themselves corrupted by Drift."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Therefore: **Recovery = f(Grace) or f(ΔCoherence), but NOT f(Policy)**"
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "This requires the instruments of reform (courts, legislatures, media, money) to be uncorrupted enough to function — which is precisely what sub-threshold coherence prevents."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "In the governing equation, β represents external input — coherence-restoring energy entering the system from outside its boundaries."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The historical evidence points to one answer across all three recoveries: **voluntary constraint adoption.** People choosing, freely, to bind themselves to standards they didn't have to accept."
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Imposed constraint is fragile — it lasts only as long as the authority imposing it. **Chosen constraint is durable** — it lasts because the person who chose it *wants* it."
+    },
+    {
+      "index": 9,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "But it requires one thing the math cannot provide: **people who choose to start.**"
+    },
+    {
+      "index": 10,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Because he recognized what his ancestors had — and what he'd lost — and he chose to rebuild it."
+    },
+    {
+      "index": 11,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "If any society recovers from χ < 0.35 to χ > 0.50 *without* activation of external constraint or transcendent authority, the model fails."
+    },
+    {
+      "index": 12,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The equation says this is mathematically impossible. **Status: No counterexample found.**"
+    },
+    {
+      "index": 13,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "If a society with sustained high constraint pressure (P > 0.7) and active external input still collapses to χ < 0.35, the model fails."
+    },
+    {
+      "index": 14,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "If any civilization demonstrates economic collapse *preceding* semantic collapse, the invariant cascade is wrong. **Status: Zero violations across four tested civilizations.**"
+    },
+    {
+      "index": 15,
+      "status": "PASS",
+      "failures": [],
+      "claim": "If a competing model explains the same data with equal or greater predictive accuracy, fewer parameters, and a different causal mechanism, our model should be replaced. **Status: Not challenged."
+    },
+    {
+      "index": 16,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence"
+      ],
+      "claim": "If more than 50% of predictions fail outside their confidence intervals, the model requires revision."
+    },
+    {
+      "index": 17,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "paper_id": "MDA-036-regulatory-impulse-1900",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-036-regulatory-impulse-1900",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-036-regulatory-impulse-1900\\JSON\\MDA-036-regulatory-impulse-1900.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 8,
+  "failing_claim_count": 8,
+  "formal_marker_count": 6,
+  "failure_counts": {
+    "weak:Q4_evidence": 7,
+    "weak:Q5_falsifiability": 8,
+    "weak:Q6_boundary": 7,
+    "weak:Q3_mechanism": 3
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The moral trajectory of the twentieth century was thus fundamentally shaped in this decade by the formal transfer of moral regulation from the local, private institutions of the family and church to the centralized, public institutions of the state and professional bureaucracy."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "Furthermore, statistics on household composition indicate that the traditional family model was overwhelmingly prevalent."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The social pressure to conform to the ideal of a nuclear, two-parent family — a pressure backed by legal and financial impediments to alternative arrangements — set the stage for a dramatic later breakdown when those legal and financial barriers (e.g., no-fault divorce, relaxed lending standards) began to erode starting in the mid-twentieth century. **The hidden strain of 1900–1910, therefore, established a moral baseline built on denial, which was unsustainable over the long term.** The 88 percent figure was real — but it was held together by coercion, not contentment."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The public education system thus became the state's most powerful, non-coercive mechanism for cultural control, defining the moral trajectory toward a society based on formalized, measurable competence and assimilated values. ---"
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The most influential development in economic morality was the rising demand for the eight-hour workday, which began to manifest in observable reductions in the manufacturing workweek."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The film industry, influenced heavily by mainstream Protestant groups and social reformers, agreed to submit its content to the Board for approval to receive the \"Seal of Approval.\" This voluntary self-regulation was a calculated measure intended explicitly to ward off more stringent, direct legal censorship by local, state, and eventual federal authorities."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "By aligning religious conviction directly with secular policy, the Social Gospel successfully legitimized the expansion of the administrative state as a moral enterprise capable of achieving the \"Kingdom of God on Earth.\" The proliferation of voluntary associations (e.g., the Woman's Christian Temperance Union, Settlement Houses, and the NCF) demonstrates that middle-class citizens, particularly women, viewed participation in civic organizations as the most direct means of waging moral war against corruption and social ills."
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

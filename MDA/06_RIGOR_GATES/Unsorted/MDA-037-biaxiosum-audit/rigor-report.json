@@ -1,0 +1,145 @@
+{
+  "paper_id": "MDA-037-biaxiosum-audit",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-037-biaxiosum-audit",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-037-biaxiosum-audit\\JSON\\MDA-037-biaxiosum-audit.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 12,
+  "failing_claim_count": 12,
+  "formal_marker_count": 1,
+  "failure_counts": {
+    "weak:Q4_evidence": 10,
+    "weak:Q5_falsifiability": 12,
+    "weak:Q3_mechanism": 9,
+    "weak:Q6_boundary": 11
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "I walked through this framework â€” every axiom, every equation, every claim â€” and I came out the other side."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "You don't get to deny consciousness as fundamental in Axiom 12 and then smuggle it back in when it's convenient in Axiom 47."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "They made them the *foundation.* Axiom 1 â€” The Source > \"...that all men are created equal, that they are endowed by their Creator with certain unalienable Rights...\" **The Source is named.** Not \"endowed by the State.\" Not \"endowed by consensus.\" Not \"endowed by evolutionary advantage.\" By their **Creator**."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Axiom 2 â€” The Rights > \"...Life, Liberty and the pursuit of Happiness.\" Not life, safety, and the pursuit of equity."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Axiom 3 â€” The Purpose of Government > \"That to secure these rights, Governments are instituted among Men...\" Government exists to **SECURE** rights."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Axiom 4 â€” The Right of Revolution > \"...whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it...\" If the government fails its purpose, the people have the right to tear it down."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Founding Era \\| Modern State\\ \"Endowed by their Creator\" \\| \"Based on policy guidelines\"\\ Rights are unalienable \\| Rights are permissions\\ Government secures rights \\| Government defines rights\\ The people can abolish \\| The State is permanent\\ We told you our bias \\| We claim to have none"
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "We just follow the evidence.\" While they systematically dismantle every axiom the Founders admitted to holding."
+    },
+    {
+      "index": 9,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The Academy's Meta-Bias Research demonstrates that the very institutions claiming objectivity are structurally incapable of recognizing their own bias."
+    },
+    {
+      "index": 10,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Experts are *worse* at this â€” senior scientists claim \"negligible\" bias twice as often as juniors. (Nature, 2021) 2"
+    },
+    {
+      "index": 11,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "We trust our internal narrative (\"I feel objective\") over behavioral evidence."
+    },
+    {
+      "index": 12,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Modern Axiom \\| Founding Biaxiosum \\| 2025 Biaxiosum \\| The Gap\\ Source of Rights \\| 100% Named the Creator \\| 0% Hides behind \"policy\" \\| They claim rights are universal while treating them as revocable\\ Purpose of Gov \\| 95% To secure rights \\| 10% To \"promote equity/safety\" \\| They claim neutrality while curving toward control\\ Monetary Value \\| 90% Biased toward gold/stability \\| 0% Biased toward fiat/debt \\| They call inflation \"monetary policy\" to hide the theft\\ Free Speech \\| 100% Biased toward truth \\| 5% Biased toward \"harm reduction\" \\| They use \"misinformation\" to silence dissent\\ Right of Revolution \\| 100% The people can abolish \\| 0% \"Insurrection\" is terrorism \\| They criminalized the founding principle -----------------------------------------------------------------------"
+    }
+  ]
+}

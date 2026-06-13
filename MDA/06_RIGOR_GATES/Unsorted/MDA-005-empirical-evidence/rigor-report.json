@@ -1,0 +1,60 @@
+{
+  "paper_id": "MDA-005-empirical-evidence",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-005-empirical-evidence",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-005-empirical-evidence\\JSON\\MDA-005-empirical-evidence.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:28",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 4,
+  "failing_claim_count": 4,
+  "formal_marker_count": 0,
+  "failure_counts": {
+    "weak:Q4_evidence": 4,
+    "weak:Q5_falsifiability": 4,
+    "weak:Q6_boundary": 2,
+    "weak:Q3_mechanism": 3
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "If coherence collapse is caused by constraint removal, then populations that *rejected* constraint removal should maintain coherence."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "These are not findings that support the model."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "They are the conditions under which the model would be falsified — and the model survived all four."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

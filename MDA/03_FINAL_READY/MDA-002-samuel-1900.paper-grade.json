@@ -1,0 +1,97 @@
+{
+  "paper_id": "MDA-002-samuel-1900",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-002-samuel-1900.md",
+  "generated_at": "2026-05-30T05:31:48",
+  "metrics": {
+    "word_count": 269,
+    "section_count": 9,
+    "equation_count": 0,
+    "claim_candidate_count": 2,
+    "top_terms": "samuel, html, miles, this, story, 1900, index, ring, moral, decline, america, main, baseline, rural, million"
+  },
+  "sections": [
+    {
+      "title": "Document Start",
+      "text": "---\nscrape_mode: markitdown_full\nsource_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-002-samuel-1900.html\"\nsource_sha256: 525cc43e9771d8ed9f240e0f530ba8ad622594d2c6952f1ca8cd7f2bcb87f9f4\ntitle: \"Story 01: Samuel (1900) — The Moral Decline of America\"\nmain_selector: \"main\"\nscraped_at: \"2026-05-25T13:22:46\"\n---\n[← Main Index](/index.html)\n|"
+    },
+    {
+      "title": "Moral Decline of America",
+      "text": "[THEOPHYSICS](../index.html)Story 01: Samuel"
+    },
+    {
+      "title": "Part I: Samuel",
+      "text": "# The Baseline (1900)\n**Samuel Lowe** stands on a muddy rural road in Ohio. The year is 1900. Behind him, seventy-six million people are scattered across three and a half million square miles. But Samuel does not experience those miles. He experiences his circle — the town, the church, the neighbors he's known since birth.\n![Story Illustration](../images/mda/The_Observer_Collapsed conv 12.webp)\nSixty percent of Americans live in rural areas. The average person will travel no more than fifty miles from their birthplace in their entire life. This is not backwardness; it is **Coherence**. A world small enough to be whole."
+    },
+    {
+      "title": "The Numbers of the Baseline",
+      "text": "Divorce Rate0.7 per 1,000\nFertility Rate3.5 children/woman"
+    },
+    {
+      "title": "Information Pace3 days / 50 miles",
+      "text": "Church AttendanceFunctionally Universal\nThe silence is vast. At night, there is no electric hum, no background noise of civilization. Just darkness, stars, and the sound of your own breathing. In this silence, you learn **Patience**. You learn to wait, because waiting is what life is. This is the grounded substrate from which the American century begins."
+    },
+    {
+      "title": "Related Work",
+      "text": "Core article, supporting evidence, and broader context\nRing 1 — This Article"
+    },
+    {
+      "title": "The core argument",
+      "text": "You are here.\nRing 2 — Supporting Evidence"
+    },
+    {
+      "title": "Deeper dives and formal treatments",
+      "text": "No connections mapped yet.\nRing 3 — Broader Context"
+    },
+    {
+      "title": "Related topics across the framework",
+      "text": "No connections mapped yet."
+    }
+  ],
+  "equations": [],
+  "claims": [
+    {
+      "paper_id": "MDA-002-samuel-1900",
+      "section": "Information Pace3 days / 50 miles",
+      "one_sentence_claim": "You learn to wait, because waiting is what life is.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-002-samuel-1900",
+      "section": "Related Work",
+      "one_sentence_claim": "Core article, supporting evidence, and broader context Ring 1 — This Article",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

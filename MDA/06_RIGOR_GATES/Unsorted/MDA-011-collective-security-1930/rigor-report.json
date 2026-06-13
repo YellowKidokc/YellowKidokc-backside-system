@@ -1,0 +1,39 @@
+{
+  "paper_id": "MDA-011-collective-security-1930",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-011-collective-security-1930",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-011-collective-security-1930\\JSON\\MDA-011-collective-security-1930.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:28",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 2,
+  "failing_claim_count": 2,
+  "formal_marker_count": 0,
+  "failure_counts": {
+    "weak:Q4_evidence": 2,
+    "weak:Q5_falsifiability": 2,
+    "weak:Q3_mechanism": 1,
+    "weak:Q6_boundary": 1
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "The sharp drop, driven by mass foreclosures despite low personal savings rates, exposed the inherent moral and structural fragility of the nuclear family model when exposed to the speculative economic forces of the 1920s."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

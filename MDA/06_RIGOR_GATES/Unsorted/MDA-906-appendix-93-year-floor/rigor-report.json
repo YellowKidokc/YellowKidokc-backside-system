@@ -1,0 +1,269 @@
+{
+  "paper_id": "MDA-906-appendix-93-year-floor",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-906-appendix-93-year-floor",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-906-appendix-93-year-floor\\JSON\\MDA-906-appendix-93-year-floor.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:30",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 25,
+  "failing_claim_count": 25,
+  "formal_marker_count": 0,
+  "failure_counts": {
+    "weak:Q3_mechanism": 13,
+    "weak:Q5_falsifiability": 25,
+    "weak:Q6_boundary": 17,
+    "weak:Q4_evidence": 20
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "We fit a decoherence equation to the Genesis data."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "The model found a floor of 93 years."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "## THE CURVE When you plot these lifespans against generation number and fit an exponential decay model, you get this: $$L(n) = L\\_0 \\cdot e^{-n/\\tau} + L\\_{\\text{floor}}$$ L(n) Lifespan at generation *n* — how long people lived L0 Pre-decay baseline — the starting point before the decay e-n/τ Exponential decay — compounding entropy across generations τ Decay timescale — ~3–4 generations for lifespan to drop to ~37% of L0"
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "We didn't tell the model about Psalm 90."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "The model went looking for where the curve levels off — where the exponential decay stops eating away at lifespans and a stable floor appears — and it landed at **93 years**."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "When a mathematical model, a three-thousand-year-old text, and modern epidemiological data all independently point at the same region of the number line, you are not looking at coincidence."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "It is a measurement record — the oldest biological dataset we have — and it fits a specific mathematical model with high precision."
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "What you're looking at in the lifespan data is not a mythological claim about people who happened to live very long."
+    },
+    {
+      "index": 9,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "The framework has a precise answer for this, and it's the same answer that appeared in the vacuum energy paper and the Father as Source Field paper and the χ equation paper. χ Field"
+    },
+    {
+      "index": 10,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "In biological terms: human lifespan cannot decay to zero because the χ vacuum floor prevents total decoherence."
+    },
+    {
+      "index": 11,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "But it cannot decay to zero because the floor holds."
+    },
+    {
+      "index": 12,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Because common grace maintains the minimum coupling to the Logos that sustains life at all."
+    },
+    {
+      "index": 13,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The three measurements differ because they're measuring slightly different things at slightly different times — but they're all pointing at the same feature of the curve."
+    },
+    {
+      "index": 14,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "But the lifespan curve shows something beyond individual accumulation."
+    },
+    {
+      "index": 15,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "It shows a baseline dropping across generations."
+    },
+    {
+      "index": 16,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Not because of moral failure alone, but because the information channel between the human system and the Logos undergoes signal degradation at each generational remove."
+    },
+    {
+      "index": 17,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "because it follows a consistent mechanism"
+    },
+    {
+      "index": 18,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "because each If is a fixed fraction of the last The Flood resets some of the accumulated degradation."
+    },
+    {
+      "index": 19,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Not to zero — Shem at 600 shows it isn't a complete reset."
+    },
+    {
+      "index": 20,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The floor is where the compounding stops — not because the degradation stops, but because the χ vacuum ground state maintains a minimum If that the generational degradation cannot breach."
+    },
+    {
+      "index": 21,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "It is the minimum Logos-coupling that human biology requires to function."
+    },
+    {
+      "index": 22,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "From the eternal frame, a thousand years is a watch in the night — because the eternal frame is not subject to the arrow that makes a thousand years feel long."
+    },
+    {
+      "index": 23,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Not seventy because Moses decided seventy was a good number."
+    },
+    {
+      "index": 24,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Seventy because that's where the curve levels off — the minimum Logos-coupling that common grace maintains, the biological lifespan that the degraded but grace-held human system can sustain."
+    },
+    {
+      "index": 25,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "He always was closer than the model."
+    }
+  ]
+}

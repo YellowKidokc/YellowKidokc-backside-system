@@ -1,0 +1,638 @@
+{
+  "paper_id": "MDA-040-statistical-synthesis",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-040-statistical-synthesis.md",
+  "generated_at": "2026-05-30T05:31:55",
+  "metrics": {
+    "word_count": 1971,
+    "section_count": 105,
+    "equation_count": 2,
+    "claim_candidate_count": 9,
+    "top_terms": "from, 1900, with, rate, that, baseline, family, 1950, divorce, people, technology, church, children, peak, american"
+  },
+  "sections": [
+    {
+      "title": "The Moral Decay of America",
+      "text": "Reader Mode Standard active\n**Standard** is the live article. Easy and Academic are reserved surfaces. **Proof** opens the evidence and derivation layer."
+    },
+    {
+      "title": "Proof Pressure Layer",
+      "text": "## Vetted Claims for MDA-040-statistical-synthesis"
+    },
+    {
+      "title": "No promoted claim",
+      "text": "No claim from this article survived the deterministic Axiom + 7Q gate strongly enough for the proof layer yet."
+    },
+    {
+      "title": "The Moral Decay of America",
+      "text": "A Statistical Synthesis Across Five Generations (1900-2025)\nThis synthesis traces the quantitative transformation of American society through five generations of one family: Samuel (1900), Henry (1926), William (1950), Thomas (1974), Jacob (1998), and Jacob again (2025). The data tells a story that numbers alone cannot fully capture, but which the numbers make undeniable.\nEach generation inherited a world shaped by the choices of those before. Each generation faced constraints their ancestors could not imagine losing, and freedoms their ancestors could not imagine wanting. The trajectory is clear. The destination is uncertain.\nWe organize the evidence across three domains: **Family** (the fundamental unit of social transmission), **Society** (the broader patterns of trust, faith, and community), and **Economic** (the material conditions that both enable and constrain human flourishing)."
+    },
+    {
+      "title": "The Arc of Decline: 125 Years in Charts",
+      "text": "Visualizing the transformation from 1900 to 2025"
+    },
+    {
+      "title": "1900: Samuel Lowe",
+      "text": "The Baseline - Before the Acceleration\nIn 1900, America was a nation of small circles. Seventy-six million people scattered across 3.5 million square miles, but most would never travel more than fifty miles from their birthplace. There was no radio, no telephone in rural Ohio, no moving pictures. The only voices Samuel heard were voices of people physically present. The only faces he saw were faces he could touch.\nThis isolation was not experienced as deprivation. It was simply the shape of human life before technology collapsed distance into nothing. The world was small, but it was whole. Complete in itself. There were no images of other lives to breed dissatisfaction, no advertising to manufacture desire, no news cycle to generate fear.\nThe constraints were absolute: you could not rush a harvest, hurry a horse, or speed a letter across the county. In this enforced patience, people learned to sit with their thoughts, to wait, to endure. Marriage was for life because divorce meant social death. Faith was universal because the church was the only social infrastructure that existed."
+    },
+    {
+      "title": "Family Structure",
+      "text": "0.7\nDivorce Rate (per 1,000)"
+    },
+    {
+      "title": "Baseline",
+      "text": "3.5"
+    },
+    {
+      "title": "Children per Woman",
+      "text": "Baseline\n26/22\nMarriage Age (M/F)"
+    },
+    {
+      "title": "Baseline",
+      "text": "~0%"
+    },
+    {
+      "title": "Cohabitation",
+      "text": "Baseline"
+    },
+    {
+      "title": "Society & Faith",
+      "text": "~95%"
+    },
+    {
+      "title": "Church Attendance",
+      "text": "Near Universal\n47"
+    },
+    {
+      "title": "Life Expectancy",
+      "text": "Baseline\n60%"
+    },
+    {
+      "title": "Rural Population",
+      "text": "Baseline\n41%"
+    },
+    {
+      "title": "Agricultural Workers",
+      "text": "Baseline"
+    },
+    {
+      "title": "Technology & Connection",
+      "text": "\\<1%"
+    },
+    {
+      "title": "Households with Phone",
+      "text": "Baseline\n\\<3%"
+    },
+    {
+      "title": "Households with Electricity",
+      "text": "Baseline\n8,000\nAutomobiles (Total USA)"
+    },
+    {
+      "title": "Baseline",
+      "text": "0"
+    },
+    {
+      "title": "Hours Media/Day",
+      "text": "Silence"
+    },
+    {
+      "title": "1926: Henry Lowe",
+      "text": "The Builder - The First Intrusions\nBy 1926, America had swelled to 117 million people. Cities had exploded: New York held six million, Chicago three. The Model T had put twenty million cars on American roads, collapsing what once was an expedition into a two-hour drive. Distance was beginning to die.\nBut the more profound intrusion was invisible: radio. The Lowe family bought a Radiola in 1924, and for the first time, outside voices entered the home. A man talking in New York. An orchestra playing in Chicago. The complete isolation of Samuel's world had been breached. Other voices were possible now. Other lives. Other ways of being.\nThe family still listened together, for an hour a night, gathered around the mahogany cabinet. It was still communal, still bounded. But the door had opened. The silence that forced families together, that left no escape from the people you lived with or the thoughts in your own head, was beginning to shrink."
+    },
+    {
+      "title": "Family Structure",
+      "text": "1.6\nDivorce Rate (per 1,000)\n+129% from 1900\n2.6"
+    },
+    {
+      "title": "Children per Woman",
+      "text": "-26% from 1900\n24/21\nMarriage Age (M/F)"
+    },
+    {
+      "title": "Stable",
+      "text": "~0%"
+    },
+    {
+      "title": "Cohabitation",
+      "text": "Still Rare"
+    },
+    {
+      "title": "Society & Faith",
+      "text": "~90%\nChurch Attendance (Rural)"
+    },
+    {
+      "title": "Still Universal",
+      "text": "56"
+    },
+    {
+      "title": "Life Expectancy",
+      "text": "+9 years\n117M"
+    },
+    {
+      "title": "Population",
+      "text": "+54% from 1900\n35%"
+    },
+    {
+      "title": "Urban Growth",
+      "text": "Cities Expanding"
+    },
+    {
+      "title": "Technology & Connection",
+      "text": "35%"
+    },
+    {
+      "title": "Households with Phone",
+      "text": "From \\<1%\n35%"
+    },
+    {
+      "title": "Households with Radio",
+      "text": "From 0%\n20M"
+    },
+    {
+      "title": "Automobiles",
+      "text": "From 8,000\n~1"
+    },
+    {
+      "title": "Hours Media/Day",
+      "text": "First Intrusion"
+    },
+    {
+      "title": "1950: William Lowe",
+      "text": "Peak Coherence - The Golden Moment\nAmerica in 1950 had never been richer, safer, or more confident. The war was over. The Depression was memory. Half the planet's manufacturing output came from American factories. The GI Bill had sent eight million veterans to college. The suburbs were blooming - instant communities on former farmland, each house with a yard, a garage, a television antenna reaching toward the sky.\nThis was the peak. Not of technology, not of wealth, but of coherence. Church attendance hit 55% weekly - the highest in American history. The divorce rate, while higher than 1900, had stabilized. Families were marrying younger because they could afford to. The Baby Boom was underway: 3.7 children per woman by 1957. The middle class was expanding like never before.\nTelevision had arrived - 9% of households in 1950, 87% by 1960, the fastest adoption of any technology in history. But in 1950, it still felt manageable. The family gathered together to watch. It was communal. Bounded. One screen, shared. No one knew that this was the beginning of the end."
+    },
+    {
+      "title": "Family Structure",
+      "text": "2.6\nDivorce Rate (per 1,000)\n+271% from 1900\n3.0"
+    },
+    {
+      "title": "Children per Woman",
+      "text": "-14% from 1900\n23/20\nMarriage Age (M/F)"
+    },
+    {
+      "title": "Younger - Optimism",
+      "text": "55%"
+    },
+    {
+      "title": "Homeownership",
+      "text": "American Dream"
+    },
+    {
+      "title": "Society & Faith",
+      "text": "55%"
+    },
+    {
+      "title": "Weekly Church Attendance",
+      "text": "PEAK - Historical High\n2%\n\"No Religion\""
+    },
+    {
+      "title": "Near Zero",
+      "text": "77%"
+    },
+    {
+      "title": "Trust in Government",
+      "text": "Peak Trust\n\\$42K\nMedian Income (2024\\$)\n30% above 1940"
+    },
+    {
+      "title": "Technology & Connection",
+      "text": "62%"
+    },
+    {
+      "title": "Households with Phone",
+      "text": "Near Universal\n9%"
+    },
+    {
+      "title": "Households with TV",
+      "text": "Rising Fast\n4.5\nTV Hours/Day (if owned)"
+    },
+    {
+      "title": "New Environment",
+      "text": "1"
+    },
+    {
+      "title": "Screens per Home",
+      "text": "Shared Experience"
+    },
+    {
+      "title": "1974: Thomas Lowe",
+      "text": "The Breaking - Everything Comes Apart\nEverything Bill took for granted had come apart. It happened fast - so fast that people living through it couldn't quite see it. Like a building that looks solid until you notice the cracks, and then you can't see anything but cracks, and then one day it's rubble.\nVietnam was over - not with victory but with helicopters evacuating embassy roofs, with 58,000 American boys dead and nothing to show for it. Nixon resigned in August, the first president to do so. Watergate revealed what everyone suspected but no one wanted to know: the people in charge will lie to you. Trust in government collapsed from 77% to 36% in a decade.\nThe sexual revolution had arrived. Ten million women on the Pill. For the first time in human history, sex was decoupled from pregnancy. The biological constraint that shaped every generation before - the simple, brutal fact that sex could mean a baby - was gone. Why marry if you don't have to? Why wait if there's no cost? California passed no-fault divorce in 1969. By 1974, most states had followed. You could now end a marriage because you wanted to."
+    },
+    {
+      "title": "Family Structure",
+      "text": "4.6\nDivorce Rate (per 1,000)\n+557% from 1900\n1.8"
+    },
+    {
+      "title": "Children per Woman",
+      "text": "-49% from 1900\n1.1%"
+    },
+    {
+      "title": "Cohabitation Rate",
+      "text": "Rising Fast\n39%"
+    },
+    {
+      "title": "Mothers Working",
+      "text": "+117% from 1950"
+    },
+    {
+      "title": "Society & Faith",
+      "text": "40%"
+    },
+    {
+      "title": "Weekly Church Attendance",
+      "text": "-27% from Peak\n36%"
+    },
+    {
+      "title": "Trust in Government",
+      "text": "-53% from Peak\n461\nViolent Crime (per 100k)\n+187% from 1960\n9.8\nMurder Rate (per 100k)\n+93% from 1960"
+    },
+    {
+      "title": "Economic Reality",
+      "text": "11%"
+    },
+    {
+      "title": "Inflation Rate",
+      "text": "Economy Broken\n13.3%"
+    },
+    {
+      "title": "Savings Rate",
+      "text": "Still Saving\n\\$197B"
+    },
+    {
+      "title": "Consumer Credit",
+      "text": "Debt Rising\n5.6%"
+    },
+    {
+      "title": "Unemployment",
+      "text": "Stagflation"
+    },
+    {
+      "title": "Technology Saturation",
+      "text": "6+"
+    },
+    {
+      "title": "TV Hours/Day",
+      "text": "Always On\n50%"
+    },
+    {
+      "title": "Homes with Color TV",
+      "text": "From 0% in 1960\n98%"
+    },
+    {
+      "title": "Homes with TV",
+      "text": "Universal"
+    },
+    {
+      "title": "Cable",
+      "text": "Emerging"
+    },
+    {
+      "title": "Fragmentation Begins",
+      "text": "## 1998: Jacob Lowe"
+    },
+    {
+      "title": "The Aftermath - Rich, Comfortable, Untethered",
+      "text": "America was rich, comfortable, and completely untethered. The Cold War was over. The Soviet Union had collapsed. The stock market was booming. Unemployment at 4.5%. The federal budget running a surplus. Bill Clinton was being impeached for lying about an affair, and it wouldn't meaningfully damage his approval ratings. The country had learned to separate public performance from private morality. Just another boundary erased.\nThe internet was emerging. AOL, Yahoo, early Amazon. By 1998, 26% of households had access. By 2024, the question would be meaningless - the internet as ubiquitous as electricity. What it meant: information now infinite, any question answered instantly, any curiosity satisfied, any desire finding an outlet. And connection: you could talk to anyone, anywhere, at any time.\nBut infinite connection was not the same as depth. Infinite information was not wisdom. The geographic constraints that defined every previous generation were dissolving - but what would replace them? Jake didn't know where he was from. Not metaphorically - literally. His parents divorced when he was five. He shuttled between states, different schools, different neighborhoods. Home was wherever the screen was glowing."
+    },
+    {
+      "title": "Family Structure",
+      "text": "4.0\nDivorce Rate (per 1,000)\n+471% from 1900\n2.0"
+    },
+    {
+      "title": "Children per Woman",
+      "text": "-43% from 1900\n27/25\nMarriage Age (M/F)"
+    },
+    {
+      "title": "Delayed/Skipped",
+      "text": "5.5M"
+    },
+    {
+      "title": "Cohabiting Couples",
+      "text": "10x from 1970\n33%"
+    },
+    {
+      "title": "Non-Marital Births",
+      "text": "From 5% in 1960\n25M"
+    },
+    {
+      "title": "Adults Living Alone",
+      "text": "From 4M in 1950"
+    },
+    {
+      "title": "Society & Faith",
+      "text": "35%"
+    },
+    {
+      "title": "Weekly Church Attendance",
+      "text": "-36% from Peak\n14%\n\"No Religion\"\nFrom 2% in 1950\n566\nViolent Crime (per 100k)\n+252% from 1960\n\\$70K\nMedian Income (2024\\$)"
+    },
+    {
+      "title": "Prosperity",
+      "text": "### Economic Reality\n6.5%"
+    },
+    {
+      "title": "Savings Rate",
+      "text": "-51% from 1974\n\\$1.37T"
+    },
+    {
+      "title": "Consumer Credit",
+      "text": "7x from 1974\n\\$5.6T"
+    },
+    {
+      "title": "Federal Debt",
+      "text": "12x from 1974\n0.43"
+    },
+    {
+      "title": "GINI Index",
+      "text": "Inequality Rising"
+    },
+    {
+      "title": "Technology Saturation",
+      "text": "2.4"
+    },
+    {
+      "title": "TVs per Household",
+      "text": "Fragmented\n26%"
+    },
+    {
+      "title": "Internet Access",
+      "text": "Rising Fast\n20%"
+    },
+    {
+      "title": "Cell Phone Penetration",
+      "text": "Emerging\n50+"
+    },
+    {
+      "title": "Cable Channels",
+      "text": "Infinite Choice"
+    },
+    {
+      "title": "2025: Jacob Lowe",
+      "text": "The Choice - Connected, Isolated, Searching\nThe loneliness epidemic is official. The Surgeon General declared it in 2023: loneliness is as deadly as smoking fifteen cigarettes a day. Social isolation increases premature death by 26%. Americans have fewer friends than ever. Fewer marriages. Fewer children. Fewer connections of any kind. The average American spends 7.5 hours daily looking at screens - more time with screens than with humans, more than with sleep.\nAnd yet everyone is connected. Everyone is online. Everyone is reachable, all the time, everywhere. Connection without commitment. Presence without depth. The infinite scroll that never satisfies. AI writes your dating messages now. AI girlfriends are a billion-dollar industry. Dating apps have cratered - not because people found love, but because they gave up.\nBirth rates have collapsed to 1.6 children per woman - the lowest in American history. South Korea is at 0.7. The future is not being born. Underneath it all, a quiet desperation: something is deeply wrong. This is not how life is supposed to feel. The promise of infinite connection has delivered infinite isolation."
+    },
+    {
+      "title": "Family Structure",
+      "text": "1.6"
+    },
+    {
+      "title": "Children per Woman",
+      "text": "-54% from 1900 \\| HISTORIC LOW\n37M"
+    },
+    {
+      "title": "Adults Living Alone",
+      "text": "From 4M in 1950\n65%+"
+    },
+    {
+      "title": "Couples Met Online",
+      "text": "From 0% in 1990\n27%"
+    },
+    {
+      "title": "Young Men Sexless",
+      "text": "From 8% in 2008"
+    },
+    {
+      "title": "Society & Faith",
+      "text": "30%"
+    },
+    {
+      "title": "Weekly Church Attendance",
+      "text": "-45% from Peak\n28%\n\"No Religion\"\nFrom 2% in 1950\n12%"
+    },
+    {
+      "title": "No Close Friends",
+      "text": "From 3% in 1990\n\\<20%"
+    },
+    {
+      "title": "Trust in Government",
+      "text": "-74% from Peak"
+    },
+    {
+      "title": "Technology Saturation",
+      "text": "7.5"
+    },
+    {
+      "title": "Screen Hours/Day",
+      "text": "Total Immersion\n30M+"
+    },
+    {
+      "title": "AI Companion Users",
+      "text": "Replacing Humans\n97%"
+    },
+    {
+      "title": "Smartphone Ownership",
+      "text": "Universal"
+    },
+    {
+      "title": "Always",
+      "text": "Reachable"
+    },
+    {
+      "title": "No Escape",
+      "text": "### The Cumulative Trajectory: 1900 to 2025\nMetric \\| 1900 \\| 1950 \\| 2025 \\| Change\\\nDivorce Rate (per 1,000) \\| 0.7 \\| 2.6 \\| 2.3\\* \\| +229% (but fewer marry)\\\nFertility Rate \\| 3.5 \\| 3.0 \\| 1.6 \\| -54%\\\nChurch Attendance \\| ~95% \\| 55% \\| 30% \\| -68%\\\n\"No Religion\" \\| ~1% \\| 2% \\| 28% \\| +2700%\\\nTrust in Government \\| N/A \\| 77% \\| \\<20% \\| -74%\\\nAdults Living Alone \\| ~1M \\| 4M \\| 37M \\| +3600%\\\nMedia Hours/Day \\| 0 \\| 4.5 \\| 7.5 \\| From Silence to Saturation\n\\*Divorce rate appears lower but misleading - fewer people marry in the first place. The baseline has shifted.\n[ Previous](MDA-039-physics-of-coherence.html)\n[ Series Home](index.html)\n[Next ](MDA-041-statistical-spine.html)\n[ Theophysics Home](/)"
+    },
+    {
+      "title": "MDA-040 of 54",
+      "text": ""
+    }
+  ],
+  "equations": [
+    "42K Median Income (2024\\",
+    ") Prosperity ### Economic Reality 6.5% Savings Rate -51% from 1974 \\"
+  ],
+  "claims": [
+    {
+      "paper_id": "MDA-040-statistical-synthesis",
+      "section": "The Moral Decay of America",
+      "one_sentence_claim": "Easy and Academic are reserved surfaces. **Proof** opens the evidence and derivation layer.",
+      "claim_maturity_level": 7,
+      "claim_maturity_label": "Public Proof Claim",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Public Proof Claim, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-040-statistical-synthesis",
+      "section": "No promoted claim",
+      "one_sentence_claim": "No claim from this article survived the deterministic Axiom + 7Q gate strongly enough for the proof layer yet.",
+      "claim_maturity_level": 7,
+      "claim_maturity_label": "Public Proof Claim",
+      "facts_snapshot": "Detected terms: axiom",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Public Proof Claim, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-040-statistical-synthesis",
+      "section": "The Moral Decay of America",
+      "one_sentence_claim": "We organize the evidence across three domains: **Family** (the fundamental unit of social transmission), **Society** (the broader patterns of trust, faith, and community), and **Economic** (the material conditions that both enable and constrain human flourishing).",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-040-statistical-synthesis",
+      "section": "1900: Samuel Lowe",
+      "one_sentence_claim": "Marriage was for life because divorce meant social death.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-040-statistical-synthesis",
+      "section": "1900: Samuel Lowe",
+      "one_sentence_claim": "Faith was universal because the church was the only social infrastructure that existed.",
+      "claim_maturity_level": 3,
+      "claim_maturity_label": "Structural Correspondence",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Structural Correspondence, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-040-statistical-synthesis",
+      "section": "1926: Henry Lowe",
+      "one_sentence_claim": "The Model T had put twenty million cars on American roads, collapsing what once was an expedition into a two-hour drive.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: model",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-040-statistical-synthesis",
+      "section": "1950: William Lowe",
+      "one_sentence_claim": "Families were marrying younger because they could afford to.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-040-statistical-synthesis",
+      "section": "1974: Thomas Lowe",
+      "one_sentence_claim": "You could now end a marriage because you wanted to.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-040-statistical-synthesis",
+      "section": "2025: Jacob Lowe",
+      "one_sentence_claim": "Dating apps have cratered - not because people found love, but because they gave up.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "source_file": "X:\\captures\\links\\DROP_HERE\\test-links.txt",
+  "processed_at": "2026-05-04T17:25:55",
+  "url_count": 2,
+  "results": [
+    {
+      "url": "https://example.com",
+      "kind": "web",
+      "fetch": {
+        "success": true,
+        "status_code": 200,
+        "html_path": "X:\\captures\\links\\OUTPUT\\web\\run_20260504_172547_test-links\\example.com_root.html",
+        "text_path": "X:\\captures\\links\\OUTPUT\\web\\run_20260504_172547_test-links\\example.com_root.txt",
+        "char_count": 142
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "kind": "youtube",
+      "video_id": "dQw4w9WgXcQ",
+      "transcript": {
+        "success": true,
+        "transcript": "[♪♪♪] ♪ We're no strangers to love ♪ ♪ You know the rules\nand so do I ♪ ♪ A full commitment's\nwhat I'm thinking of ♪ ♪ You wouldn't get this\nfrom any other guy ♪ ♪ I just wanna tell you\nhow I'm feeling ♪ ♪ Gotta make you understand ♪ ♪ Never gonna give you up ♪ ♪ Never gonna let you down ♪ ♪ Never gonna run around\nand desert you ♪ ♪ Never gonna make you cry ♪ ♪ Never gonna say goodbye ♪ ♪ Never gonna tell a lie\nand hurt you ♪ ♪ We've known each other\nfor so long ♪ ♪ Your heart's been aching\nbut you're too shy to say it ♪ ♪ Inside we both know\nwhat's been going ♪ ♪ We know the game\nand we're gonna play it ♪ ♪ And if you ask me\nhow I'm feeling ♪ ♪ Don't tell me\nyou're too blind to see ♪ ♪ Never gonna give you up ♪ ♪ Never gonna let you down ♪ ♪ Never gonna run around\nand desert you ♪ ♪ Never gonna make you cry ♪ ♪ Never gonna say goodbye ♪ ♪ Never gonna tell a lie\nand hurt you ♪ ♪ Never gonna give you up ♪ ♪ Never gonna let you down ♪ ♪ Never gonna run around\nand desert you ♪ ♪ Never gonna make you cry ♪ ♪ Never gonna say goodbye ♪ ♪ Never gonna tell a lie\nand hurt you ♪ ♪ (Ooh, give you up) ♪ ♪ (Ooh, give you up) ♪ ♪ Never gonna give,\nnever gonna give ♪ ♪ (Give you up) ♪ ♪ Never gonna give,\nnever gonna give ♪ ♪ (Give you up) ♪ ♪ We've known each other\nfor so long ♪ ♪ Your heart's been aching\nbut you're too shy to say it ♪ ♪ Inside we both know\nwhat's been going ♪ ♪ We know the game\nand we're gonna play it ♪ ♪ I just wanna tell you\nhow I'm feeling ♪ ♪ Gotta make you understand ♪ ♪ Never gonna give you up ♪ ♪ Never gonna let you down ♪ ♪ Never gonna run around\nand desert you ♪ ♪ Never gonna make you cry ♪ ♪ Never gonna say goodbye ♪ ♪ Never gonna tell a lie\nand hurt you ♪ ♪ Never gonna give you up ♪ ♪ Never gonna let you down ♪ ♪ Never gonna run around\nand desert you ♪ ♪ Never gonna make you cry ♪ ♪ Never gonna say goodbye ♪ ♪ Never gonna tell a lie\nand hurt you ♪ ♪ Never gonna give you up ♪ ♪ Never gonna let you down ♪ ♪ Never gonna run around\nand desert you ♪ ♪ Never gonna make you cry ♪ ♪ Never gonna say goodbye ♪ ♪ Never gonna tell a lie\nand hurt you ♪",
+        "language": "en",
+        "source": "manual",
+        "char_count": 2089
+      },
+      "metadata": {
+        "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+        "author_name": "Rick Astley",
+        "author_url": "https://www.youtube.com/@RickAstleyYT",
+        "type": "video",
+        "height": 113,
+        "width": 200,
+        "version": "1.0",
+        "provider_name": "YouTube",
+        "provider_url": "https://www.youtube.com/",
+        "thumbnail_height": 360,
+        "thumbnail_width": 480,
+        "thumbnail_url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)\"></iframe>"
+      },
+      "download": {
+        "success": false,
+        "error": "yt_dlp_failed",
+        "stderr": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nWARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nWARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nWARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nERROR: Unable to download video subtitles for 'en-de-DE': HTTP Error 429: Too Many Requests"
+      },
+      "download_dir": "X:\\captures\\links\\OUTPUT\\youtube\\run_20260504_172547_test-links\\dQw4w9WgXcQ"
+    }
+  ]
+}

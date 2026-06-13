@@ -1,0 +1,71 @@
+{
+  "paper_id": "MDA-041-statistical-spine",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-041-statistical-spine",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-041-statistical-spine\\JSON\\MDA-041-statistical-spine.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 5,
+  "failing_claim_count": 5,
+  "formal_marker_count": 0,
+  "failure_counts": {
+    "weak:Q3_mechanism": 3,
+    "weak:Q4_evidence": 5,
+    "weak:Q5_falsifiability": 5,
+    "weak:Q6_boundary": 4
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Easy and Academic are reserved surfaces. **Proof** opens the evidence and derivation layer."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "No claim from this article survived the deterministic Axiom + 7Q gate strongly enough for the proof layer yet."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "Radio enters homes Model T everywhere Prohibition failing Scopes trial shakes fundamentalism Roaring Twenties â€” first mass consumer culture"
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "He hasn't heard actual silence in years. \\* DIVORCE PARADOX Divorce rate drops not because marriages got stronger, but because fewer people marry."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Divorce rises, peaks, and drops only because marriage did first."
+    }
+  ]
+}

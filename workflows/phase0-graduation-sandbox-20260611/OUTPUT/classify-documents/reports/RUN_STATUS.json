@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-06-11T01:45:04",
+  "input_dir": "X:\\Backside\\workflows\\phase0-graduation-sandbox-20260611\\INPUT",
+  "output_dir": "X:\\Backside\\workflows\\phase0-graduation-sandbox-20260611\\OUTPUT\\classify-documents",
+  "export_subdirs": {
+    "json": "X:\\Backside\\workflows\\phase0-graduation-sandbox-20260611\\OUTPUT\\classify-documents\\json",
+    "csv": "X:\\Backside\\workflows\\phase0-graduation-sandbox-20260611\\OUTPUT\\classify-documents\\csv",
+    "reports": "X:\\Backside\\workflows\\phase0-graduation-sandbox-20260611\\OUTPUT\\classify-documents\\reports",
+    "vectors": "X:\\Backside\\workflows\\phase0-graduation-sandbox-20260611\\OUTPUT\\classify-documents\\vectors"
+  },
+  "file_count": 5,
+  "embedding_engine": "deterministic-fallback",
+  "engine_notes": [
+    "model_mode=fallback"
+  ]
+}

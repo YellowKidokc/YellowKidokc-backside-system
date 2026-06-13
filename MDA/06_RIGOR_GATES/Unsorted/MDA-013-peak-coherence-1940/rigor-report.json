@@ -1,0 +1,77 @@
+{
+  "paper_id": "MDA-013-peak-coherence-1940",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-013-peak-coherence-1940",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-013-peak-coherence-1940\\JSON\\MDA-013-peak-coherence-1940.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:28",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 6,
+  "failing_claim_count": 6,
+  "formal_marker_count": 1,
+  "failure_counts": {
+    "weak:Q4_evidence": 6,
+    "weak:Q5_falsifiability": 5,
+    "weak:Q6_boundary": 4,
+    "weak:Q3_mechanism": 1
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Not because Americans in the 1940s were uniformly virtuous."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The 1940s did not maintain coherence because Americans behaved well."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "They maintained coherence because the institutions **punished public revelation of how they actually behaved**."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence"
+      ],
+      "claim": "That single institutional change is one of the six simultaneous structural breaks in the 1968–1973 decoupling that the framework predicts."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "The model would be replicated by academic research challenging segregated institutions and inherited norms — catalyzing the authority shift away from moralists and toward technocrats."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The consensus was already irrevocably changed, however, because the public was now armed with the implicit knowledge that the formal moral code was a façade."
+    }
+  ]
+}

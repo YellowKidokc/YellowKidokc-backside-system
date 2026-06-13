@@ -1,0 +1,251 @@
+{
+  "paper_id": "MDA-902-appendix-trans-domain-analysis",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-902-appendix-trans-domain-analysis",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-902-appendix-trans-domain-analysis\\JSON\\MDA-902-appendix-trans-domain-analysis.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:30",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 23,
+  "failing_claim_count": 22,
+  "formal_marker_count": 4,
+  "failure_counts": {
+    "weak:Q4_evidence": 20,
+    "weak:Q5_falsifiability": 22,
+    "weak:Q6_boundary": 19,
+    "weak:Q3_mechanism": 11
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "In that silence, you learn patience, because there is no alternative to patience."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Not because the structure forces him — the structure is gone."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Because he *decides*, and then he stops deciding."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "A story about what happens when the structures that held us together — geography, scarcity, community, church, silence, patience, the sheer cost of seeing a girl who lives six miles away — are removed one by one, and nothing replaces them. **Can we measure it?** Not with nostalgia."
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Not because people are evil, but because the shared meaning that makes correction *possible* has dissolved."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Crime rates measure breakdown after it manifests."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Not because the justices were evil."
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Because the culture had already moved, and the law followed."
+    },
+    {
+      "index": 9,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The part where you name your weaknesses before your critics do, fix what can be fixed, and specify exactly what evidence would prove you wrong."
+    },
+    {
+      "index": 10,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "P-VALUE CORRECTION | Claim | Paper | Actual | Status | | --- | --- | --- | --- | | p < 10−12 | Paper 1 | p = 0.003 | Wrong ×9 orders | | p < 10−6 | Paper 3 | p = 0.003 | Wrong ×3 orders | | p < 10−3 | Paper 2 | p = 0.003 | Correct | Canonical: **p = 0.003** (K-S test)."
+    },
+    {
+      "index": 11,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Not “one in a trillion.” We corrected this publicly because credibility matters more than impressiveness."
+    },
+    {
+      "index": 12,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "| Claim | Source | Actual | | --- | --- | --- | | “45 domains” | Papers 1, 2 | 45 scanned, 23 qualified | | “25 domains” | FACTS paper | Typo | | “23 domains” | Computation | Correct | 19 domains excluded for insufficient variance or unusable time series."
+    },
+    {
+      "index": 13,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The δ term implies constant-rate decay."
+    },
+    {
+      "index": 14,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "The phase transition model is probably more accurate."
+    },
+    {
+      "index": 15,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The equation doesn't care about the label."
+    },
+    {
+      "index": 16,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Because they were aimed at the wrong layer."
+    },
+    {
+      "index": 17,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "People wanted stability because the vocabulary made stability mean something."
+    },
+    {
+      "index": 18,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Alcohol collapsed 75% (7.1 → 1.8 gallons per capita) through moral suasion alone. *Before any prohibition legislation.* Families changed because language changed."
+    },
+    {
+      "index": 19,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "K1 RECOVERY WITHOUT β If any society recovers from χ < 0.35 to χ > 0.50 *without* activation of external constraint or transcendent authority, the model fails."
+    },
+    {
+      "index": 20,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "K2 COLLAPSE WITH β If a society with sustained high constraint pressure (P > 0.7) and active external input still collapses to χ < 0.35, the model fails."
+    },
+    {
+      "index": 21,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "If any civilization demonstrates economic collapse *preceding* semantic collapse, the invariant cascade is wrong."
+    },
+    {
+      "index": 22,
+      "status": "PASS",
+      "failures": [],
+      "claim": "If a competing model explains the same data with equal or greater predictive accuracy, fewer parameters, and a different causal mechanism, our model should be replaced."
+    },
+    {
+      "index": 23,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "paper_id": "MDA-033-entropic-society",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-033-entropic-society",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-033-entropic-society\\JSON\\MDA-033-entropic-society.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 17,
+  "failing_claim_count": 17,
+  "formal_marker_count": 2,
+  "failure_counts": {
+    "weak:Q3_mechanism": 9,
+    "weak:Q4_evidence": 15,
+    "weak:Q5_falsifiability": 17,
+    "weak:Q6_boundary": 14
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "A Conceptual and Critical Definition The investigation into the moral trajectory of American society requires a philosophical definition of technology that moves beyond mere tool usage."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Technology's role as a cultural determinant places its study within the domain of the humanities philosophy of technology, which emphasizes its meaning and impact on society.2 If philosophy seeks to understand how things in the broadest sense relate, then the vast scope and complexity of technological systems compel analysis of their moral footprint."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "This conceptual framework requires acknowledging that technology is fundamentally value-laden.1 Technical systems embody the goals of efficiency and power."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "When humans engage with the world through technology, they are, by necessity, adopting a maximizing and controlling approach.1 This approach, when applied ubiquitously, determines a \"technological way of life.\" The observed decline in social capital and psychological stability may, therefore, be viewed as the catastrophic consequences of a technological development driven by these unchecked values.1"
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The structural implication of this design choice is profound: if technological artifacts are the exteriorization of human intent,1 then the shift toward designed decay indicates a societal and corporate will that prioritizes maximum extraction (economic efficiency and power) over cultural permanence and stability.1 This technological entropy establishes a negative feedback loop: it structurally undermines the value of durability, making societal acceptance of transience and systemic breakdown seem normative."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Informational Integrity, defined by public confidence in governing and information-providing institutions, shows a crisis initiated long before the digital age, which subsequently allowed for the fragmentation of the Perpetual Connectivity era."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The data demonstrates that the crisis of Informational Integrity was initiated and cemented during Phase 1 (Mass Mediation) and the early part of Phase 2, primarily driven by centralized communication of political failure and war.13 Phase 1 generated **disillusionment**—the loss of faith in centralized authorities—decades before social media emerged."
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Psychological Entropy, the internal systemic breakdown characterized by acute mental distress, shows a strong, temporally acute correlation with the saturation of Perpetual Connectivity technology (Phase 3)."
+    },
+    {
+      "index": 9,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The prevalence of depression increased significantly from **8.2% in 2013–2014 to 13.1% in 2021–2023**.17 Current data shows that 16.0% of adolescents ages 12–17 have diagnosed anxiety, and 8.7% have diagnosed depression.18 Loneliness has been identified by the U.S."
+    },
+    {
+      "index": 10,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "While suicide rates fluctuated over the second half of the 20th century, the contemporary crisis is marked by the temporal alignment of the mental distress spike with the saturation point of social media adoption.17 Experimental studies establish a **causal link** between limited use of platforms like Facebook, Snapchat, and Instagram and improved well-being.23 The evidence points to a biological mechanism underlying the creation of Psychological Entropy."
+    },
+    {
+      "index": 11,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "### Mass Mediation and the Foundation of Decay The strong statistical correlation established between the rise of passive, broadcast media (Phase 1) and the initiation of large-scale social decay demonstrates that the systemic vulnerabilities in American moral capital were laid decades ago."
+    },
+    {
+      "index": 12,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The mass adoption of smartphones and social media (post-2013) corresponds precisely with the sharp, measurable spike in youth anxiety and depression.17 The causal evidence confirms that the technology is not merely present alongside the decay but actively diminishes well-being when used excessively.23 The crucial dynamic identified is the **entropic feedback loop**: the aesthetic of digital entropy (designed instability and transience) feeds directly into psychological entropy."
+    },
+    {
+      "index": 13,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The evidence suggests that technology often reflects or accelerates existing societal weaknesses."
+    },
+    {
+      "index": 14,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability"
+      ],
+      "claim": "The **Mass Mediation era (Phase 1)** initiated the fundamental structural decay, establishing an isolating media consumption model that severely undermined **Relational Coherence** (civic bonds) and generating the systemic political and media failures that destroyed **Informational Integrity** (institutional trust)."
+    },
+    {
+      "index": 15,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Technological systems must be submitted to a more democratic process to ensure that their embedded values extend beyond maximization and control.1 This requires mandating design transparency, allowing public scrutiny of algorithmic objectives, and holding technological corporations accountable for the measurable negative externalities (Psychological Entropy) produced by their systems."
+    },
+    {
+      "index": 16,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "These measures should include mandating default settings that impose age-appropriate usage limits, restrict features that interfere with sleep, and prohibit designs engineered to overstimulate the developing brain's reward centers.7 Addressing the public health epidemic of loneliness and disconnection19 requires not only limiting harmful exposure but also prioritizing and resourcing community-based interventions that emphasize non-mediated social interaction to rebuild the Relational Coherence eroded by preceding technological phases. ---"
+    },
+    {
+      "index": 17,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

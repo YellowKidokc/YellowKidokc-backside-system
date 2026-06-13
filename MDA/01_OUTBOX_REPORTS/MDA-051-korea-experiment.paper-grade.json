@@ -1,0 +1,182 @@
+{
+  "paper_id": "MDA-051-korea-experiment",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-051-korea-experiment.md",
+  "generated_at": "2026-05-30T05:31:58",
+  "metrics": {
+    "word_count": 1006,
+    "section_count": 22,
+    "equation_count": 10,
+    "claim_candidate_count": 3,
+    "top_terms": "korea, same, south, coherence, north, html, part, grace, threshold, divergence, trust, that, years, moral, decline"
+  },
+  "sections": [
+    {
+      "title": "Document Start",
+      "text": "---\nscrape_mode: markitdown_full\nsource_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-051-korea-experiment.html\"\nsource_sha256: ccc3c9eafbd2cf39c0ecb9214bf6e5bbdf943f90d0365cae936c71f9e0362732\ntitle: \"Part 8: The Korea Experiment — The Moral Decline of America\"\nmain_selector: \"main\"\nscraped_at: \"2026-05-25T13:23:03\"\n---\n[← Main Index](../index.html)\n|\n[Moral Decline](index.html)\n[← Prev: Part 7](MDA-042-amish-exception.html)\n|\n[Next: Part 9 →](MDA-054-individual-recovery.html)\n[Moral Decline of America](index.html)"
+    },
+    {
+      "title": "Part-Series",
+      "text": "Part 8 of 10\n[Next](MDA-054-individual-recovery.html)\nTheophysics Research • MDA Part-Series"
+    },
+    {
+      "title": "PART 08 OF 10",
+      "text": "# The Korea Experiment\nSame people. Same starting point. 400% divergence. Grace was the variable.\nDavid Lowe • Theophysics Institute\n[The Coherence Factor](/glossary/?term=the-coherence-factor \"See glossary: The Coherence Factor\")\n**The Coherence Factor (χ)** measures the degree to which a civilization's subsystems—families, institutions, trust networks, moral frameworks, and information flows—remain internally consistent, mutually reinforcing, and capable of coordinated action.\nχ = 1.0 means perfect alignment. χ = 0.0 means total fragmentation.\nCurrent U.S. χ: **≈ 0.27**\nCritical Threshold: **0.35**\nStatus: **Threshold Crossed**\nThe Amish prove **prevention**.\nBut we need **recovery**.\nWe need proof that coherence can be restored after it collapses—that crossing the threshold isn't a death sentence.\nKorea provides that proof.\n---"
+    },
+    {
+      "title": "The Controlled Experiment",
+      "text": "In 1945, Korea was a single nation.\nSame people. Same culture. Same language. Same history. Same starting coherence.\nThen the country was divided.\n* **North**: Soviet occupation, then Kim Il-sung\n* **South**: U.S. occupation, then Syngman Rhee\nSame substrate. Different systems.\n70 years later, the results are in.\n---"
+    },
+    {
+      "title": "The Divergence",
+      "text": "### South Korea 2024\n| Domain | Score | Notes |\n| --- | --- | --- |\n| Family | 0.65 | Declining but functional |\n| Trust | 0.55 | Moderate institutional trust |\n| Safety | 0.85 | One of safest countries on Earth |\n| Self-Control | 0.60 | Issues emerging |\n| Mental Health | 0.45 | Suicide rate high, but community exists |\n| Economic | 0.82 | Top 10 global economy from rubble |\n| Civic | 0.70 | High participation |\n| Shared Meaning | 0.55 | Mixed—Christianity + Confucian + secular |\n| Intergenerational | 0.50 | Declining but intact |\n| **χ (Total)** | **0.63** | **Functional** |"
+    },
+    {
+      "title": "North Korea 2024",
+      "text": "| Domain | Score | Notes |\n| --- | --- | --- |\n| Family | 0.25 | State supersedes family, informants within families |\n| Trust | 0.10 | Trust no one, even family members report each other |\n| Safety | 0.20 | State violence omnipresent |\n| Self-Control | N/A | Controlled by deprivation, not choice |\n| Mental Health | 0.15 | Mass trauma, no treatment |\n| Economic | 0.15 | Periodic famine, total poverty |\n| Civic | 0.05 | Forced participation only |\n| Shared Meaning | 0.20 | Juche ideology, no organic meaning |\n| Intergenerational | 0.15 | State raises children, elders disposable |\n| **χ (Total)** | **0.15** | **Collapsed** |\n**South Korea χ = 0.63**\n**North Korea χ = 0.15**\nSame people. Same starting point. **400% divergence.**\n---"
+    },
+    {
+      "title": "What Made the Difference?",
+      "text": "Several factors contributed. But one stands out."
+    },
+    {
+      "title": "Christianity in South Korea",
+      "text": "| Year | Christian % of South Korea |\n| --- | --- |\n| 1945 | 2% |\n| 1960 | 5% |\n| 1980 | 25% |\n| 2000 | 29% |\n| 2020 | 29% |\nFrom 2% to nearly 30% in 50 years.\n**During the exact period** when coherence was being built.\nThe largest church in the world (Yoido Full Gospel) is in Seoul—800,000 members.\nSouth Korea sends more missionaries per capita than any nation except the United States."
+    },
+    {
+      "title": "Christianity in North Korea",
+      "text": "| Year | Christian Estimate |\n| --- | --- |\n| 1945 | ~2% (Pyongyang was \"Jerusalem of the East\") |\n| 1953 | Near 0% (post-war persecution) |\n| 2024 | ~50,000 underground (est.) |\nChristianity was **systematically eliminated**.\n* Churches destroyed\n* Pastors killed\n* Believers imprisoned\n* Three generations punished for one person's faith\nNorth Korea removed the grace coefficient (β) entirely.\n---"
+    },
+    {
+      "title": "The β Variable",
+      "text": "Remember the coherence equation:\nχ(t+1) = χ(t) × (1 − δ) + β"
+    },
+    {
+      "title": "Where:",
+      "text": "* χ = coherence\n* δ = decay rate (entropy)\n* **β = grace coefficient** (external restoration input)\n**South Korea**: β allowed to operate through churches\n**North Korea**: β systematically removed\nSame substrate. Same starting coherence. Different β values.\nResult: **400% divergence** over 70 years.\n---"
+    },
+    {
+      "title": "The Numbers That Matter",
+      "text": "### Economic (Proxy for coherence outcomes)\n| Metric | South | North | Ratio |\n| --- | --- | --- | --- |\n| GDP per capita | $35,000 | $1,800 | **19:1** |\n| Life expectancy | 83 years | 72 years | **+11 years** |\n| Infant mortality | 2.6/1000 | 22/1000 | **8:1** |"
+    },
+    {
+      "title": "Social",
+      "text": "| Metric | South | North |\n| --- | --- | --- |\n| Press freedom rank | 43/180 | 180/180 |\n| Human Development Index | 0.925 (top 20) | 0.4 (est.) |\n| Happiness rank | 57/137 | Not measured (would be last) |"
+    },
+    {
+      "title": "Religious (The β indicator)",
+      "text": "| Metric | South | North |\n| --- | --- | --- |\n| Churches | 77,000+ | ~0 official |\n| Christians | 15 million | ~50,000 underground |\n| Religious freedom | Constitutional | Death penalty |\n---"
+    },
+    {
+      "title": "What This Proves",
+      "text": "Korea isn't just correlation. It's **causation with control**.\n**Variable isolated**: Grace allowed vs. grace forbidden\n**Variable controlled**: Same people, culture, language, history\n**Outcome measured**: 400% coherence divergence\nThis is as close to laboratory conditions as history provides.\n---"
+    },
+    {
+      "title": "The South Korean Recovery",
+      "text": "South Korea in 1953 was rubble.\n* Colonized for 35 years (Japan)\n* War-devastated\n* Split from half its country\n* One of poorest nations on Earth\n* χ was **well below threshold**\nBy every measure, South Korea should have collapsed into permanent dysfunction."
+    },
+    {
+      "title": "Instead, it became:",
+      "text": "* Top 10 global economy\n* Technology leader\n* Cultural exporter (K-pop, K-drama)\n* Functional democracy\n**Coherence was restored from below threshold.**\nHow?"
+    },
+    {
+      "title": "Churches became the coherence-generating institutions:",
+      "text": "* Community formation\n* Trust networks\n* Shared meaning\n* Mutual aid\n* Intergenerational transmission\nThe same functions that American churches used to perform—before they stopped.\n---"
+    },
+    {
+      "title": "The North Korean Warning",
+      "text": "North Korea shows what happens when β = 0.\nNo external input. No grace. Pure entropy.\nThe result is not just poverty. It's **anti-coherence**:\n* Families spy on each other\n* Trust is suicide\n* Meaning is whatever the state says today\n* Children report parents\nBelow threshold with no grace coefficient = civilizational death.\n---"
+    },
+    {
+      "title": "The Lesson for America",
+      "text": "America's χ = 0.27. Below threshold."
+    },
+    {
+      "title": "Korea proves:",
+      "text": "1. **Below threshold isn't permanent** (South Korea recovered)\n2. **The β coefficient matters** (divergence correlates with church growth)\n3. **Without β, decline accelerates** (North Korea continues collapsing)\nThe question isn't whether recovery is possible.\nKorea proves it is.\nThe question is whether we'll accept the mechanism that enables it.\nSouth Korea χ = 0.63 (with β)\nNorth Korea χ = 0.15 (without β)\nSame people.\nSame starting point.\nDifferent grace coefficients.\n400% divergence.\nβ is the variable that matters.\nNext: Part 9 — Individual Recovery.\n*When persons restore coherence: The AA pattern.*\n[Previous: Part 7\nThe Amish Exception](MDA-042-amish-exception.html)"
+    },
+    {
+      "title": "Part 8 of 10",
+      "text": "[Next: Part 9\nIndividual Recovery](MDA-054-individual-recovery.html)\nMoral Decline of America • Theophysics Institute\nDavid Lowe • Theophysics Institute • 2024-2026"
+    }
+  ],
+  "equations": [
+    "35,000 |",
+    "[The Coherence Factor](/glossary/?term=the-coherence-factor \"See glossary: The Coherence Factor\")",
+    "**South Korea χ = 0.63**",
+    "**North Korea χ = 0.15**",
+    "χ(t+1) = χ(t) × (1 − δ) + β",
+    "* χ = coherence",
+    "* δ = decay rate (entropy)",
+    "* **β = grace coefficient** (external restoration input)",
+    "South Korea χ = 0.63 (with β)",
+    "North Korea χ = 0.15 (without β)"
+  ],
+  "claims": [
+    {
+      "paper_id": "MDA-051-korea-experiment",
+      "section": "The β Variable",
+      "one_sentence_claim": "Remember the coherence equation: χ(t+1) = χ(t) × (1 − δ) + β",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: equation, coherence",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "χ(t+1) = χ(t) × (1 − δ) + β",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-051-korea-experiment",
+      "section": "The South Korean Recovery",
+      "one_sentence_claim": "South Korea in 1953 was rubble. * Colonized for 35 years (Japan) * War-devastated * Split from half its country * One of poorest nations on Earth * χ was **well below threshold** By every measure, South Korea should have collapsed into permanent dysfunction.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "South Korea χ = 0.63 (with β)",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-051-korea-experiment",
+      "section": "The North Korean Warning",
+      "one_sentence_claim": "North Korea shows what happens when β = 0.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "North Korea χ = 0.15 (without β)",
+      "Q1_identity": "implicit",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+[
+  {
+    "paper_id": "MDA-001-story-introduction",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-001-story-introduction.md",
+    "metrics": {
+      "word_count": 871,
+      "section_count": 18,
+      "equation_count": 0,
+      "claim_candidate_count": 7,
+      "top_terms": "what, lowe, html, index, because, delta, part, story, structure, world, tells, down, chosen, samuel, jake"
+    }
+  },
+  {
+    "paper_id": "MDA-002-samuel-1900",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-002-samuel-1900.md",
+    "metrics": {
+      "word_count": 269,
+      "section_count": 9,
+      "equation_count": 0,
+      "claim_candidate_count": 2,
+      "top_terms": "samuel, html, miles, this, story, 1900, index, ring, moral, decline, america, main, baseline, rural, million"
+    }
+  },
+  {
+    "paper_id": "MDA-003-measuring-moral-health",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-003-measuring-moral-health.md",
+    "metrics": {
+      "word_count": 851,
+      "section_count": 11,
+      "equation_count": 1,
+      "claim_candidate_count": 3,
+      "top_terms": "coherence, part, what, html, factor, moral, that, whether, have, next, measures, threshold, this, decline, index"
+    }
+  },
+  {
+    "paper_id": "MDA-004-facts-framework",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-004-facts-framework.md",
+    "metrics": {
+      "word_count": 2587,
+      "section_count": 58,
+      "equation_count": 8,
+      "claim_candidate_count": 18,
+      "top_terms": "decay, coherence, this, domains, with, 1958, data, inflection, paper, analysis, 1968, html, index, decline, pattern"
+    }
+  },
+  {
+    "paper_id": "MDA-005-empirical-evidence",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-005-empirical-evidence.md",
+    "metrics": {
+      "word_count": 1125,
+      "section_count": 22,
+      "equation_count": 4,
+      "claim_candidate_count": 4,
+      "top_terms": "decline, points, 1973, constraint, domains, 1968, correlation, rate, html, social, coherence, years, should, transition, across"
+    }
+  },
+  {
+    "paper_id": "MDA-006-research-method",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-006-research-method.md",
+    "metrics": {
+      "word_count": 1116,
+      "section_count": 18,
+      "equation_count": 0,
+      "claim_candidate_count": 7,
+      "top_terms": "this, research, where, question, that, with, method, what, contradictions, html, used, does, evidence, found, before"
+    }
+  },
+  {
+    "paper_id": "MDA-007-nine-domains",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-007-nine-domains.md",
+    "metrics": {
+      "word_count": 1081,
+      "section_count": 28,
+      "equation_count": 4,
+      "claim_candidate_count": 3,
+      "top_terms": "score0, rate, coherence, people, 1900, 2024, html, question, part, trust, indicators, matters, when, nine, moral"
+    }
+  },
+  {
+    "paper_id": "MDA-008-henry-1926",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-008-henry-1926.md",
+    "metrics": {
+      "word_count": 3718,
+      "section_count": 20,
+      "equation_count": 0,
+      "claim_candidate_count": 8,
+      "top_terms": "henry, that, still, from, they, what, about, samuel, have, radio, this, doesn't, world, it's, there"
+    }
+  },
+  {
+    "paper_id": "MDA-009-the-1900-baseline",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-009-the-1900-baseline.md",
+    "metrics": {
+      "word_count": 1289,
+      "section_count": 33,
+      "equation_count": 14,
+      "claim_candidate_count": 7,
+      "top_terms": "what, were, people, your, html, meant, they, numbers, practice, part, moral, rate, because, decline, coherence"
+    }
+  },
+  {
+    "paper_id": "MDA-010-pre-modern-baseline",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-010-pre-modern-baseline.md",
+    "metrics": {
+      "word_count": 3589,
+      "section_count": 30,
+      "equation_count": 1,
+      "claim_candidate_count": 7,
+      "top_terms": "moral, social, federal, 1900, 1919, rate, high, that, local, with, census, were, legal, labor, baseline"
+    }
+  },
+  {
+    "paper_id": "MDA-011-collective-security-1930",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-011-collective-security-1930.md",
+    "metrics": {
+      "word_count": 1876,
+      "section_count": 33,
+      "equation_count": 0,
+      "claim_candidate_count": 2,
+      "top_terms": "moral, 1940, https, 1930, html, security, this, social, economic, public, code, institutional, with, family, first"
+    }
+  },
+  {
+    "paper_id": "MDA-012-william-1950",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-012-william-1950.md",
+    "metrics": {
+      "word_count": 3719,
+      "section_count": 20,
+      "equation_count": 2,
+      "claim_candidate_count": 6,
+      "top_terms": "that, bill, this, doesn't, about, will, what, mary, they, know, with, like, henry, world, television"
+    }
+  },
+  {
+    "paper_id": "MDA-013-peak-coherence-1940",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-013-peak-coherence-1940.md",
+    "metrics": {
+      "word_count": 2225,
+      "section_count": 25,
+      "equation_count": 0,
+      "claim_candidate_count": 6,
+      "top_terms": "that, moral, coherence, 1940s, code, peak, decade, family, html, consensus, 1949, high, authority, 1940, kinsey"
+    }
+  },
+  {
+    "paper_id": "MDA-014-fissure-1950",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-014-fissure-1950.md",
+    "metrics": {
+      "word_count": 1861,
+      "section_count": 26,
+      "equation_count": 0,
+      "claim_candidate_count": 8,
+      "top_terms": "moral, 1960, that, from, html, peak, decade, were, american, 1950, national, 1950s, television, same, which"
+    }
+  },
+  {
+    "paper_id": "MDA-015-long-decline",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-015-long-decline.md",
+    "metrics": {
+      "word_count": 987,
+      "section_count": 12,
+      "equation_count": 3,
+      "claim_candidate_count": 1,
+      "top_terms": "coherence, html, family, part, decline, trust, what, 1900, 1965, from, still, moral, civic, each, were"
+    }
+  },
+  {
+    "paper_id": "MDA-016-thomas-1974",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-016-thomas-1974.md",
+    "metrics": {
+      "word_count": 3436,
+      "section_count": 19,
+      "equation_count": 0,
+      "claim_candidate_count": 9,
+      "top_terms": "tommy, that, what, doesn't, bill, know, they, this, about, father, from, he's, just, 1974, something"
+    }
+  },
+  {
+    "paper_id": "MDA-017-unraveling-1960",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-017-unraveling-1960.md",
+    "metrics": {
+      "word_count": 1831,
+      "section_count": 31,
+      "equation_count": 0,
+      "claim_candidate_count": 3,
+      "top_terms": "1960, https, moral, 1967, trust, html, rate, government, this, marriage, from, decline, that, high, with"
+    }
+  },
+  {
+    "paper_id": "MDA-018-great-decoupling-1968",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-018-great-decoupling-1968.md",
+    "metrics": {
+      "word_count": 2757,
+      "section_count": 27,
+      "equation_count": 0,
+      "claim_candidate_count": 6,
+      "top_terms": "1973, from, this, 1968, authority, traditional, that, moral, were, social, trust, technocratic, html, family, institutions"
+    }
+  },
+  {
+    "paper_id": "MDA-019-current-state-2024",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-019-current-state-2024.md",
+    "metrics": {
+      "word_count": 2275,
+      "section_count": 23,
+      "equation_count": 6,
+      "claim_candidate_count": 6,
+      "top_terms": "amish, population, 2024, that, from, county, html, 2025, land, where, growth, holmes, this, doubling, with"
+    }
+  },
+  {
+    "paper_id": "MDA-020-phase-transition",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-020-phase-transition.md",
+    "metrics": {
+      "word_count": 1028,
+      "section_count": 22,
+      "equation_count": 3,
+      "claim_candidate_count": 1,
+      "top_terms": "coherence, 1973, trust, html, part, decline, transition, years, phase, from, that, five, shared, meaning, impact"
+    }
+  },
+  {
+    "paper_id": "MDA-021-anatomy-of-phase-transition",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-021-anatomy-of-phase-transition.md",
+    "metrics": {
+      "word_count": 1420,
+      "section_count": 31,
+      "equation_count": 0,
+      "claim_candidate_count": 13,
+      "top_terms": "coherence, system, that, entropy, html, moral, what, 1958, from, index, peak, because, church, part, this"
+    }
+  },
+  {
+    "paper_id": "MDA-022-cascade",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-022-cascade.md",
+    "metrics": {
+      "word_count": 1086,
+      "section_count": 15,
+      "equation_count": 5,
+      "claim_candidate_count": 3,
+      "top_terms": "trust, shared, coherence, what, html, meaning, part, decline, threshold, fragments, every, families, critical, that, crisis"
+    }
+  },
+  {
+    "paper_id": "MDA-023-coherence-cascade",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-023-coherence-cascade.md",
+    "metrics": {
+      "word_count": 383,
+      "section_count": 11,
+      "equation_count": 2,
+      "claim_candidate_count": 1,
+      "top_terms": "2025, 1974, 1998, words, collapse, semantic, 1950, html, coherence, cascade, first, across, story, then, familial"
+    }
+  },
+  {
+    "paper_id": "MDA-024-semantic-collapse",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-024-semantic-collapse.md",
+    "metrics": {
+      "word_count": 838,
+      "section_count": 23,
+      "equation_count": 0,
+      "claim_candidate_count": 4,
+      "top_terms": "html, decline, terms, semantic, language, this, culture, moral, virtue, threshold, series, part, theophysics, that, already"
+    }
+  },
+  {
+    "paper_id": "MDA-025-cognitive-decline",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-025-cognitive-decline.md",
+    "metrics": {
+      "word_count": 784,
+      "section_count": 24,
+      "equation_count": 0,
+      "claim_candidate_count": 2,
+      "top_terms": "html, decline, 1963, moral, this, virtue, objective, cognitive, series, part, theophysics, semantic, that, excellence, subjective"
+    }
+  },
+  {
+    "paper_id": "MDA-026-spiritual-collapse",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-026-spiritual-collapse.md",
+    "metrics": {
+      "word_count": 792,
+      "section_count": 22,
+      "equation_count": 0,
+      "claim_candidate_count": 1,
+      "top_terms": "html, mainline, decline, 1963, this, from, through, valium, moral, 1965, membership, virtue, anxiety, spiritual, psychological"
+    }
+  },
+  {
+    "paper_id": "MDA-027-signal-went-dark",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-027-signal-went-dark.md",
+    "metrics": {
+      "word_count": 1367,
+      "section_count": 45,
+      "equation_count": 1,
+      "claim_candidate_count": 8,
+      "top_terms": "signal, truth, institutional, institutions, html, trust, this, that, 1973, coherence, when, 2024, inversion, people, collapse"
+    }
+  },
+  {
+    "paper_id": "MDA-028-phantom-money",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-028-phantom-money.md",
+    "metrics": {
+      "word_count": 1469,
+      "section_count": 77,
+      "equation_count": 12,
+      "claim_candidate_count": 7,
+      "top_terms": "wealth, phantom, real, debt, html, monetary, economic, from, income, economy, asset, coherence, that, money, this"
+    }
+  },
+  {
+    "paper_id": "MDA-029-observer-collapsed",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-029-observer-collapsed.md",
+    "metrics": {
+      "word_count": 1467,
+      "section_count": 88,
+      "equation_count": 1,
+      "claim_candidate_count": 5,
+      "top_terms": "identity, your, self, that, stable, coherence, html, individual, observer, social, which, moral, media, can't, reality"
+    }
+  },
+  {
+    "paper_id": "MDA-030-trinity-mechanism",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-030-trinity-mechanism.md",
+    "metrics": {
+      "word_count": 1617,
+      "section_count": 55,
+      "equation_count": 16,
+      "claim_candidate_count": 6,
+      "top_terms": "reality, potential, spirit, father, infinite, that, system, structure, actualization, cdot, quantum, trinity, into, glossary, theophysics"
+    }
+  },
+  {
+    "paper_id": "MDA-031-jacob-1998",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-031-jacob-1998.md",
+    "metrics": {
+      "word_count": 2881,
+      "section_count": 17,
+      "equation_count": 0,
+      "claim_candidate_count": 7,
+      "top_terms": "jake, with, that, doesn't, from, they, have, infinite, this, what, something, know, he's, years, time"
+    }
+  },
+  {
+    "paper_id": "MDA-032-why-bad-is-easier",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-032-why-bad-is-easier.md",
+    "metrics": {
+      "word_count": 899,
+      "section_count": 39,
+      "equation_count": 0,
+      "claim_candidate_count": 5,
+      "top_terms": "this, that, easier, than, shortcut, html, index, virtue, human, when, moral, series, work, same, coherence"
+    }
+  },
+  {
+    "paper_id": "MDA-033-entropic-society",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-033-entropic-society.md",
+    "metrics": {
+      "word_count": 4475,
+      "section_count": 51,
+      "equation_count": 0,
+      "claim_candidate_count": 17,
+      "top_terms": "that, technology, 2025, social, this, phase, decline, technological, entropy, https, accessed, december, moral, with, decay"
+    }
+  },
+  {
+    "paper_id": "MDA-034-technology-entropy",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-034-technology-entropy.md",
+    "metrics": {
+      "word_count": 2322,
+      "section_count": 58,
+      "equation_count": 0,
+      "claim_candidate_count": 6,
+      "top_terms": "technology, https, phase, social, moral, decline, that, with, html, entropy, technological, media, this, cultural, trust"
+    }
+  },
+  {
+    "paper_id": "MDA-035-great-reconfiguration",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-035-great-reconfiguration.md",
+    "metrics": {
+      "word_count": 3948,
+      "section_count": 36,
+      "equation_count": 0,
+      "claim_candidate_count": 12,
+      "top_terms": "institutional, membership, from, https, this, decline, religious, church, attendance, that, ntfs, 2024, christian, religion, affiliation"
+    }
+  },
+  {
+    "paper_id": "MDA-036-regulatory-impulse-1900",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-036-regulatory-impulse-1900.md",
+    "metrics": {
+      "word_count": 4980,
+      "section_count": 39,
+      "equation_count": 2,
+      "claim_candidate_count": 8,
+      "top_terms": "moral, 1900, 1910, this, https, that, social, from, percent, public, rate, economic, state, national, analysis"
+    }
+  },
+  {
+    "paper_id": "MDA-037-biaxiosum-audit",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-037-biaxiosum-audit.md",
+    "metrics": {
+      "word_count": 1109,
+      "section_count": 26,
+      "equation_count": 0,
+      "claim_candidate_count": 12,
+      "top_terms": "they, rights, biaxiosum, that, biased, axiom, toward, these, them, government, before, with, believe, this, consciousness"
+    }
+  },
+  {
+    "paper_id": "MDA-038-coherence-metric",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-038-coherence-metric.md",
+    "metrics": {
+      "word_count": 1604,
+      "section_count": 36,
+      "equation_count": 5,
+      "claim_candidate_count": 13,
+      "top_terms": "coherence, constraint, domains, from, this, across, independent, framework, critical, window, divorce, 1968, 1973, they, collapse"
+    }
+  },
+  {
+    "paper_id": "MDA-039-physics-of-coherence",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-039-physics-of-coherence.md",
+    "metrics": {
+      "word_count": 319,
+      "section_count": 10,
+      "equation_count": 4,
+      "claim_candidate_count": 0,
+      "top_terms": "phase, coherence, order, transition, system, parameter, coherent, when, cooper, disordered, ordered, physics, what, measurable, they"
+    }
+  },
+  {
+    "paper_id": "MDA-040-statistical-synthesis",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-040-statistical-synthesis.md",
+    "metrics": {
+      "word_count": 1971,
+      "section_count": 105,
+      "equation_count": 2,
+      "claim_candidate_count": 9,
+      "top_terms": "from, 1900, with, rate, that, baseline, family, 1950, divorce, people, technology, church, children, peak, american"
+    }
+  },
+  {
+    "paper_id": "MDA-041-statistical-spine",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-041-statistical-spine.md",
+    "metrics": {
+      "word_count": 715,
+      "section_count": 65,
+      "equation_count": 6,
+      "claim_candidate_count": 5,
+      "top_terms": "divorce, marriage, trust, outside, voices, coherence, factor, church, premarital, part, weekly, fertility, others, violent, crime"
+    }
+  },
+  {
+    "paper_id": "MDA-042-amish-exception-THE-CLAIM",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-042-amish-exception-THE-CLAIM.md",
+    "metrics": {
+      "word_count": 987,
+      "section_count": 22,
+      "equation_count": 3,
+      "claim_candidate_count": 8,
+      "top_terms": "amish, coherence, decline, same, each, html, shared, they, different, principle, that, community, outside, index, information"
+    }
+  },
+  {
+    "paper_id": "MDA-043-amish-proof-THE-PROOF",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-043-amish-proof-THE-PROOF.md",
+    "metrics": {
+      "word_count": 2342,
+      "section_count": 46,
+      "equation_count": 1,
+      "claim_candidate_count": 10,
+      "top_terms": "amish, they, community, that, what, coherence, control, rate, same, technology, shared, html, this, freedom, each"
+    }
+  },
+  {
+    "paper_id": "MDA-044-amish-control-study-THE-METHOD",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-044-amish-control-study-THE-METHOD.md",
+    "metrics": {
+      "word_count": 1428,
+      "section_count": 39,
+      "equation_count": 2,
+      "claim_candidate_count": 6,
+      "top_terms": "they, amish, that, html, mainstream, metric, community, rate, population, modern, technology, lower, zero, theophysics, constraint"
+    }
+  },
+  {
+    "paper_id": "MDA-045-amish-control-group-THE-DATA",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-045-amish-control-group-THE-DATA.md",
+    "metrics": {
+      "word_count": 3311,
+      "section_count": 33,
+      "equation_count": 2,
+      "claim_candidate_count": 5,
+      "top_terms": "amish, that, they, population, system, from, this, rate, same, american, community, america, health, children, variable"
+    }
+  },
+  {
+    "paper_id": "MDA-046-amish-demographics-THE-NUMBERS",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-046-amish-demographics-THE-NUMBERS.md",
+    "metrics": {
+      "word_count": 2368,
+      "section_count": 24,
+      "equation_count": 8,
+      "claim_candidate_count": 6,
+      "top_terms": "amish, population, from, county, growth, that, 2024, holmes, html, fertility, with, land, this, retention, church"
+    }
+  },
+  {
+    "paper_id": "MDA-047-amish-tech-filter-THE-FILTER",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-047-amish-tech-filter-THE-FILTER.md",
+    "metrics": {
+      "word_count": 2061,
+      "section_count": 24,
+      "equation_count": 0,
+      "claim_candidate_count": 3,
+      "top_terms": "phase, that, technology, amish, what, social, technological, html, filter, decay, coherence, with, moral, decline, will"
+    }
+  },
+  {
+    "paper_id": "MDA-048-ordnung-algorithm-THE-MECHANISM",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-048-ordnung-algorithm-THE-MECHANISM.md",
+    "metrics": {
+      "word_count": 4547,
+      "section_count": 63,
+      "equation_count": 2,
+      "claim_candidate_count": 17,
+      "top_terms": "amish, this, that, rule, social, with, community, https, coherence, world, they, algorithm, technology, ordnung, technological"
+    }
+  },
+  {
+    "paper_id": "MDA-049-coherence-factory-THE-SYNTHESIS",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-049-coherence-factory-THE-SYNTHESIS.md",
+    "metrics": {
+      "word_count": 1727,
+      "section_count": 26,
+      "equation_count": 0,
+      "claim_candidate_count": 10,
+      "top_terms": "that, rule, amish, html, coherence, this, membrane, with, community, artifact, algorithm, every, america, part, they"
+    }
+  },
+  {
+    "paper_id": "MDA-050-jacob-2025",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-050-jacob-2025.md",
+    "metrics": {
+      "word_count": 4359,
+      "section_count": 23,
+      "equation_count": 0,
+      "claim_candidate_count": 18,
+      "top_terms": "jake, that, they, something, have, says, about, because, years, he's, just, this, stay, like, what"
+    }
+  },
+  {
+    "paper_id": "MDA-051-korea-experiment",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-051-korea-experiment.md",
+    "metrics": {
+      "word_count": 1006,
+      "section_count": 22,
+      "equation_count": 10,
+      "claim_candidate_count": 3,
+      "top_terms": "korea, same, south, coherence, north, html, part, grace, threshold, divergence, trust, that, years, moral, decline"
+    }
+  },
+  {
+    "paper_id": "MDA-052-individual-recovery",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-052-individual-recovery.md",
+    "metrics": {
+      "word_count": 1030,
+      "section_count": 30,
+      "equation_count": 1,
+      "claim_candidate_count": 3,
+      "top_terms": "coherence, html, recovery, threshold, part, pattern, individual, this, restoration, same, submission, moral, next, millions, over"
+    }
+  },
+  {
+    "paper_id": "MDA-053-the-question",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-053-the-question.md",
+    "metrics": {
+      "word_count": 1246,
+      "section_count": 31,
+      "equation_count": 7,
+      "claim_candidate_count": 3,
+      "top_terms": "coherence, this, question, that, threshold, with, html, index, what, recovery, below, mechanism, decline, america, series"
+    }
+  },
+  {
+    "paper_id": "MDA-054-way-back",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-054-way-back.md",
+    "metrics": {
+      "word_count": 2866,
+      "section_count": 58,
+      "equation_count": 2,
+      "claim_candidate_count": 17,
+      "top_terms": "that, coherence, with, this, from, semantic, decline, html, recovery, moral, when, every, system, what, institutional"
+    }
+  },
+  {
+    "paper_id": "MDA-900-appendix-original-introduction",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-900-appendix-original-introduction.md",
+    "metrics": {
+      "word_count": 1351,
+      "section_count": 37,
+      "equation_count": 0,
+      "claim_candidate_count": 13,
+      "top_terms": "what, equation, coherence, that, from, moral, this, html, signal, with, data, framework, series, when, decline"
+    }
+  },
+  {
+    "paper_id": "MDA-901-appendix-america-index",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-901-appendix-america-index.md",
+    "metrics": {
+      "word_count": 394,
+      "section_count": 17,
+      "equation_count": 0,
+      "claim_candidate_count": 1,
+      "top_terms": "html, series, index, moral, framework, decline, theophysics, facts, stories, data, from, begins, institute, parts, methodology"
+    }
+  },
+  {
+    "paper_id": "MDA-902-appendix-trans-domain-analysis",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-902-appendix-trans-domain-analysis.md",
+    "metrics": {
+      "word_count": 4157,
+      "section_count": 95,
+      "equation_count": 19,
+      "claim_candidate_count": 23,
+      "top_terms": "coherence, that, from, part, moral, family, what, with, years, phase, semantic, decline, lowe, divorce, institutional"
+    }
+  },
+  {
+    "paper_id": "MDA-903-appendix-series-home",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-903-appendix-series-home.md",
+    "metrics": {
+      "word_count": 930,
+      "section_count": 15,
+      "equation_count": 0,
+      "claim_candidate_count": 8,
+      "top_terms": "html, decline, decoherence, moral, framework, this, domains, what, institutional, series, loses, when, america, physics, cultural"
+    }
+  },
+  {
+    "paper_id": "MDA-904-appendix-sample",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-904-appendix-sample.md",
+    "metrics": {
+      "word_count": 290,
+      "section_count": 21,
+      "equation_count": 0,
+      "claim_candidate_count": 1,
+      "top_terms": "moral, decline, collapse, html, america, 2025, index, series, theophysics, framework, ring, 1958, genesis, quantum, part"
+    }
+  },
+  {
+    "paper_id": "MDA-905-appendix-timeline",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-905-appendix-timeline.md",
+    "metrics": {
+      "word_count": 2257,
+      "section_count": 59,
+      "equation_count": 0,
+      "claim_candidate_count": 4,
+      "top_terms": "moral, https, from, decline, political, ethics, social, html, authority, 2000, traditional, that, cultural, present, digital"
+    }
+  },
+  {
+    "paper_id": "MDA-906-appendix-93-year-floor",
+    "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-906-appendix-93-year-floor.md",
+    "metrics": {
+      "word_count": 2248,
+      "section_count": 29,
+      "equation_count": 5,
+      "claim_candidate_count": 25,
+      "top_terms": "floor, years, that, lifespan, moses, curve, from, because, data, decay, entropy, exponential, genesis, model, same"
+    }
+  }
+]

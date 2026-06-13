@@ -1,0 +1,48 @@
+{
+  "paper_id": "MDA-022-cascade",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-022-cascade",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-022-cascade\\JSON\\MDA-022-cascade.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 3,
+  "failing_claim_count": 3,
+  "formal_marker_count": 0,
+  "failure_counts": {
+    "weak:Q4_evidence": 3,
+    "weak:Q5_falsifiability": 3,
+    "weak:Q6_boundary": 3
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Because the **feedback loops** reversed."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "* Distrust fragments community fragments trust further * Broken families raise wounded kids who struggle to form families * Fragmented meaning prevents cooperation fragments meaning further **Once you cross the threshold, the system accelerates its own decline.** Every attempt to fix one domain fails because the other domains undermine it. * Try to strengthen families → but trust is gone, so commitment can't hold * Try to rebuild trust → but shared meaning is gone, so there's no basis for trust * Try to restore meaning → but institutions are corrupt, so no one believes them The cascade feeds itself. ---"
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "By every historical measure, we are past the point of no return."
+    }
+  ]
+}

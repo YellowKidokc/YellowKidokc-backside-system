@@ -1,0 +1,56 @@
+# Runtime and private state
+.env
+*.local.*
+CONFIG/*.ini
+CONFIG/*.json
+**/CONFIG/*.ini
+**/CONFIG/*.json
+!**/CONFIG/*.example.*
+
+# Heavy local artifacts
+models/
+MODEL_WEIGHTS/
+ollama/
+huggingface/
+embeddings/
+!engines/embeddings/
+!engines/embeddings/**
+vector_db/
+qdrant/
+chroma/
+weaviate/
+Data/
+databases/
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+
+# Generated outputs
+**/OUTPUT/*
+**/REVIEW/*
+**/ARCHIVE/*
+**/ERROR/*
+**/LOGS/*
+!**/OUTPUT/.gitkeep
+!**/REVIEW/.gitkeep
+!**/ARCHIVE/.gitkeep
+!**/ERROR/.gitkeep
+!**/LOGS/.gitkeep
+
+# Caches and build products
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+.venv/
+venv/
+
+# OS/editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/

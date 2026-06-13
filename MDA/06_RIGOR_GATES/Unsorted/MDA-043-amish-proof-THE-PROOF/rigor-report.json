@@ -1,0 +1,122 @@
+{
+  "paper_id": "MDA-043-amish-proof-THE-PROOF",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-043-amish-proof-THE-PROOF",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-043-amish-proof-THE-PROOF\\JSON\\MDA-043-amish-proof-THE-PROOF.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 10,
+  "failing_claim_count": 10,
+  "formal_marker_count": 0,
+  "failure_counts": {
+    "weak:Q4_evidence": 9,
+    "weak:Q5_falsifiability": 10,
+    "weak:Q6_boundary": 10,
+    "weak:Q3_mechanism": 4
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "We know because we have a control group."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Not because of conflict, but because the algorithm demands it."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "A community requires a common knowledge base."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "They're growing *because of* them.\""
+    },
+    {
+      "index": 5,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "| Dimension | Modern Americans Have | The Amish Have | | --- | --- | --- | | Movement | Freedom to move anywhere | Geographic constraint | | Communication | Freedom to communicate with anyone | Communication limits | | Consumption | Freedom to consume anything | Consumption restrictions | | Belief | Freedom to believe anything | Doctrinal boundaries | | Identity | Freedom to become anyone | Identity inheritance | | Outcome | Fragmenting | Thriving | **The Amish are happier.** Not because restriction is inherently good, but because **coherence requires constraint.** Unlimited optionality is unlimited anxiety."
+    },
+    {
+      "index": 6,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Their system requires shared faith foundation, multi-generational buy-in, geographic clustering, and economic self-sufficiency."
+    },
+    {
+      "index": 7,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Coherence didn't collapse because modernity made it impossible."
+    },
+    {
+      "index": 8,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Coherence collapsed because we made choices — individually rational, collectively catastrophic — that destroyed it."
+    },
+    {
+      "index": 9,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The Amish are running the experiment that proves the theory."
+    },
+    {
+      "index": 10,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

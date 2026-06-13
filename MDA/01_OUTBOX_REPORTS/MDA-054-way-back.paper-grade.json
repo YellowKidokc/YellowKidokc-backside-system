@@ -1,0 +1,626 @@
+{
+  "paper_id": "MDA-054-way-back",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-054-way-back.md",
+  "generated_at": "2026-05-30T05:31:58",
+  "metrics": {
+    "word_count": 2866,
+    "section_count": 58,
+    "equation_count": 2,
+    "claim_candidate_count": 17,
+    "top_terms": "that, coherence, with, this, from, semantic, decline, html, recovery, moral, when, every, system, what, institutional"
+  },
+  "sections": [
+    {
+      "title": "Document Start",
+      "text": "---\nscrape_mode: markitdown_full\nsource_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-054-way-back.html\"\nsource_sha256: 2aa3e62ce1c0e4f163457491bb9c8337a320da70fc773729cb376b00eb4369e7\ntitle: \"The Way Back — Recovery Physics | Moral Decline of America\"\nmain_selector: \"section.max-w-4xl mx-auto px-6 py-10\"\nscraped_at: \"2026-05-25T13:23:04\"\n---\n[← Main Index](../index.html)\n|\n[Moral Decline](index.html)\n[← Prev](MDA-044-amish-proof.html)\n[Genesis to Quantum](index.html)"
+    },
+    {
+      "title": "Moral Decline Series",
+      "text": "[Part 9](MDA-044-amish-proof.html)\n[Series](MDA-901-appendix-america-index.html)\nTheophysics Research • Series 6.2\nPART 10 OF 10 • FINAL INSTALLMENT"
+    },
+    {
+      "title": "The Way Back Recovery Physics",
+      "text": "Collapse follows a sequence. So does restoration.\nDavid Lowe • Theophysics Institute"
+    },
+    {
+      "title": "Read Aloud",
+      "text": "0:00"
+    },
+    {
+      "title": "Deep Dive",
+      "text": "0:00"
+    },
+    {
+      "title": "Podcast",
+      "text": "0:00"
+    },
+    {
+      "title": "The implications are stark:",
+      "text": "* •**When β = 0:** Coherence declines toward zero. Always. Without exception. Left alone, every system decays. This is the Second Law of [Thermodynamics](/glossary/?term=thermodynamics \"See glossary: Thermodynamics\") applied to civilizations.\n* •**When β > δχ:** Coherence stabilizes or increases. Something is putting energy back into the system faster than entropy pulls it out.\n* •**When β < δχ:** Decline continues, even with positive input. Too little, too late.\nThe equation doesn't prescribe what β must be. It says only this: *without some positive external input, decline is mathematically inevitable.*"
+    },
+    {
+      "title": "The Coherence Trajectory: 1900–2024",
+      "text": "| Domain | 1900 | 1968 | 2024 |\n| --- | --- | --- | --- |\n| Family | 0.95 | 0.85 | 0.25 |\n| Trust | 0.88 | 0.75 | 0.22 |\n| Safety | 0.82 | 0.78 | 0.45 |\n| Self-Control | 0.85 | 0.72 | 0.28 |\n| Mental Health | 0.80 | 0.70 | 0.18 |\n| Economic | 0.75 | 0.80 | 0.42 |\n| Civic | 0.82 | 0.68 | 0.30 |\n| Shared Meaning | 0.90 | 0.70 | 0.18 |\n| Intergenerational | 0.88 | 0.65 | 0.15 |\n| χ (Average) | 0.85 | 0.74 | 0.27 |\n68%"
+    },
+    {
+      "title": "Total Decline",
+      "text": "Across every single domain. In a single century.\n0.35"
+    },
+    {
+      "title": "Self-Correction Threshold",
+      "text": "Below this, normal feedback loops fail.\n~2008"
+    },
+    {
+      "title": "Threshold Crossed",
+      "text": "America dropped below 0.35. Now at 0.27.\n\"Below 0.35, self-correcting mechanisms fail. Not because people are evil, but because the shared meaning that makes correction *possible* has dissolved.\""
+    },
+    {
+      "title": "Why Internal Reform Fails: The Mutual Destruction Cycle",
+      "text": "When Drift exceeds Coherence (δ > χ), internal reform becomes impossible — because the instruments of reform (courts, bureaucracy, money) are themselves corrupted by Drift.\nTherefore: **Recovery = f(Grace) or f(ΔCoherence), but NOT f(Policy)**"
+    },
+    {
+      "title": "The Cycle",
+      "text": "V1"
+    },
+    {
+      "title": "Semantic Collapse",
+      "text": "Shared meaning dissolves. Words like \"duty,\" \"honor,\" \"virtue\" lose fixed definitions. Without shared vocabulary, no consensus is possible.\nV2"
+    },
+    {
+      "title": "Familial Disintegration",
+      "text": "Without shared meaning, family bonds weaken. Divorce, isolation, broken intergenerational transmission. The primary unit of coherence fractures.\nV3"
+    },
+    {
+      "title": "Institutional Decay",
+      "text": "Without families to socialize trust, institutions lose legitimacy. \"Veto players\" benefit from dysfunction. Reform triggers immune response from the corrupt host.\nV4"
+    },
+    {
+      "title": "Economic Fragmentation",
+      "text": "Without institutional trust, transaction costs skyrocket. Debt replaces productivity. The economic base that could fund recovery is consumed by entropy.\nV1 → V2 → V3 → V4 → V1 (accelerating)\nEach vector feeds the next. The cycle accelerates. This is the invariant cascade — four civilizations, zero sequence violations."
+    },
+    {
+      "title": "The Physics of Irreversibility",
+      "text": "Phase transitions exhibit **hysteresis** — the path back is different from the path down. You cannot cool steam back into water at 100°C; you need to drop below that temperature. You cannot restore 1950s coherence by recreating 1950s conditions.\nThe system has reorganized. The old constraints — geographic isolation, information scarcity, social pressure — are gone and they're not coming back."
+    },
+    {
+      "title": "Open Systems (can recover)",
+      "text": "Systems that receive energy from outside their boundaries. β > 0. Thermodynamically, they can decrease local entropy by importing order from an external source.\nExamples: Victorian Britain (Clapham Sect as external β), Second Great Awakening (revival as β), Meiji Japan (Imperial Rescript as β)."
+    },
+    {
+      "title": "Isolated Systems (cannot recover)",
+      "text": "Systems with no external energy input. β = 0. The Second Law guarantees entropy increases monotonically. Decline is mathematically inevitable and irreversible.\nExamples: Late Rome (Majorian's failed internal reform), Weimar Germany (internal austerity accelerated collapse), Soviet Union (internal reform was impossible).\n**The critical question is not whether America can recover. It is whether America is an open or isolated system.** If β can enter the system from outside its current structures, recovery is thermodynamically permitted. If it cannot, decline is guaranteed."
+    },
+    {
+      "title": "What Won't Work",
+      "text": "### Politics\nPolitical intervention operates at the institutional layer — Phase III. The collapse began at the semantic layer — Phase I. Passing laws to fix a meaning crisis is like prescribing aspirin for a broken spine. Every government program since 1965 has attempted this. Trillions of dollars. The trends have not reversed."
+    },
+    {
+      "title": "Nostalgia",
+      "text": "Phase transitions exhibit hysteresis. You cannot restore 1950s coherence by recreating 1950s conditions. The system has reorganized. The old constraints are gone and they're not coming back."
+    },
+    {
+      "title": "Technology",
+      "text": "Technology is hardware. Coherence is software. You can have the most advanced hardware in history running the most degraded software imaginable. That's roughly where we are. High-efficiency chaos — systems brilliantly optimized to accelerate fragmentation."
+    },
+    {
+      "title": "Moralizing",
+      "text": "Telling people to be better has never reversed a phase transition. Augustus tried it in 18 BC with marriage laws and moral exhortation. The Roman decline continued for another four centuries."
+    },
+    {
+      "title": "The Three Scenarios",
+      "text": "When a civilization crosses below the self-correction threshold, history offers three paths. Their probabilities are not equal.\n01"
+    },
+    {
+      "title": "Internal Reform",
+      "text": "<1% probability\nThe system reforms itself from within. This requires the instruments of reform (courts, legislatures, media, money) to be uncorrupted enough to function — which is precisely what sub-threshold coherence prevents.\nHistorical examples of success at this stage: **None found.** Majorian tried. Brüning tried. Both were destroyed by the system they attempted to fix. Competence is insufficient against terminal drift.\n02"
+    },
+    {
+      "title": "Managed Separation",
+      "text": "5–15% probability\nThe system fractures into smaller units that independently rebuild coherence. Not collapse — *controlled fission*. Like Amish church districts that split when they grow too large. Like the Clapham Sect — twenty families that became islands of coherence within a disordered field.\nThis is where voluntary constraint communities matter. Not as models for the whole, but as **nucleation sites** — small regions of order around which larger structure can eventually crystallize.\n03"
+    },
+    {
+      "title": "Collapse and Reset",
+      "text": "85%+ probability\nThe system exhausts itself and reorganizes around whatever binding force fills the vacuum. This is what happened in Rome, Weimar, and every other civilization that failed to arrest sub-threshold decline. The vacuum gets filled — the only question is by what.\nHitler offered \"Demonic Coherence\" — a unified racial/nationalist purpose that replaced the vacuum left by the failure of the liberal state. **The vacuum always gets filled.** The question is whether what fills it is oriented toward life or destruction."
+    },
+    {
+      "title": "Three Civilizations That Came Back",
+      "text": "Three civilizations have recovered from below-threshold coherence. They all followed the same sequence. They all started in the same place. And none of them started with politics."
+    },
+    {
+      "title": "Victorian Britain (1795–1860)",
+      "text": "Lag: 55 years\nBaseline: Libertine aristocracy, rising illegitimacy, the Gin Craze legacy, the \"Bloody Code\" with 200+ capital offenses.\nI\n**Semantic Reconstruction (1795–1830):** It started with ~20 families. The Clapham Sect. Hannah More's *Cheap Repository Tracts* — two million copies in their first year to a population of ten million. A semantic saturation event. \"Thick\" concepts — prudence, temperance, fortitude — reintroduced through narrative. Stories, not sermons.\nII\n**Familial Fortification (1830–1850):** Sunday School movement enrolled 1.25 million children by 1831 — 25% of the child population. The Victorian family ideal emerged from *language*, not legislation."
+    },
+    {
+      "title": "III",
+      "text": "**Institutional Ratification (1850–1900):** Crime dropped 50% between 1857 and 1901 — *despite* rapid urbanization. The state *ratified* the order. It did not create it."
+    },
+    {
+      "title": "The Second Great Awakening (1800–1850)",
+      "text": "Lag: 20 years\nBaseline: The \"Alcoholic Republic\" — 7.1 gallons of pure alcohol per capita, \"rough and tumble\" fighting culture, frontier lawlessness.\nI\n**Semantic Reconstruction (1800–1840):** Finney and Beecher led revival. Drinking was *redefined* — from \"conviviality\" to \"Intemperance.\" The word changed before the behavior did. By 1835: 5,000 temperance societies, over one million members.\nII\n**Familial Fortification (1830–1845):** Alcohol consumption collapsed 75% — from 7.1 to 1.8 gallons per capita — through moral suasion alone. *Before any prohibition legislation.*"
+    },
+    {
+      "title": "III",
+      "text": "**Institutional Ratification (1840–1860):** \"Rough and tumble\" fighting vanished — *defined out of existence*. The Common School movement institutionalized ethics, creating the high-trust workforce that enabled Northern industrialization."
+    },
+    {
+      "title": "Meiji Japan (1890–1912)",
+      "text": "Lag: 15 years\nBaseline: Post-1868 Japan — feudal loyalties abolished, samurai class dismantled, national identity crisis.\nI\n**Semantic Reconstruction (1890):** The Imperial Rescript on Education — the most explicit semantic reconstruction in recorded history. \"Thick\" concepts were *mandated*: filial piety, modesty, courage. Every school received a copy, housed it in a shrine. Ethics became the primary curriculum subject.\nII\n**Familial Fortification (1890–1900):** Civil Code of 1898 codified the *Ie* (household) system. Divorce collapsed 50% within a decade — from 3.38 to 1.53 per thousand."
+    },
+    {
+      "title": "III",
+      "text": "**Institutional Ratification (1900–1912):** Japan became the only non-Western nation to industrialize rapidly. Victory over Russia in 1905. Semantic and familial cohesion provided the \"social glue.\""
+    },
+    {
+      "title": "The Invariant Sequence",
+      "text": "Semantic → Familial → Institutional\nAlways in that order. Never skipping a step. Never starting with politics. The restoration sequence is the *mirror image* of the collapse sequence — and it is just as invariant."
+    },
+    {
+      "title": "Three Recovery Rules",
+      "text": "### Rule 1: Start with language, not law.\nEvery recovery began with the introduction of \"thick\" moral vocabulary. Words like *duty*, *honor*, *fidelity*, *covenant*, *temperance*. Not as abstract concepts but embedded in stories, in narratives, in characters that people could recognize and emulate. Hannah More didn't write philosophy. She wrote cheap tracts — stories about ordinary people making moral choices. Two million copies. That's a semantic saturation event."
+    },
+    {
+      "title": "Rule 2: Creative minorities, not majorities.",
+      "text": "The Clapham Sect was twenty families. Finney's initial revival network was a few dozen preachers. The Meiji reformers were a small circle of intellectuals. In every case, restoration began with a *creative minority* operating outside state structures — small communities that practiced the restored language before anyone else adopted it. Islands of coherence in a disordered field."
+    },
+    {
+      "title": "Rule 3: The state ratifies. It does not initiate.",
+      "text": "In every successful recovery, legislation came *last* — codifying norms that had already taken root in the culture. Laws that attempt to *create* moral consensus fail. Laws that *reflect* existing moral consensus succeed. The sequence is non-negotiable: meaning first, then family, then institution."
+    },
+    {
+      "title": "The Grace Source Term (β)",
+      "text": "In the governing equation, β represents external input — coherence-restoring energy entering the system from outside its boundaries. Without β, decline is mathematically inevitable. With sufficient β, stabilization and recovery become possible.\nWhat is β, concretely?\nThe historical evidence points to one answer across all three recoveries: **voluntary constraint adoption.** People choosing, freely, to bind themselves to standards they didn't have to accept.\nWilberforce choosing to spend decades fighting the slave trade when he could have lived comfortably. Finney's converts choosing sobriety when drinking was the social norm. Meiji students choosing filial duty when feudal obligation had been abolished.\nIn each case, β was not imposed from above. It was chosen from within. Imposed constraint is fragile — it lasts only as long as the authority imposing it. **Chosen constraint is durable** — it lasts because the person who chose it *wants* it."
+    },
+    {
+      "title": "The Restoration Protocol",
+      "text": "If the framework is right, restoration follows specific steps. Not as a political platform. As a thermodynamic process.\nI"
+    },
+    {
+      "title": "Semantic Reconstruction",
+      "text": "Years 0–20\n**Agent:** Creative minorities operating *outside* state structures.\n**Action:** Reintroduce thick moral vocabulary through narrative — stories, not lectures. Characters, not commandments. Build \"islands of coherence\" — small communities where the restored language is practiced, not just preached. Make virtue high-status again through art, writing, and personal example.\n**Metric:** Track frequency of thick moral terms in public discourse. When \"duty\" and \"honor\" and \"covenant\" begin appearing in everyday conversation — not as nostalgia but as live concepts — Phase I is working.\nModern application: This series is a Phase I artifact. So is every conversation where someone says \"covenant\" instead of \"relationship\" or \"stay\" instead of \"keep my options open.\"\nII"
+    },
+    {
+      "title": "Familial Fortification",
+      "text": "Years 20–40\n**Agent:** Families and parallel institutions — churches, schools, voluntary associations.\n**Action:** Use the restored semantic code to insulate families from entropic cultural pressure. Build parallel institutions that socialize children into coherent meaning-structures. The Amish already do this. They are *structurally coherent* in a way that mainstream America hasn't been since 1960.\n**Metric:** Decline in familial entropy — divorce rates, nonmarital birth rates, household fragmentation."
+    },
+    {
+      "title": "III",
+      "text": "### Institutional Ratification\nYears 40–60\n**Agent:** State and formal institutions.\n**Action:** Pass laws that *reflect* already-achieved consensus. Use institutional authority to *defend* the semantic code, not impose it. This is where politics finally becomes relevant — but only after forty years of groundwork.\n**Metric:** Decline in institutional entropy — crime rates, corruption indicators, transaction costs."
+    },
+    {
+      "title": "Predictions",
+      "text": "### Without β Activation (Current Trajectory)\n| Year | Predicted χ | Key Indicator |\n| --- | --- | --- |\n| 2027 | 0.24-0.28 | Trust below 20% |\n| 2030 | 0.20-0.25 | Marriage <4.5/1,000 |\n| 2035 | 0.15-0.22 | Major stress event |"
+    },
+    {
+      "title": "With β Activation",
+      "text": "| Timeline | Expected Pattern |\n| --- | --- |\n| Yrs 1–5 | χ stabilizes at 0.25-0.28 |\n| Yrs 5–10 | χ rises to 0.30-0.35 |\n| Yrs 10–20 | χ reaches 0.45-0.55 |\nNot 1950s levels, but a new equilibrium. Stable. Functional. Chosen rather than inherited.\nThis is not optimism. It is pattern recognition applied to historical data. Three civilizations have done it. The sequence is documented. The math works. But it requires one thing the math cannot provide: **people who choose to start.**"
+    },
+    {
+      "title": "The Individual Path",
+      "text": "You cannot fix a civilization alone. But you can become a nucleation site — a single point of voluntary order in a disordered field.\n01\n**Choose precise language.** Say \"covenant\" instead of \"relationship.\" Say \"stay\" instead of \"keep my options open.\" The semantic layer rebuilds one conversation at a time.\n02\n**Practice what you preach.** The Amish don't theorize about constraint. They live it. The gap between stated values and actual behavior is what χ measures.\n03\n**Build islands of coherence.** Small communities where restored language is practiced. Twenty families changed Victorian Britain. One church district can be an island.\n04\n**Accept voluntary constraint.** Chosen limits are chosen meaning. Unlimited optionality is unlimited anxiety. The word \"stay\" carries more meaning than a thousand swipes.\n05\n**Be β.** Every recovery in human history started with small groups of people who chose to use words that carried weight. Who stayed when leaving was easier. The only variable the math can't predict is whether anyone will choose to be the external input."
+    },
+    {
+      "title": "The Paradox of Hope",
+      "text": "Samuel Lowe walked six miles through mud. His world was small. But it was whole.\nFive generations later, Jake Lowe walked into a church. Not because anyone made him. Because he recognized what his ancestors had — and what he'd lost — and he chose to rebuild it. One relationship at a time. One conversation at a time. One word at a time.\n[The Coherence Factor](/glossary/?term=the-coherence-factor \"See glossary: The Coherence Factor\") says America is at 0.27. Below the self-correction line. Below the point where politics or policy or institutional reform can fix what's broken.\nBut the Coherence Factor also says this: every recovery in human history started with language. With small groups of people who chose to use words that carried weight. Who practiced what they preached. Who stayed when leaving was easier.\nSamuel didn't choose coherence. He was born into it.\nJake has to choose it every day.\nThat's harder. It's also the only thing that has ever worked."
+    },
+    {
+      "title": "Epilogue: Falsification Criteria",
+      "text": "A framework that invites disproof is science. One that doesn't is ideology. Four kill conditions. Zero triggered. We welcome attempts."
+    },
+    {
+      "title": "KC-1: Recovery without β",
+      "text": "If any society recovers from χ < 0.35 to χ > 0.50 *without* activation of external constraint or transcendent authority, the model fails. The equation says this is mathematically impossible. **Status: No counterexample found.**"
+    },
+    {
+      "title": "KC-2: Collapse with β",
+      "text": "If a society with sustained high constraint pressure (P > 0.7) and active external input still collapses to χ < 0.35, the model fails. The Amish are the test case: χ remains at 0.88. **Status: No counterexample found.**"
+    },
+    {
+      "title": "KC-3: Sequence violation",
+      "text": "If any civilization demonstrates economic collapse *preceding* semantic collapse, the invariant cascade is wrong. **Status: Zero violations across four tested civilizations.**"
+    },
+    {
+      "title": "KC-4: Superior alternative model",
+      "text": "If a competing model explains the same data with equal or greater predictive accuracy, fewer parameters, and a different causal mechanism, our model should be replaced. **Status: Not challenged. We welcome attempts.**\nThe framework is falsifiable. The kill conditions are published. The predictions are time-stamped. The data is public. If more than 50% of predictions fail outside their confidence intervals, the model requires revision.\nThe only variable the math can't predict is whether anyone will choose to be β.\nχ(t+1) = χ(t) × (1 − δ) + you\nThis is the final installment in a 10-part series on the moral decline of America. The Coherence Factor framework, all supporting data, and the falsification protocol are available for review and critique. We welcome disproof. That's how science works.\n[Return to Series Landing](MDA-901-appendix-america-index.html)\n[Previous\nPart 9: The Amish Proof](MDA-044-amish-proof.html)\n[Series\nBack to Series Landing](MDA-901-appendix-america-index.html)\n[Home\nGenesis to Quantum](index.html)\nDavid Lowe • Theophysics Institute\nWith Claude (Anthropic), Gemini (Google), and Codex (OpenAI)"
+    },
+    {
+      "title": "Related Work",
+      "text": "Core article, supporting evidence, and broader context\nRing 1 — This Article"
+    },
+    {
+      "title": "The core argument",
+      "text": "You are here.\nRing 2 — Supporting Evidence"
+    },
+    {
+      "title": "Deeper dives and formal treatments",
+      "text": "No connections mapped yet.\nRing 3 — Broader Context"
+    },
+    {
+      "title": "Related topics across the framework",
+      "text": "No connections mapped yet."
+    },
+    {
+      "title": "Audio",
+      "text": "0:00"
+    }
+  ],
+  "equations": [
+    "Therefore: **Recovery = f(Grace) or f(ΔCoherence), but NOT f(Policy)**",
+    "χ(t+1) = χ(t) × (1 − δ) + you"
+  ],
+  "claims": [
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "The implications are stark:",
+      "one_sentence_claim": "The equation doesn't prescribe what β must be.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: equation",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "Threshold Crossed",
+      "one_sentence_claim": "Not because people are evil, but because the shared meaning that makes correction *possible* has dissolved.\"",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "Why Internal Reform Fails: The Mutual Destruction Cycle",
+      "one_sentence_claim": "When Drift exceeds Coherence (δ > χ), internal reform becomes impossible — because the instruments of reform (courts, bureaucracy, money) are themselves corrupted by Drift.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: coherence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "Therefore: **Recovery = f(Grace) or f(ΔC",
+      "Q1_identity": "clear",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "Why Internal Reform Fails: The Mutual Destruction Cycle",
+      "one_sentence_claim": "Therefore: **Recovery = f(Grace) or f(ΔCoherence), but NOT f(Policy)**",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: coherence",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "Therefore: **Recovery = f(Grace) or f(ΔC",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "Internal Reform",
+      "one_sentence_claim": "This requires the instruments of reform (courts, legislatures, media, money) to be uncorrupted enough to function — which is precisely what sub-threshold coherence prevents.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: coherence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "The Grace Source Term (β)",
+      "one_sentence_claim": "In the governing equation, β represents external input — coherence-restoring energy entering the system from outside its boundaries.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: equation, coherence",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "The Grace Source Term (β)",
+      "one_sentence_claim": "The historical evidence points to one answer across all three recoveries: **voluntary constraint adoption.** People choosing, freely, to bind themselves to standards they didn't have to accept.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "The Grace Source Term (β)",
+      "one_sentence_claim": "Imposed constraint is fragile — it lasts only as long as the authority imposing it. **Chosen constraint is durable** — it lasts because the person who chose it *wants* it.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "With β Activation",
+      "one_sentence_claim": "But it requires one thing the math cannot provide: **people who choose to start.**",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "The Paradox of Hope",
+      "one_sentence_claim": "Because he recognized what his ancestors had — and what he'd lost — and he chose to rebuild it.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "KC-1: Recovery without β",
+      "one_sentence_claim": "If any society recovers from χ < 0.35 to χ > 0.50 *without* activation of external constraint or transcendent authority, the model fails.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: model",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "KC-1: Recovery without β",
+      "one_sentence_claim": "The equation says this is mathematically impossible. **Status: No counterexample found.**",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: equation",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Sentence contains an explicit falsifiability or prediction marker; preserve it and make the failure case concrete.",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "present",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "KC-2: Collapse with β",
+      "one_sentence_claim": "If a society with sustained high constraint pressure (P > 0.7) and active external input still collapses to χ < 0.35, the model fails.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: model",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "KC-3: Sequence violation",
+      "one_sentence_claim": "If any civilization demonstrates economic collapse *preceding* semantic collapse, the invariant cascade is wrong. **Status: Zero violations across four tested civilizations.**",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "KC-4: Superior alternative model",
+      "one_sentence_claim": "If a competing model explains the same data with equal or greater predictive accuracy, fewer parameters, and a different causal mechanism, our model should be replaced. **Status: Not challenged.",
+      "claim_maturity_level": 6,
+      "claim_maturity_label": "Empirical Support",
+      "facts_snapshot": "Detected terms: model",
+      "forward_test": "If the claim is true, its stated prediction should survive measurement or comparison.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "data",
+      "kill_conditions": "Sentence contains an explicit falsifiability or prediction marker; preserve it and make the failure case concrete.",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Empirical Support, not a final proof.",
+      "nearby_equation": "χ(t+1) = χ(t) × (1 − δ) + you",
+      "Q1_identity": "implicit",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "present",
+      "Q5_falsifiability": "present",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "KC-4: Superior alternative model",
+      "one_sentence_claim": "If more than 50% of predictions fail outside their confidence intervals, the model requires revision.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: model, prediction",
+      "forward_test": "If the claim is true, its stated prediction should survive measurement or comparison.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Sentence contains an explicit falsifiability or prediction marker; preserve it and make the failure case concrete.",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "χ(t+1) = χ(t) × (1 − δ) + you",
+      "Q1_identity": "implicit",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "present",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-054-way-back",
+      "section": "Related Work",
+      "one_sentence_claim": "Core article, supporting evidence, and broader context Ring 1 — This Article",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

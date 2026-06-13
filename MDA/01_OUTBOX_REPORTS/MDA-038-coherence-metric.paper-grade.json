@@ -1,0 +1,453 @@
+{
+  "paper_id": "MDA-038-coherence-metric",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-038-coherence-metric.md",
+  "generated_at": "2026-05-30T05:31:54",
+  "metrics": {
+    "word_count": 1604,
+    "section_count": 36,
+    "equation_count": 5,
+    "claim_candidate_count": 13,
+    "top_terms": "coherence, constraint, domains, from, this, across, independent, framework, critical, window, divorce, 1968, 1973, they, collapse"
+  },
+  "sections": [
+    {
+      "title": "The Coherence Metric",
+      "text": "## Abstract\nThis paper introduces the **Coherence Metric** (χ), a quantitative measure of structural integrity derived from phase transition physics. We demonstrate that the same mathematical relationship governing critical phenomena in physical systems accurately describes decay patterns across nine independent social domains. Analysis of historical data from 1900–2025 reveals synchronized threshold-crossing events clustered within the **1968–1973 window**, suggesting a unified underlying mechanism rather than independent decay processes. The framework provides falsifiable predictions and measurement criteria independent of political interpretation.\nKeywords: coherence • phase transitions • critical phenomena • social physics • structural integrity\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "1. Introduction",
+      "text": "The question this paper addresses is simple: **Can physics measure moral decay?**\nNot metaphorically. Not as analogy. As measurement.\nThe claim is that structural integrity—whether in bridges, bodies, or civilizations—follows the same mathematical laws. When constraints are removed, systems do not gradually decline. They maintain apparent stability until a critical threshold, then collapse rapidly. This is not opinion. This is phase transition physics.\nThe political interpretation is irrelevant. You can vote for gravity or against gravity. Gravity does not care. It pulls."
+    },
+    {
+      "title": "The Coherence Master Equation",
+      "text": "\\\\ \\chi \\approx \\|P - P_c\\|^{\\beta} \\\\\nCoherence (χ) is determined by the distance of the control parameter (P) from its critical threshold (P<sub>c</sub>), raised to the scaling exponent (β). The same structure that governs superconductors and ferromagnets governs civilizations.\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "Framework Variables",
+      "text": "χ"
+    },
+    {
+      "title": "Chi / Coherence",
+      "text": "The degree to which a system maintains internal order and resists entropy.\nP"
+    },
+    {
+      "title": "Control Parameter",
+      "text": "The current state of constraint within a domain. Law, covenant, standard, anchor.\nP<sub>c</sub>"
+    },
+    {
+      "title": "Critical Threshold",
+      "text": "The value at which phase transition occurs. Cross this line and collapse accelerates.\nβ"
+    },
+    {
+      "title": "Scaling Exponent",
+      "text": "Determines acceleration rate near criticality. Empirical mean β = 0.41 across domains.\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "Nine-Domain Mapping",
+      "text": "The equation is not limited to a single domain. Coherence collapse is domain-general. The same mathematical structure appears wherever constraint is removed and entropy is free to operate.\nDomain \\| Constraint (P) \\| Coherence (χ) \\| Entropy Indicator\\\nMoral \\| Divine / Natural Law \\| Social Trust \\| Crime, Breakdown\\\nSomatic \\| Biological Rhythm \\| Metabolic Health \\| Obesity, Addiction\\\nSemantic \\| Fixed Definitions \\| Communication Fidelity \\| Polarization, Noise\\\nEducational \\| Rigorous Standards \\| Competence Transfer \\| Credentialism, Skill Loss\\\nFamilial \\| Marriage Covenant \\| Intergenerational Stability \\| Divorce, Fragmentation\\\nEconomic \\| Sound Money \\| Purchasing Power \\| Inflation, Debt\\\nInstitutional \\| Constitutional Limits \\| Public Trust \\| Corruption, Capture\\\nPsychological \\| Reality Anchoring \\| Mental Stability \\| Anxiety, Dissociation\\\nSpiritual \\| Transcendent Reference \\| Meaning Coherence \\| Despair, Nihilism\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "2. The Synchronization Problem",
+      "text": "If coherence decay were random—if divorce rates, crime rates, obesity rates, trust metrics, and educational outcomes were independent variables responding to independent causes—their inflection points would be randomly distributed across the 125-year observation window.\nThey are not.\nBetween 1968 and 1973, nine independent metrics crossed their critical thresholds within a 5-year window.\nThe probability of this occurring by chance is vanishingly small (p \\< 10⁻⁶). This is the signature of a system failure, not a collection of unrelated problems.\n1970.0"
+    },
+    {
+      "title": "Mean Break Year",
+      "text": "Across all nine domains\n3.2 yrs"
+    },
+    {
+      "title": "Standard Deviation",
+      "text": "Tight clustering confirms synchronization\n10⁻⁶\np-value"
+    },
+    {
+      "title": "Vanishingly improbable by chance",
+      "text": "------------------------------------------------------------------------"
+    },
+    {
+      "title": "3. Methodology",
+      "text": "### 3.1 Data Sources\nNine domains operationalized using longitudinal datasets spanning 1900–2025. CDC, Pew, Gallup, NORC GSS, BGSU NCFMR, BLS. See Appendix A for complete source list."
+    },
+    {
+      "title": "3.2 Normalization",
+      "text": "Z-score transformation to a 1940–1949 baseline, allowing cross-domain comparison on a common coherence scale."
+    },
+    {
+      "title": "3.3 Curve-Fitting",
+      "text": "Nonlinear least squares regression with bootstrap confidence intervals (n = 1,000 iterations) to the power-law form χ ≈ \\|P − P<sub>c</sub>\\|<sup>β</sup>.\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "4. Results",
+      "text": "### Key Findings by Domain"
+    },
+    {
+      "title": "Familial",
+      "text": "Divorce rate peaked at 22.6 per 1,000 (1981). Non-marital births rose from 10.7% (1970) to 40% (2023). Marriage covenant as a constraint has been systematically removed from law and culture."
+    },
+    {
+      "title": "Institutional Trust",
+      "text": "Public trust in government fell from 77% (1964) to 16% (2023). An 80-percentage-point collapse in six decades. Constitutional constraint removal preceded the decline."
+    },
+    {
+      "title": "Semantic Coherence",
+      "text": "74% of virtue-related words show declining frequency in English-language text post-1960 (Google Ngram analysis, UPenn Language Log). Language is the medium of shared meaning. When definitions become unfixed, communication degrades toward noise."
+    },
+    {
+      "title": "Economic Coherence",
+      "text": "Dollar purchasing power: $1.00 (1971) to $0.14 (2024). Nixon's closure of the gold window severed the constraint anchoring currency to physical reality. The pattern maps perfectly to the coherence equation with the gold standard as P<sub>c</sub>."
+    },
+    {
+      "title": "Aggregate Statistical Results",
+      "text": "0.88\nMean R²"
+    },
+    {
+      "title": "Curve-fit quality across domains",
+      "text": "0.41\nMean β\nScaling exponent (consistent with Ising universality class)\n0.73"
+    },
+    {
+      "title": "Cross-Domain R",
+      "text": "Correlation (p \\< 10⁻⁹)\nPreliminary curve-fit on polarization data achieves R² = 0.87. Full nine-domain visualization pending.\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "5. Core Assertions",
+      "text": "A1\nCoherence (χ) is measurable across all nine domains using domain-specific empirical indicators.\nA2\nThe relationship χ ≈ \\|P − P<sub>c</sub>\\|<sup>β</sup> holds *empirically*, not merely metaphorically.\nA3\nThe 1968–1973 window represents a **synchronized phase transition** across domains—not independent random decay processes.\nA4\nDecay in one domain propagates to adjacent domains through coupling mechanisms. Cross-domain contagion follows percolation transition mathematics.\nA5\nRecovery requires **constraint restoration** (increasing P toward P<sub>c</sub>), not symptom management. Treating entropy without restoring constraint is perpetual maintenance of collapse.\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "6. Falsification Criteria",
+      "text": "This framework is science, not ideology. These tests can fail. If they fail, the framework fails with them. Falsification attempts are invited.\nTest \\| Prediction \\| Kill Condition\\\nT1 \\| Nine-domain overlay shows synchronized inflection at 1968–1973 \\| Inflection points are randomly distributed (p \\> 0.05)\\\nT2 \\| χ curve-fit to \\|P − P c \\| β achieves R² \\> 0.85 across domains \\| Curve fit fails (R² \\< 0.70)\\\nT3 \\| Cross-domain correlation matrix shows statistically significant clustering \\| Domains are statistically independent\\\nT4 \\| Constraint removal events precede coherence collapse (Granger causality) \\| Collapse precedes constraint removal\\\nT5 \\| Partial constraint restoration produces measurable χ increase \\| No coherence response to constraint restoration\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "7. Theoretical Connections",
+      "text": "Framework \\| Connection\\\nPhase Transition Physics \\| χ ≈ \\|P − P c \\| β derives from Landau theory of critical phenomena. Same math governs ferromagnetism, superconductivity, and civilization coherence.\\\nInformation Theory \\| Semantic coherence maps to Shannon channel capacity. As constraint degrades, signal-to-noise collapses. Communication becomes heat rather than information.\\\nThermodynamics \\| Social entropy follows Second Law dynamics under constraint removal. Without a constraint boundary, systems disperse toward maximum entropy spontaneously.\\\nNetwork Theory \\| Cross-domain coupling follows percolation transition mathematics. As domain coherence falls below critical density, network-wide failure cascades.\\\nBiblical Framework \\| Constraint structure maps to Decalogue boundary conditions. The Ten Laws are not arbitrary moral preferences—they are the minimum constraint set for civilization coherence.\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "8. Discussion",
+      "text": "### The 1968–1973 Constraint Removal Cluster\nSynchronized inflection across nine domains demands a common cause. The 1968–1973 window produced an identifiable cluster of constraint-removal legislative and cultural events. These are not interpretations. They are dates.\n1965\n**Griswold v. Connecticut** — Decoupled contraception from the state's interest in marriage, weakening the familial constraint structure.\n1968\n**Vietnam / Civil Unrest** — Institutional authority collapsed publicly. Trust in government began its terminal decline from 62% toward 16%.\n1970\n**No-Fault Divorce** — California's Family Law Act removed permanence from the marriage covenant. Divorce rate began vertical climb.\n1971\n**Gold Window Closure** — Nixon severed the dollar's constraint anchor. Currency decoupled from physical reality. $1.00 became $0.14 over 53 years.\n1972\n**Eisenstadt v. Baird** — Extended contraceptive access to unmarried individuals, completing the legal decoupling of sexuality from covenant.\n1973\n**Roe v. Wade** — Removed the final institutional constraint on the consequences of decoupled sexuality. Nine domains show synchronized inflection within this window."
+    },
+    {
+      "title": "Limitations",
+      "text": "1\\.\n**Correlation is not causation.** Synchronization is statistically anomalous, but the causal mechanism requires further formal analysis beyond Granger causality.\n2\\.\n**Measurement validity.** Domain operationalizations involve index construction choices that affect results. Alternative operationalizations should be tested.\n3\\.\n**β universality requires replication.** The mean β = 0.41 is consistent with known universality classes but requires independent replication across additional longitudinal datasets."
+    },
+    {
+      "title": "Control Group: The Amish Proof",
+      "text": "Amish communities maintained the constraint set that the wider culture removed. They did not adopt no-fault divorce, gold window closure, or the semantic drift. The result is a natural experiment with an observable outcome.\n~0%"
+    },
+    {
+      "title": "Divorce Rate",
+      "text": "vs. 45% national average\n85%"
+    },
+    {
+      "title": "Community Retention",
+      "text": "Fastest-growing demographic in North America\n20 yr"
+    },
+    {
+      "title": "Population Doubling",
+      "text": "Structural coherence = demographic survival\nThe equation works in reverse. Restore constraints, coherence returns. The Amish are not a curiosity. They are the experimental proof.\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "9. Conclusion",
+      "text": "The Coherence Metric provides a falsifiable, measurement-based framework for evaluating structural integrity across domains. The synchronized collapse pattern observed in 1968–1973 suggests a unified mechanism—**constraint removal**—rather than independent decay processes.\nThe framework makes predictions. The predictions can be tested. The tests can fail.\nThis is science, not politics.\nThe political interpretation of these findings is left to the reader. The equation does not care about your interpretation. It measures what is. If the constraints that produced coherence are restored, coherence returns. If they are not restored, the equation continues to run, and the output continues toward zero.\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "Framework Status",
+      "text": "Element \\| State\\\nFramework \\| Complete\\\nNine-Domain Data \\| Compiled (1900–2025)\\\nCurve Fitting \\| Preliminary — R² = 0.87 on polarization data\\\nSynchronization Analysis \\| Pending visualization\\\nPeer Review \\| Open (this publication)\\\nFalsification Attempts \\| Invited\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "References & Data Sources",
+      "text": "1. CDC / NCHS Vital Statistics Reports — Divorce and birth rate longitudinal data\n2. Pew Research Center: *Public Trust in Government 1958–2024*\n3. Language Log / Google Books Ngram Viewer (UPenn) — Semantic frequency analysis\n4. NORC General Social Survey (GSS) — Confidence in Institutions\n5. BGSU National Center for Family & Marriage Research (NCFMR) — Divorce Statistics\n6. Gallup — Institutional Confidence Annual Tracking\n7. Bai, J. & Perron, P. (1998). Estimating and Testing Linear Models with Multiple Structural Changes. *Econometrica*, 66(1), 47–78.\n8. Stanley, H.E. (1971). *Introduction to Phase Transitions and Critical Phenomena*. Oxford University Press."
+    }
+  ],
+  "equations": [
+    "1.00 (1971) to",
+    "1.00 became",
+    "\\\\ \\chi \\approx \\|P - P_c\\|^{\\beta} \\\\",
+    "Structural coherence = demographic survival",
+    "Curve Fitting \\| Preliminary — R² = 0.87 on polarization data\\"
+  ],
+  "claims": [
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "The Coherence Metric",
+      "one_sentence_claim": "## Abstract This paper introduces the **Coherence Metric** (χ), a quantitative measure of structural integrity derived from phase transition physics.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: coherence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "1. Introduction",
+      "one_sentence_claim": "The question this paper addresses is simple: **Can physics measure moral decay?** Not metaphorically.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "1. Introduction",
+      "one_sentence_claim": "The claim is that structural integrity—whether in bridges, bodies, or civilizations—follows the same mathematical laws.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "Nine-Domain Mapping",
+      "one_sentence_claim": "The equation is not limited to a single domain.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: equation",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "Economic Coherence",
+      "one_sentence_claim": "The pattern maps perfectly to the coherence equation with the gold standard as P<sub>c</sub>.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: equation, coherence",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "1.00 (1971) to",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "5. Core Assertions",
+      "one_sentence_claim": "A5 Recovery requires **constraint restoration** (increasing P toward P<sub>c</sub>), not symptom management.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "6. Falsification Criteria",
+      "one_sentence_claim": "Test \\| Prediction \\| Kill Condition\\ T1 \\| Nine-domain overlay shows synchronized inflection at 1968–1973 \\| Inflection points are randomly distributed (p \\> 0.05)\\ T2 \\| χ curve-fit to \\|P − P c \\| β achieves R² \\> 0.85 across domains \\| Curve fit fails (R² \\< 0.70)\\ T3 \\| Cross-domain correlation matrix shows statistically significant clustering \\| Domains are statistically independent\\ T4 \\| Constraint removal events precede coherence collapse (Granger causality) \\| Collapse precedes constraint removal\\ T5 \\| Partial constraint restoration produces measurable χ increase \\| No coherence response to constraint restoration ------------------------------------------------------------------------",
+      "claim_maturity_level": 6,
+      "claim_maturity_label": "Empirical Support",
+      "facts_snapshot": "Detected terms: prediction, coherence",
+      "forward_test": "If the claim is true, its stated prediction should survive measurement or comparison.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "prediction, test",
+      "kill_conditions": "Sentence contains an explicit falsifiability or prediction marker; preserve it and make the failure case concrete.",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Empirical Support, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "present",
+      "Q5_falsifiability": "present",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "Limitations",
+      "one_sentence_claim": "1\\. **Correlation is not causation.** Synchronization is statistically anomalous, but the causal mechanism requires further formal analysis beyond Granger causality.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "Limitations",
+      "one_sentence_claim": "3\\. **β universality requires replication.** The mean β = 0.41 is consistent with known universality classes but requires independent replication across additional longitudinal datasets.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "Control Group: The Amish Proof",
+      "one_sentence_claim": "The result is a natural experiment with an observable outcome. ~0%",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "experiment",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "present",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "Population Doubling",
+      "one_sentence_claim": "Structural coherence = demographic survival The equation works in reverse.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: equation, coherence",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "Structural coherence = demographic survi",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "9. Conclusion",
+      "one_sentence_claim": "The equation does not care about your interpretation.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: equation",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-038-coherence-metric",
+      "section": "9. Conclusion",
+      "one_sentence_claim": "If they are not restored, the equation continues to run, and the output continues toward zero. ------------------------------------------------------------------------",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: equation",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

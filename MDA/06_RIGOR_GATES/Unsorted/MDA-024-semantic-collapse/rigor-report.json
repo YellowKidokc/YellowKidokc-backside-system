@@ -1,0 +1,57 @@
+{
+  "paper_id": "MDA-024-semantic-collapse",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-024-semantic-collapse",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-024-semantic-collapse\\JSON\\MDA-024-semantic-collapse.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 4,
+  "failing_claim_count": 4,
+  "formal_marker_count": 0,
+  "failure_counts": {
+    "weak:Q5_falsifiability": 4,
+    "weak:Q6_boundary": 4,
+    "weak:Q3_mechanism": 1,
+    "weak:Q4_evidence": 1
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "The Ngram data for \"conscience\" shows a steep decline commencing in the 1950s and accelerating downward through the 1960s."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "But the data shows that the usage of words like *Modesty* and *Chastity* was already in a free fall by **1961**."
+    },
+    {
+      "index": 3,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "1950s \"Conscience\" begins steep decline — Ngram data shows accelerating downward trend through the 1960s."
+    },
+    {
+      "index": 4,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

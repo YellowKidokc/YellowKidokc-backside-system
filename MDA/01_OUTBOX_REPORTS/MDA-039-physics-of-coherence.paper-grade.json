@@ -1,0 +1,61 @@
+{
+  "paper_id": "MDA-039-physics-of-coherence",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-039-physics-of-coherence.md",
+  "generated_at": "2026-05-30T05:31:55",
+  "metrics": {
+    "word_count": 319,
+    "section_count": 10,
+    "equation_count": 4,
+    "claim_candidate_count": 0,
+    "top_terms": "phase, coherence, order, transition, system, parameter, coherent, when, cooper, disordered, ordered, physics, what, measurable, they"
+  },
+  "sections": [
+    {
+      "title": "The Physics of Coherence",
+      "text": "## What Coherence Means in Physics\nIn physics, **coherence** refers to the degree of correlation or alignment within a system. A coherent system is one where the components act in concert rather than independently.\nThis is not metaphor. It is measurable.\nIn a laser, photons are coherent when they share the same phase and frequency. In a superconductor, electrons are coherent when they form Cooper pairs. In a ferromagnet, atomic spins are coherent when they align.\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "The Order Parameter (Ï‡)",
+      "text": "Physicists quantify coherence using an **order parameter**—a measurable quantity that equals **zero** in the disordered (high-entropy) phase, is **non-zero** in the ordered (low-entropy) phase, and changes **discontinuously** at the phase transition."
+    },
+    {
+      "title": "Order Parameters Across Systems",
+      "text": "Ferromagnet\nÏ‡ = net magnetization"
+    },
+    {
+      "title": "Superconductor",
+      "text": "Ï‡ = Cooper pair density"
+    },
+    {
+      "title": "Crystal",
+      "text": "Ï‡ = lattice order\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "The Phase Transition",
+      "text": "When a system crosses its **critical threshold** (T<sub>c</sub>), coherence collapses:"
+    },
+    {
+      "title": "Phase Transition Equation",
+      "text": "Ï‡ âˆ? \\|T âˆ’ T<sub>c</sub>\\|<sup>Î²</sup>    for T \\< T<sub>c</sub>  (ordered phase)\nÏ‡ â†’ 0             for T \\> T<sub>c</sub>  (disordered phase)\nT = temperature  \\|  T<sub>c</sub> = critical temperature  \\|  Î² = critical exponent (typically 0.3â€“0.5)\nThis transition is **sudden, not gradual.** It is **universal across systems**—same math, different substrates. And it is **predictable** once T<sub>c</sub> is known.\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "A Concrete Example: The Superconductor",
+      "text": "Below T<sub>c</sub> â€” Ordered\nElectrons form Cooper pairs. Electrical resistance equals zero. The system exhibits quantum coherence at macroscopic scale.\nAbove T<sub>c</sub> â€” Disordered\nCooper pairs break apart. Resistance returns. Coherence is lost.\n\"The mathematics does not care what the substrate is. It only tracks the order parameter.\"\n------------------------------------------------------------------------"
+    },
+    {
+      "title": "The Key Insight",
+      "text": "Phase transition mathematics describes **any system** where components can be ordered or disordered, a control parameter governs the transition, and coherence is measurable."
+    },
+    {
+      "title": "The question becomes:",
+      "text": "What if social systems have an order parameter?"
+    }
+  ],
+  "equations": [
+    "Ï‡ = net magnetization",
+    "Ï‡ = Cooper pair density",
+    "Ï‡ = lattice order",
+    "T = temperature \\| T<sub>c</sub> = critical temperature \\| Î² = critical exponent (typically 0.3â€“0.5)"
+  ],
+  "claims": []
+}

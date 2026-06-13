@@ -1,0 +1,123 @@
+{
+  "paper_id": "MDA-904-appendix-sample",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-904-appendix-sample.md",
+  "generated_at": "2026-05-30T05:32:00",
+  "metrics": {
+    "word_count": 290,
+    "section_count": 21,
+    "equation_count": 0,
+    "claim_candidate_count": 1,
+    "top_terms": "moral, decline, collapse, html, america, 2025, index, series, theophysics, framework, ring, 1958, genesis, quantum, part"
+  },
+  "sections": [
+    {
+      "title": "Document Start",
+      "text": "---\nscrape_mode: markitdown_full\nsource_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-904-appendix-sample.html\"\nsource_sha256: 9d4ee5ec63e7c2b85476f1d6272567db010d508d71e2ae32c4dced227ec62c9b\ntitle: \"The Moral Decline of America (1958–2025) — Sample\"\nmain_selector: \"body\"\nscraped_at: \"2026-05-25T13:23:06\"\n---\n[← Main Index](/index.html)\n|"
+    },
+    {
+      "title": "Moral Decline of America",
+      "text": "[Genesis to Quantum](index.html)"
+    },
+    {
+      "title": "Moral Decline Series",
+      "text": "Part I"
+    },
+    {
+      "title": "Part II",
+      "text": "Data\nTheophysics Research • Series 6.2"
+    },
+    {
+      "title": "The Moral Decline of America",
+      "text": "A Quantitative Framework for Civilizational Entropy, 1958–2025\nDavid Lowe • Theophysics Institute"
+    },
+    {
+      "title": "Read Aloud",
+      "text": "0:00"
+    },
+    {
+      "title": "Deep Dive",
+      "text": "0:00"
+    },
+    {
+      "title": "Podcast",
+      "text": "0:00"
+    },
+    {
+      "title": "Critical Thresholds",
+      "text": "1962\nEngel v. Vitale — Supreme Court removes prayer from public schools.\nThe first domino. Within one generation, every FACTS metric begins declining.\n1973\nRoe v. Wade — Sanctity of life redefined by judicial fiat.\nAccelerates the separation of moral consequence from personal choice.\n1995\nInternet Mass Adoption — Information decentralization begins.\nWithin 15 years, attention spans halve and algorithmic radicalization emerges.\n2015\nSocial Media Saturation — Semantic collapse accelerates.\nWords like \"violence,\" \"safety,\" and \"justice\" lose fixed meaning. Public discourse fragments."
+    },
+    {
+      "title": "In This Series",
+      "text": "01"
+    },
+    {
+      "title": "Introduction & FACTS Framework",
+      "text": "The thesis, methodology, and five-pillar analytical lens.\n02"
+    },
+    {
+      "title": "Anatomy of a Phase Transition",
+      "text": "Why civilizational collapse follows thermodynamic laws.\n03"
+    },
+    {
+      "title": "Semantic Collapse",
+      "text": "When words lose meaning, consensus becomes impossible.\n04"
+    },
+    {
+      "title": "Cognitive & Spiritual Decline",
+      "text": "The erosion of both intellect and transcendent purpose.\n05"
+    },
+    {
+      "title": "Moral & Institutional Erosion",
+      "text": "Trust collapse across every American institution.\n06"
+    },
+    {
+      "title": "Family Structure Collapse",
+      "text": "Fatherlessness, divorce, and the unraveling of the foundational unit.\nGenesis to Quantum • Theophysics Institute\nDavid Lowe • 2025"
+    },
+    {
+      "title": "Related Work",
+      "text": "Core article, supporting evidence, and broader context\nRing 1 — This Article"
+    },
+    {
+      "title": "The core argument",
+      "text": "You are here.\nRing 2 — Supporting Evidence"
+    },
+    {
+      "title": "Deeper dives and formal treatments",
+      "text": "No connections mapped yet.\nRing 3 — Broader Context"
+    },
+    {
+      "title": "Related topics across the framework",
+      "text": "No connections mapped yet."
+    },
+    {
+      "title": "Audio",
+      "text": "0:00"
+    }
+  ],
+  "equations": [],
+  "claims": [
+    {
+      "paper_id": "MDA-904-appendix-sample",
+      "section": "Related Work",
+      "one_sentence_claim": "Core article, supporting evidence, and broader context Ring 1 — This Article",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+{
+  "paper_id": "MDA-902-appendix-trans-domain-analysis",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-902-appendix-trans-domain-analysis.md",
+  "generated_at": "2026-05-30T05:32:00",
+  "metrics": {
+    "word_count": 4157,
+    "section_count": 95,
+    "equation_count": 19,
+    "claim_candidate_count": 23,
+    "top_terms": "coherence, that, from, part, moral, family, what, with, years, phase, semantic, decline, lowe, divorce, institutional"
+  },
+  "sections": [
+    {
+      "title": "Document Start",
+      "text": "---\nscrape_mode: markitdown_full\nsource_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-902-appendix-trans-domain-analysis.html\"\nsource_sha256: 21eb8b4b14bdf9b7df221a692a8a3088850ff1cfa2bf71faa553bc06a328d1f3\ntitle: \"The Moral Decline of America — A Trans-Domain Analysis\"\nmain_selector: \".prose-body\"\nscraped_at: \"2026-05-25T13:23:05\"\n---"
+    },
+    {
+      "title": "Listen",
+      "text": "0:00\n[← Main Index](../index.html)\n|\n[Moral Decline](index.html)"
+    },
+    {
+      "title": "Case File",
+      "text": "MORAL DECLINE"
+    },
+    {
+      "title": "OF AMERICA",
+      "text": "Trans-Domain Analysis\n1900 — 2024\n[Overview](#hero)\n[Part 1 — The Lowe Family](#lowe-family)\n[Part 2 — [The Coherence Factor](/glossary/?term=the-coherence-factor \"See glossary: The Coherence Factor\")](#coherence-factor)\n[Part 3 — The Great Decoupling](#great-decoupling)\n[Part 4 — The Constitutional Overlay](#constitutional)\n[Part 5 — The Math](#the-math)\n[Part 6 — Restoration Protocol](#restoration)\n[The Amish Control Study](#amish-control)\n[Data Room](#data-room)\n[Methodology & Kill Conditions](#methodology)"
+    },
+    {
+      "title": "Classification",
+      "text": "Active File\nDavid Lowe • Theophysics Research Initiative • 2026"
+    },
+    {
+      "title": "THE MORAL DECLINE OF AMERICA",
+      "text": "A Trans-Domain Analysis of Civilizational Coherence Collapse\n1900 — 2024\n0.85\nχ in 1900\n0.27\nχ in 2024\n68%"
+    },
+    {
+      "title": "Total Decline",
+      "text": "9"
+    },
+    {
+      "title": "Domains Tracked",
+      "text": "Below self-correction threshold since 2008"
+    },
+    {
+      "title": "Part 1 of 6",
+      "text": "## The Lowe Family\nSix generations. One question. What happened to us?\nThe mud is six inches deep on the road to town, and Samuel Lowe is thinking about a girl.\nIt's 1900. He's eighteen. His father gave him new boots for his birthday — good leather, American made — and he's trying not to ruin them on the walk to Richland, Ohio, but the spring thaw has turned everything to soup and there's nothing for it.\nSix miles. Two hours each way. This is what it costs to see a girl.\nHe doesn't mind. The walk gives him time. Time to notice the redwing blackbirds returning, the first green shoots in the fields, the particular quality of April light through still-bare trees. Time to prepare what he'll say to Ada, how he'll say it. There is no rushing a conversation you've walked four hours to have.\nSamuel's world is small. Seventy-six million Americans are scattered across three and a half million square miles, but he will never experience those miles. He will experience his circle — the town, the church, the neighbors he's known since birth, the families his family has known for generations.\nThere is no radio. No telephone, not in rural Ohio. The only voices he hears are voices of people physically present. The only faces he sees are faces he can touch. No comparison to strangers. No images of other lives to make him dissatisfied with his own. No advertising telling him what he lacks.\nHis world is small. But it is *whole*.\nAnd after dark, when the kerosene lamp goes out, there is nothing — no electric hum, no background noise of civilization. Just darkness, stars, and the sound of your own breathing. In that silence, you learn patience, because there is no alternative to patience.\nSamuel will marry Ada. They will raise children on the same land. One in fifteen marriages ends in divorce; the rest end in death. The church is not a building you attend — it is the social infrastructure itself, the web that holds everything together.\nThis is what coherence looks like when you've never heard the word.\n1900"
+    },
+    {
+      "title": "Samuel Lowe",
+      "text": "χ ≈ 0.85 • World is whole\nSix miles through mud to see a girl. No radio. No telephone. The only voices he hears are voices of people physically present. One in fifteen marriages ends in divorce. The church is the social infrastructure itself.\n1926"
+    },
+    {
+      "title": "Henry Lowe",
+      "text": "χ ≈ 0.82 • First outside voice\nThe radio sits in the parlor — the first intrusion. The Model T compresses distance. But the mother is still on the settee. The church still sets the calendar. The community still enforces the norms. The circle has widened, but it hasn't broken.\n1950\nWilliam “Bill” Lowe\nχ ≈ 0.78 • The peak\nFirst Lowe to leave the farm for college. The television sits dark in the parlor — not yet. The last generation where every subsystem is still roughly aligned. He doesn't know he's living in the peak. No one ever does.\n1974\nThomas “Tommy” Lowe\nχ ≈ 0.55 • The collapse\nLed Zeppelin on one wall, a crucifix on the other. The Pill severed sex from consequence. No-fault divorce severed marriage from permanence. His father says “Stay.” Tommy laughs. Options, it turns out, are a different kind of trap. His marriage will last seven years.\n1998"
+    },
+    {
+      "title": "Jacob Lowe",
+      "text": "χ ≈ 0.35 • The threshold\nBorn in Cincinnati. Parents divorced at five. Shuttled between two homes. His great-great-grandfather had six options for marriage. Jake swiped through six hundred faces before breakfast. The product of every liberation — and lonely in a way Samuel couldn't have imagined.\n2025\nJacob Lowe — Chosen\nχ ≈ 0.27 • Awareness of loss\nWalks into a church. Meets Sarah. Closes the apps. Not because the structure forces him — the structure is gone. Because he *decides*, and then he stops deciding. For the first time in the Lowe line, coherence is not inherited. It must be *chosen*.\n“The mud dried. The radio arrived. The television lit up the parlor. The Pill severed sex from consequence. No-fault divorce severed marriage from permanence. The internet severed connection from presence. The algorithm severed choice from commitment. Each liberation felt like progress. Each one was progress. And each one removed a constraint that, it turned out, was also a *bond*.”\nSix generations of one American family. Not a story of bad people replacing good ones. Not a political argument. Not nostalgia for a past that was harder than we remember.\nA story about what happens when the structures that held us together — geography, scarcity, community, church, silence, patience, the sheer cost of seeing a girl who lives six miles away — are removed one by one, and nothing replaces them.\n**Can we measure it?** Not with nostalgia. Not with moralizing. With data. With mathematics. With a single number that tracks what happened to American coherence across 125 years.\nThe Lowe family is a composite based on demographic data, census records, and documented social trends from 1900–2025. The numbers are real. The patterns are real."
+    },
+    {
+      "title": "Part 2 of 6",
+      "text": "## The Coherence Factor\nWhat if a civilization's soul had a number?\nEveryone can feel it. The arguments start when you try to say what. Conservatives say we abandoned God. Liberals say we abandoned justice. Economists say wages stagnated. Technologists say screens rewired our brains. Everyone is pointing at a different symptom and calling it the disease.\nWhat if the disease has a number?"
+    },
+    {
+      "title": "THE METRIC",
+      "text": "The Coherence Factor (χ) is a dimensionless scalar — a single number between 0 and 1 — that measures the degree of structural alignment between a society's subsystems.\nIn plain language: coherence is the integrity between what a society *says it values* and what it *actually does*, integrated across the whole population.\nχ(t+1) = χ(t) × (1 − δ) + β\n**δ ≈ 0.03**\nNatural decay rate (entropy)\n**β**"
+    },
+    {
+      "title": "External coherence input",
+      "text": "**β = 0 →**"
+    },
+    {
+      "title": "Decline is inevitable",
+      "text": "### Nine Domains, One Number\n| Domain | What It Measures | 1900 | 1968 | 2024 | Change |\n| --- | --- | --- | --- | --- | --- |\n| Family Structure | Marriage stability, household composition | 0.95 | 0.85 | 0.25 | −74% |\n| Institutional Trust | Confidence in government, media, civic | 0.88 | 0.75 | 0.22 | −75% |\n| Public Safety | Crime rates, perception of security | 0.82 | 0.78 | 0.45 | −45% |\n| Self-Regulation | Impulse control, addiction rates | 0.85 | 0.72 | 0.28 | −67% |\n| Mental Health | Psychological stability, suicide rates | 0.80 | 0.70 | 0.18 | −78% |\n| Economic Integrity | Financial stability, debt, mobility | 0.75 | 0.80 | 0.42 | −44% |\n| Civic Participation | Voting, volunteerism, engagement | 0.82 | 0.68 | 0.30 | −63% |\n| Shared Meaning | Common narratives, linguistic stability | 0.90 | 0.70 | 0.18 | −80% |\n| Intergenerational | Value transfer, tradition maintenance | 0.88 | 0.65 | 0.15 | −83% |\n| χ (Average) | | 0.85 | 0.74 | 0.27 | −68% |"
+    },
+    {
+      "title": "Coherence Factor Timeline (1940–2024)",
+      "text": "1.0\n0.75\n0.50\n0.25\n0.0\nTHRESHOLD 0.35\n1940\n1958\n1968\n1973\n1980\n1990\n2000\n2010\n2024\n0.91\n0.89\n0.72\n0.59\n0.49\n0.40\n0.34\n0.27\n0.20"
+    },
+    {
+      "title": "PHASE TRANSITION",
+      "text": "Source: MASTER\\_DATASHEET.csv — Census, Gallup, FBI UCR, FRED, CDC, College Board, Google Ngram\nTHE THRESHOLD: χ ≈ 0.35\nBelow 0.35, a society's self-correcting mechanisms stop working. Not because people are evil, but because the shared meaning that makes correction *possible* has dissolved. You can't reform an institution when no one trusts institutions. You can't rebuild families when the vocabulary of commitment has been replaced by the vocabulary of self-actualization.\nAmerica crossed 0.35 in ~2008"
+    },
+    {
+      "title": "THE LEADING INDICATOR",
+      "text": "Coherence is a **leading** indicator, not a lagging one. GDP measures economic damage after it occurs. Crime rates measure breakdown after it manifests. The Coherence Factor detects the dissolution of shared meaning that *precedes* every measurable crisis by years or decades.\nWhen a society stops using words like “duty” and “honor” and “virtue” altogether — when the vocabulary of moral obligation thins into the vocabulary of personal preference — χ is already falling."
+    },
+    {
+      "title": "Part 3 of 6",
+      "text": "## The Great Decoupling\nFive years. Three systems. One hidden variable.\nBetween 1968 and 1973, American coherence didn't erode. It *phase-transitioned* — the same kind of sudden, discontinuous shift that turns water to steam or flips a magnet's polarity. In five years, χ dropped from 0.72 to 0.55. The rate of change exceeded anything in the preceding seven decades."
+    },
+    {
+      "title": "The Crime Scene: Three Simultaneous Breaks",
+      "text": "VECTOR A: FAMILY\n| Year | Divorce Rate | Change |\n| --- | --- | --- |\n| 1967 | 2.6/1,000 | baseline |\n| 1968 | 2.9 | +11.5% |\n| 1970 | 3.5 | +34.6% |\n| 1973 | 4.4 | +65% |\nFertility dropped below replacement (2.01) for the first time in American history in 1972. A 27% decline in six years."
+    },
+    {
+      "title": "VECTOR B: ECONOMY",
+      "text": "August 15, 1971: Nixon ended dollar-gold convertibility. Money went from **conserved** (backed by gold) to **fiat** (backed by institutional trust).\nThe gold standard was a *constraint*. Removing it felt like liberation. But the constraint was also a *bond*. It anchored money to physical reality.\nInflation: 4.2% (1968) → 6.2% (1973)"
+    },
+    {
+      "title": "VECTOR C: TRUTH",
+      "text": "| Year | Trust in Gov |\n| --- | --- |\n| 1964 | 77% (peak) |\n| 1968 | 62% |\n| 1972 | 53% |\n| 1974 | 36% |\nA 41-point collapse in ten years — the steepest sustained decline in American polling history. SAT verbal scores peaked in 1963 and never recovered."
+    },
+    {
+      "title": "THE LATENT VARIABLE",
+      "text": "What connects divorce law, monetary policy, and institutional trust? There is no direct causal link. Yet they broke simultaneously. Three simultaneous structural breaks in uncorrelated systems don't happen by coincidence. They happen when a *common cause* is removed."
+    },
+    {
+      "title": "LAW",
+      "text": "Covenant → Contract"
+    },
+    {
+      "title": "MONEY",
+      "text": "Gold → Fiat"
+    },
+    {
+      "title": "TRUTH",
+      "text": "Authority → Suspicion\nAll forms of **external constraint** — removed simultaneously between 1968 and 1973."
+    },
+    {
+      "title": "The Invariant Cascade",
+      "text": "The domains didn't collapse randomly. They fell in order. This sequence has been tested across four civilizations. Zero violations.\n| # | Domain | Threshold Crossed | Visible Collapse | Lag |\n| --- | --- | --- | --- | --- |\n| 1 | Semantic | 1962 | 1970 | 8 yrs |\n| 2 | Cognitive | 1963 | 1975 | 12 yrs |\n| 3 | Psychological | 1963 | 1978 | 15 yrs |\n| 4 | Moral | 1964 | 1972 | 8 yrs |\n| 5 | Institutional | 1965 | 1974 | 9 yrs |\n| 6 | Spiritual | 1965 | 1975 | 10 yrs |\n| 7 | Monetary | 1965 | 1979 | 14 yrs |\n| 8 | Familial | 1967 | 1980 | 13 yrs |\n| 9 | Structural | 1968 | 1973 | 5 yrs |\n“Language died first. The semantic layer — the vocabulary of moral obligation — crossed its threshold in 1962. Two years before the trust collapse. Three years before the church decline. Five years before the family cracked.”"
+    },
+    {
+      "title": "Cross-Civilization Validation",
+      "text": "ROME\nSemantic (~60 BC) → Familial (18 BC) → Institutional (193 AD) → Economic (235 AD)"
+    },
+    {
+      "title": "Total cycle: 295 years",
+      "text": "WEIMAR GERMANY\nSemantic (1910) → Familial (1919) → Institutional (1923) → Economic (1923)"
+    },
+    {
+      "title": "Total cycle: 13 years",
+      "text": "SOVIET UNION\nSemantic (1966) → Familial (1975) → Institutional (1982) → Economic (1989)"
+    },
+    {
+      "title": "Total cycle: 23 years",
+      "text": "UNITED STATES\nSemantic (1962) → Familial (1967) → Institutional (1965) → Economic (1971–ongoing)"
+    },
+    {
+      "title": "Total cycle: still unfolding",
+      "text": "Four civilizations. Four collapses. One sequence. The speed of information determines the speed of dissolution. Rome took 295 years. Weimar took 13."
+    },
+    {
+      "title": "Part 4 of 6",
+      "text": "## The Constitutional Overlay\nThe Court didn't cause the collapse. It ratified one that was already underway.\nThe American system was designed with a specific metaphysical architecture. The Declaration of Independence states it explicitly: rights are “endowed by their Creator” — antecedent to government, not granted by it. If the Creator is removed, the state becomes the grantor — and by extension, the definer of reality itself.\nBetween 1962 and 1973, the Court systematically removed the transcendent anchor from American public life. Not because the justices were evil. Because the culture had already moved, and the law followed."
+    },
+    {
+      "title": "DECISIONS MAPPED TO COHERENCE CURVE",
+      "text": "1962\nEngel v. Vitale\nχ = 0.78\nStruck down voluntary school prayer. Landed in the exact window when the semantic layer crossed its threshold.\n1963\nAbington v. Schempp\nχ = 0.77\nBanned Bible reading and Lord's Prayer in public schools. SAT verbal scores peaked this same year.\n1964"
+    },
+    {
+      "title": "Great Society / Heart of Atlanta",
+      "text": "χ = 0.75\nLargest peacetime expansion of federal power. A morally necessary law with constitutionally boundless precedent. Federal Register: 14,479 pages (1960) → 87,012 (1980).\n1965\nGriswold v. Connecticut\nχ = 0.74\nEstablished “right to privacy” in constitutional “penumbras.” Reasonable outcome. Mechanism for limitless judicial invention.\n1969"
+    },
+    {
+      "title": "No-Fault Divorce Begins",
+      "text": "χ = 0.68\nCalifornia first. All states by 1985. Marriage transformed from covenant to contract. Divorce rate doubled to 5.3/1,000 by 1979.\n1971"
+    },
+    {
+      "title": "Nixon Shock",
+      "text": "χ = 0.60\nDollar-gold convertibility ended. Money decoupled from physical reality. The Great Inflation followed.\n1973\nRoe v. Wade\nχ = 0.55\nExtended Griswold's privacy doctrine. Severed choice from consequence at the most fundamental level.\n| Decision | Coupling Severed | Domain Impact |\n| --- | --- | --- |\n| Griswold (1965) | Sexual → Reproductive | Family, Self-Regulation |\n| No-fault divorce (1969) | Commitment → Permanence | Family, Trust |\n| Roe v. Wade (1973) | Choice → Consequence | Family, Shared Meaning |"
+    },
+    {
+      "title": "THE UNCOMFORTABLE IMPLICATION",
+      "text": "FOR CONSERVATIVES\nThe Court didn't destroy America. The culture moved first. Blaming judges is easier than admitting the shared meaning had already dissolved. *Engel* didn't remove God from America. America had already functionally removed God; *Engel* made it official."
+    },
+    {
+      "title": "FOR PROGRESSIVES",
+      "text": "Every liberation came with a structural cost invisible at the time. The right to privacy, no-fault divorce, reproductive autonomy, fiat currency — each was a genuine expansion of individual freedom. And each removed a constraint that was also a bond. The aggregate effect was not freedom but fragmentation.\nThe Coherence Factor doesn't take sides. It measures alignment."
+    },
+    {
+      "title": "Part 5 of 6",
+      "text": "## The Math\nA framework that can't be killed isn't science. Here's how to kill ours.\nNow we try to destroy it ourselves. This is the part most writers skip. The part where you name your weaknesses before your critics do, fix what can be fixed, and specify exactly what evidence would prove you wrong."
+    },
+    {
+      "title": "Public Corrections",
+      "text": "P-VALUE CORRECTION\n| Claim | Paper | Actual | Status |\n| --- | --- | --- | --- |\n| p < 10−12 | Paper 1 | p = 0.003 | Wrong ×9 orders |\n| p < 10−6 | Paper 3 | p = 0.003 | Wrong ×3 orders |\n| p < 10−3 | Paper 2 | p = 0.003 | Correct |\nCanonical: **p = 0.003** (K-S test). One in 300 by chance. Strong and publishable. Not “one in a trillion.” We corrected this publicly because credibility matters more than impressiveness."
+    },
+    {
+      "title": "DOMAIN COUNT CORRECTION",
+      "text": "| Claim | Source | Actual |\n| --- | --- | --- |\n| “45 domains” | Papers 1, 2 | 45 scanned, 23 qualified |\n| “25 domains” | FACTS paper | Typo |\n| “23 domains” | Computation | Correct |\n19 domains excluded for insufficient variance or unusable time series. Exclusion criteria documented and reproducible."
+    },
+    {
+      "title": "Model Assumptions (Flagged)",
+      "text": "A1"
+    },
+    {
+      "title": "Equal Domain Weighting",
+      "text": "We average nine domains at 1/9 each. This is almost certainly wrong — some domains are more foundational. We use equal weighting to remove our thumb from the scale. It can be wrong, but it can't be biased.\nA2"
+    },
+    {
+      "title": "Linear Decay",
+      "text": "The δ term implies constant-rate decay. Real systems are rarely this clean. The phase transition model is probably more accurate. Future work should unify both into a single framework.\nA3\nβ Is Exogenous\nThe external input β is treated as entering from outside the system's boundaries. We don't prescribe what β is. The Amish call it the *Ordnung*. Historians call it revival. The equation doesn't care about the label."
+    },
+    {
+      "title": "COMPUTATIONAL RESULTS",
+      "text": ">0.90\nMean R²\np = 0.003"
+    },
+    {
+      "title": "K-S Test",
+      "text": "1968.9"
+    },
+    {
+      "title": "Inflection Point",
+      "text": "23"
+    },
+    {
+      "title": "Domains Verified",
+      "text": "### What Survives the Audit\n1.\nThe nine-domain metric is real. 23 indicators show correlated decline over the same period.\n2.\nThe phase transition is real. Structural breaks clustered in a five-year window (1968-1973).\n3.\nThe Amish divergence is real. 330% gap. Only variable: constraint pressure.\n4.\nThe invariant cascade holds. Semantic → Familial → Institutional → Economic. Four civilizations. Zero violations.\n5.\nThe p-value is 0.003, not 10−12. Still strong. Corrected.\n6.\nThe model is falsifiable. Four kill conditions specified. Zero triggered."
+    },
+    {
+      "title": "Part 6 of 6",
+      "text": "## The Restoration Protocol\nCollapse follows a sequence. So does restoration."
+    },
+    {
+      "title": "What Won't Work",
+      "text": "POLITICS\nPhase III intervention for a Phase I problem. Trillions in social spending since 1965. Trends have not reversed. Not because programs were bad. Because they were aimed at the wrong layer."
+    },
+    {
+      "title": "NOSTALGIA",
+      "text": "Phase transitions exhibit hysteresis. You can't cool steam back into water at 100°C. You cannot restore 1950s coherence by recreating 1950s conditions. The system has reorganized."
+    },
+    {
+      "title": "TECHNOLOGY",
+      "text": "Technology is hardware. Coherence is software. You can have the most advanced hardware running the most degraded software. High-efficiency chaos."
+    },
+    {
+      "title": "MORALIZING",
+      "text": "Telling people to be better has never reversed a phase transition. Augustus tried it in 18 BC. The Roman decline continued for four more centuries."
+    },
+    {
+      "title": "Three Civilizations That Came Back",
+      "text": "VICTORIAN BRITAIN\n1795–1860 • 55-year lag"
+    },
+    {
+      "title": "PHASE I: SEMANTIC",
+      "text": "~20 families (Clapham Sect). Hannah More's tracts: 2 million copies to population of 10 million. Semantic saturation event. Stories, not sermons."
+    },
+    {
+      "title": "PHASE II: FAMILIAL",
+      "text": "Sunday School: 1.25 million children by 1831 (25% of child population). “Respectability” stabilized the family unit. People wanted stability because the vocabulary made stability mean something."
+    },
+    {
+      "title": "PHASE III: INSTITUTIONAL",
+      "text": "Crime dropped 50% (1857–1901). Illegitimacy declined 7% → 4%. Police enforced a moral order already internalized. The state *ratified* the order. It did not create it."
+    },
+    {
+      "title": "SECOND GREAT AWAKENING",
+      "text": "1800–1850 • 20-year lag"
+    },
+    {
+      "title": "PHASE I: SEMANTIC",
+      "text": "Finney and Beecher. Drinking redefined from “conviviality” to “Intemperance.” The word changed before the behavior did. By 1835: 5,000 temperance societies, 1 million members."
+    },
+    {
+      "title": "PHASE II: FAMILIAL",
+      "text": "Alcohol collapsed 75% (7.1 → 1.8 gallons per capita) through moral suasion alone. *Before any prohibition legislation.* Families changed because language changed."
+    },
+    {
+      "title": "PHASE III: INSTITUTIONAL",
+      "text": "“Rough and tumble” fighting vanished by 1840s — defined out of existence. Common School movement created the high-trust workforce enabling Northern industrialization."
+    },
+    {
+      "title": "MEIJI JAPAN",
+      "text": "1890–1912 • 15-year lag"
+    },
+    {
+      "title": "PHASE I: SEMANTIC",
+      "text": "Imperial Rescript on Education (1890). Most explicit semantic reconstruction in recorded history. Ethics = primary curriculum. Daily bowing to thick moral concepts."
+    },
+    {
+      "title": "PHASE II: FAMILIAL",
+      "text": "Divorce collapsed 50% (3.38 → 1.53/1,000) within a decade. Marriage redefined from contract to patriotic duty. *Ie* household system codified."
+    },
+    {
+      "title": "PHASE III: INSTITUTIONAL",
+      "text": "Only non-Western nation to industrialize rapidly. Military victory over Russia (1905). Semantic and familial cohesion provided the social glue for institutional transformation."
+    },
+    {
+      "title": "THE THREE RULES OF RESTORATION",
+      "text": "1"
+    },
+    {
+      "title": "START WITH LANGUAGE, NOT LAW",
+      "text": "Every recovery began with reintroduction of “thick” moral vocabulary through *narrative*. Stories, not lectures. Characters, not commandments. Hannah More didn't write philosophy. She wrote cheap tracts about ordinary people making moral choices. Two million copies.\n2"
+    },
+    {
+      "title": "CREATIVE MINORITIES, NOT MAJORITIES",
+      "text": "The Clapham Sect was twenty families. Finney's network was a few dozen preachers. Islands of coherence in a disordered field. Small communities that practiced the restored language before anyone else adopted it.\n3\nTHE STATE RATIFIES. IT DOES NOT INITIATE.\nIn every successful recovery, legislation came *last*. Laws that attempt to create moral consensus fail. Laws that reflect existing moral consensus succeed. The sequence is non-negotiable."
+    },
+    {
+      "title": "Testable Predictions",
+      "text": "WITHOUT β (CURRENT TRAJECTORY)\n| Year | Predicted χ | Key Indicator |\n| --- | --- | --- |\n| 2027 | 0.24–0.28 | Trust below 20% |\n| 2030 | 0.20–0.25 | Marriage < 4.5/1,000 |\n| 2035 | 0.15–0.22 | Major stress event |\nWITH β ACTIVATION\n| Timeline | Expected Pattern |\n| --- | --- |\n| Years 1–5 | Decline rate slows, χ stabilizes 0.25–0.28 |\n| Years 5–10 | Small communities show improvement, χ → 0.30–0.35 |\n| Years 10–20 | Threshold re-crossed, new equilibrium χ ≈ 0.45–0.55 |\n“Samuel didn't choose coherence. He was born into it. Jake has to choose it every day. That's harder. It's also the only thing that has ever worked.”"
+    },
+    {
+      "title": "Control Study",
+      "text": "## The Amish Control Study\nA natural experiment in constraint versus freedom."
+    },
+    {
+      "title": "330% Coherence Divergence",
+      "text": "1.0\n0.75\n0.50\n0.25\n0.0\n1900\n1950\n1990\n2024\nAMISH 0.88\nUSA 0.27\n330% GAP\nSame country. Same century. Same economy. Different constraint profiles."
+    },
+    {
+      "title": "Domain Comparison",
+      "text": "| Domain | Mainstream USA | Amish | Ratio |\n| --- | --- | --- | --- |\n| Fertility Rate | 1.7 | 6.8 | 4.0× |\n| Obesity Rate | 42% | 4% | 10.5× lower |\n| Divorce Rate | 40–50% | Near zero | ∞ |\n| Depression Rate | 8%+ | ~3% est. | ~3× lower |\n| Suicide Rate | 14.3/100k | Near zero | ∞ |\n| Business Failure (5yr) | 50% | 5% | 10× better |\n| Welfare Usage | ~20% | 0% | ∞ |\n| Household Debt | $100k+ avg | Near zero | ∞ |\n| Trust in Neighbors | 30% | ~100% | 3.3× |\n| Ed. Spending/Child | $16,000/yr | $500/yr | 32× less |\n| Functional Literacy | Declining | 100% | — |\n| Screen Time (teens) | 8+ hrs/day | 0 hrs | ∞ |\n“If 'freedom' and 'progress' are good, why does the constrained society win on every metric? The data says those constraints were load-bearing.”\nSources: Elizabethtown College Young Center, Kraybill (Johns Hopkins), Egeland & Hostetter, Ohio State cancer registry, CDC NHANES, Bank of Bird-in-Hand, multiple peer-reviewed health studies."
+    },
+    {
+      "title": "Evidence Room",
+      "text": "## Data Room\nKey events, metrics, and the timeline that broke America."
+    },
+    {
+      "title": "The Critical Window: 1965–1974",
+      "text": "1965\nGriswold v. Connecticut\nContraception for married couples. Privacy right established.\n1968\nHays Code Collapses • MLK/RFK Assassinated • DNC Riots\nMPAA ratings replace mandatory moral censorship. Massive trust erosion. Authority questioned publicly.\n1969\nCalifornia No-Fault Divorce • Stonewall • Woodstock\nReagan signs. Moral fault removed from marriage dissolution. Counterculture mainstreamed.\n1970"
+    },
+    {
+      "title": "Kent State Shootings",
+      "text": "Government kills students. Trust plummets.\n1971\nPentagon Papers • Nixon Shock • All in the Family\nGovernment lies exposed. Dollar-gold convertibility ends. Taboo language on broadcast TV.\n1972\nEisenstadt v. Baird • Deep Throat • Watergate\nContraception extended to unmarried. Pornography enters mainstream. Scandal begins.\n1973\nRoe v. Wade • DSM Homosexuality Removal • Miller Test\nAbortion legalized. Obscenity = local community standards — moral relativism codified.\n1974"
+    },
+    {
+      "title": "Nixon Resignation",
+      "text": "Presidential authority permanently damaged. Trust: 36%."
+    },
+    {
+      "title": "Selected Metrics from MASTER\\_DATASHEET",
+      "text": "| Metric | Category | 1960 | 1968 | 1973 | 2024 | Source |\n| --- | --- | --- | --- | --- | --- | --- |\n| Unmarried Adults 30–39 | Family | 15% | — | ~20% | 46% | Census |\n| Divorce Rate | Family | 2.2/1k | — | 4.3/1k | 2.3/1k | Census |\n| Church Attendance | Religious | 49% | ~45% | — | <30% | Gallup |\n| Religious Affiliation | Religious | — | 87% | — | 45% | Gallup |\n| Trust in Government | Institutional | — | 62% | 55% | <20% | Pew |\n| SAT Verbal | Education | — | — | — | 408 | College Board |\n| Union Membership | Economic | 34.8% | — | — | 10.1% | BLS |\n| Depression Rate | Social | 1–2% | — | — | 21% | Various |\n| No-Fault Divorce States | Family | 0 | 0 | 5 | 50 | Legal Records |\n| Pornography Access | Media | 0 | 1 | 6 | 100 | Composite Index |"
+    },
+    {
+      "title": "Three Vectors of Collapse",
+      "text": "High"
+    },
+    {
+      "title": "Low",
+      "text": "1960\n1968\n1973\n1990\n2024"
+    },
+    {
+      "title": "FAMILY",
+      "text": "TRUST"
+    },
+    {
+      "title": "ECONOMY",
+      "text": "PHASE TRANSITION 1968-1973\nSource: MASTER\\_DATASHEET.csv — Census, Gallup, FRED, FBI UCR"
+    },
+    {
+      "title": "Methodology",
+      "text": "## Methodology & Kill Conditions\nA framework that invites disproof is science. One that doesn't is ideology."
+    },
+    {
+      "title": "DATA SOURCES",
+      "text": "* • Census Bureau (family, demographics)\n* • Gallup (trust, religion, polling)\n* • FBI Uniform Crime Reports (safety)\n* • College Board (SAT, education)\n* • Federal Reserve (FRED — economic)\n* • Google Ngram (linguistic/semantic)\n* • CDC (health, mortality, substance)\n* • GSS / ANES (social attitudes)\n* • Denominational records (religious)"
+    },
+    {
+      "title": "CURVE FITTING",
+      "text": "χ(t) = χ0 · e−λ(t−t0) + A sin(ωt + φ) + C\n* • Mean λ = 0.045 ± 0.050\n* • Median λ = 0.023\n* • Mean R² > 0.90\n* • K-S test: p = 0.003\n* • Inflection point: 1968.9\n* • 23 domains with sufficient time-series data\n* • 45 domains scanned total"
+    },
+    {
+      "title": "Kill Conditions",
+      "text": "K1\nRECOVERY WITHOUT β\nIf any society recovers from χ < 0.35 to χ > 0.50 *without* activation of external constraint or transcendent authority, the model fails.\nSTATUS: No counterexample found.\nK2\nCOLLAPSE WITH β\nIf a society with sustained high constraint pressure (P > 0.7) and active external input still collapses to χ < 0.35, the model fails.\nSTATUS: No counterexample found. Amish χ = 0.88.\nK3"
+    },
+    {
+      "title": "SEQUENCE VIOLATION",
+      "text": "If any civilization demonstrates economic collapse *preceding* semantic collapse, the invariant cascade is wrong.\nSTATUS: Zero violations across four civilizations.\nK4"
+    },
+    {
+      "title": "SUPERIOR ALTERNATIVE MODEL",
+      "text": "If a competing model explains the same data with equal or greater predictive accuracy, fewer parameters, and a different causal mechanism, our model should be replaced.\nSTATUS: Not challenged. We welcome attempts.\nAUTHOR POSTURE (Disclosed)"
+    },
+    {
+      "title": "Worldview: Christian Theist",
+      "text": "Epistemology: Empirical + Falsifiable\nPriors: Began believing decline was real. Data could have refuted this. It did not.\nOff-Ramp: Reasonable people may interpret identical curves as coincidence."
+    },
+    {
+      "title": "THE MORAL DECLINE OF AMERICA",
+      "text": "“The only variable the math can't predict is whether anyone will choose to be β.”\nDavid Lowe • The Moral Decline of America Project\nWith Claude (Anthropic), Gemini (Google), and Codex (OpenAI)\n**Series Index:**\nPart 1: The Lowe Family • Part 2: The Coherence Factor • Part 3: The Great Decoupling\nPart 4: The Constitutional Overlay • Part 5: The Math • Part 6: The Restoration Protocol\n23 domains analyzed\np = 0.003\n4 civilizations tested\n4 kill conditions\n330% Amish divergence\n[← Back to Genesis to Quantum](index.html)"
+    },
+    {
+      "title": "Related Work",
+      "text": "Core article, supporting evidence, and broader context\nRing 1 — This Article"
+    },
+    {
+      "title": "The core argument",
+      "text": "You are here.\nRing 2 — Supporting Evidence"
+    },
+    {
+      "title": "Deeper dives and formal treatments",
+      "text": "No connections mapped yet.\nRing 3 — Broader Context"
+    },
+    {
+      "title": "Related topics across the framework",
+      "text": "No connections mapped yet."
+    }
+  ],
+  "equations": [
+    "100k+ avg | Near zero | ∞ | | Trust in Neighbors | 30% | ~100% | 3.3× | | Ed. Spending/Child |",
+    "[Part 2 — [The Coherence Factor](/glossary/?term=the-coherence-factor \"See glossary: The Coherence Factor\")](#coherence-factor)",
+    "χ(t+1) = χ(t) × (1 − δ) + β",
+    "**β = 0 →**",
+    "χ = 0.78",
+    "χ = 0.77",
+    "χ = 0.75",
+    "χ = 0.74",
+    "χ = 0.68",
+    "χ = 0.60",
+    "χ = 0.55",
+    "| p < 10−12 | Paper 1 | p = 0.003 | Wrong ×9 orders |",
+    "| p < 10−6 | Paper 3 | p = 0.003 | Wrong ×3 orders |",
+    "| p < 10−3 | Paper 2 | p = 0.003 | Correct |",
+    "p = 0.003",
+    "χ(t) = χ0 · e−λ(t−t0) + A sin(ωt + φ) + C",
+    "* • Mean λ = 0.045 ± 0.050",
+    "* • Median λ = 0.023",
+    "* • K-S test: p = 0.003"
+  ],
+  "claims": [
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Part 1 of 6",
+      "one_sentence_claim": "In that silence, you learn patience, because there is no alternative to patience.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Jacob Lowe",
+      "one_sentence_claim": "Not because the structure forces him — the structure is gone.",
+      "claim_maturity_level": 3,
+      "claim_maturity_label": "Structural Correspondence",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Structural Correspondence, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Jacob Lowe",
+      "one_sentence_claim": "Because he *decides*, and then he stops deciding.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Jacob Lowe",
+      "one_sentence_claim": "A story about what happens when the structures that held us together — geography, scarcity, community, church, silence, patience, the sheer cost of seeing a girl who lives six miles away — are removed one by one, and nothing replaces them. **Can we measure it?** Not with nostalgia.",
+      "claim_maturity_level": 3,
+      "claim_maturity_label": "Structural Correspondence",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Structural Correspondence, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "PHASE TRANSITION",
+      "one_sentence_claim": "Not because people are evil, but because the shared meaning that makes correction *possible* has dissolved.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "THE LEADING INDICATOR",
+      "one_sentence_claim": "Crime rates measure breakdown after it manifests.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Part 4 of 6",
+      "one_sentence_claim": "Not because the justices were evil.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Part 4 of 6",
+      "one_sentence_claim": "Because the culture had already moved, and the law followed.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Part 5 of 6",
+      "one_sentence_claim": "The part where you name your weaknesses before your critics do, fix what can be fixed, and specify exactly what evidence would prove you wrong.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Public Corrections",
+      "one_sentence_claim": "P-VALUE CORRECTION | Claim | Paper | Actual | Status | | --- | --- | --- | --- | | p < 10−12 | Paper 1 | p = 0.003 | Wrong ×9 orders | | p < 10−6 | Paper 3 | p = 0.003 | Wrong ×3 orders | | p < 10−3 | Paper 2 | p = 0.003 | Correct | Canonical: **p = 0.003** (K-S test).",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "test",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "| p < 10−12 | Paper 1 | p = 0.003 | Wron",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "present",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Public Corrections",
+      "one_sentence_claim": "Not “one in a trillion.” We corrected this publicly because credibility matters more than impressiveness.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "| p < 10−12 | Paper 1 | p = 0.003 | Wron",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "DOMAIN COUNT CORRECTION",
+      "one_sentence_claim": "| Claim | Source | Actual | | --- | --- | --- | | “45 domains” | Papers 1, 2 | 45 scanned, 23 qualified | | “25 domains” | FACTS paper | Typo | | “23 domains” | Computation | Correct | 19 domains excluded for insufficient variance or unusable time series.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "source",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "present",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Linear Decay",
+      "one_sentence_claim": "The δ term implies constant-rate decay.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Linear Decay",
+      "one_sentence_claim": "The phase transition model is probably more accurate.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: model",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Linear Decay",
+      "one_sentence_claim": "The equation doesn't care about the label.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: equation",
+      "forward_test": "If the claim is true, the stated relationship should preserve its variables, direction, and scope.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "What Won't Work",
+      "one_sentence_claim": "Because they were aimed at the wrong layer.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "PHASE II: FAMILIAL",
+      "one_sentence_claim": "People wanted stability because the vocabulary made stability mean something.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "PHASE II: FAMILIAL",
+      "one_sentence_claim": "Alcohol collapsed 75% (7.1 → 1.8 gallons per capita) through moral suasion alone. *Before any prohibition legislation.* Families changed because language changed.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Kill Conditions",
+      "one_sentence_claim": "K1 RECOVERY WITHOUT β If any society recovers from χ < 0.35 to χ > 0.50 *without* activation of external constraint or transcendent authority, the model fails.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: model",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Kill Conditions",
+      "one_sentence_claim": "K2 COLLAPSE WITH β If a society with sustained high constraint pressure (P > 0.7) and active external input still collapses to χ < 0.35, the model fails.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "Detected terms: model",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "SEQUENCE VIOLATION",
+      "one_sentence_claim": "If any civilization demonstrates economic collapse *preceding* semantic collapse, the invariant cascade is wrong.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "SUPERIOR ALTERNATIVE MODEL",
+      "one_sentence_claim": "If a competing model explains the same data with equal or greater predictive accuracy, fewer parameters, and a different causal mechanism, our model should be replaced.",
+      "claim_maturity_level": 6,
+      "claim_maturity_label": "Empirical Support",
+      "facts_snapshot": "Detected terms: model",
+      "forward_test": "If the claim is true, its stated prediction should survive measurement or comparison.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "data",
+      "kill_conditions": "Sentence contains an explicit falsifiability or prediction marker; preserve it and make the failure case concrete.",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Empirical Support, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "present",
+      "Q5_falsifiability": "present",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-902-appendix-trans-domain-analysis",
+      "section": "Related Work",
+      "one_sentence_claim": "Core article, supporting evidence, and broader context Ring 1 — This Article",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

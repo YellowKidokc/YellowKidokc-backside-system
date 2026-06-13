@@ -1,0 +1,91 @@
+{
+  "paper_id": "MDA-015-long-decline",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-015-long-decline.md",
+  "generated_at": "2026-05-30T05:31:51",
+  "metrics": {
+    "word_count": 987,
+    "section_count": 12,
+    "equation_count": 3,
+    "claim_candidate_count": 1,
+    "top_terms": "coherence, html, family, part, decline, trust, what, 1900, 1965, from, still, moral, civic, each, were"
+  },
+  "sections": [
+    {
+      "title": "Document Start",
+      "text": "---\nscrape_mode: markitdown_full\nsource_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-015-long-decline.html\"\nsource_sha256: 5d258e503da1991f06b49a7ed103143e383c50e5d39c374ed4437f2202632a9c\ntitle: \"Part 4: The Long Decline (1900-1965) — The Moral Decline of America\"\nmain_selector: \"main\"\nscraped_at: \"2026-05-25T13:22:50\"\n---\n[← Main Index](../index.html)\n|\n[Moral Decline](index.html)\n[← Part 3](MDA-009-the-1900-baseline.html)\n[Part 5 →](MDA-020-phase-transition.html)\n[Moral Decline of America](index.html)"
+    },
+    {
+      "title": "Part-Series",
+      "text": "Part 4 of 10\n[Next](MDA-020-phase-transition.html)\nTheophysics Research • MDA Part-Series\nPART 04 OF 10 • 1900–1965"
+    },
+    {
+      "title": "The Long Decline",
+      "text": "Sixty-five years of invisible damage. χ dropped from 0.85 to 0.72. Nobody noticed.\n![Story Illustration](../images/mda/The_1962_Software_Crash conv 1.webp)\nDavid Lowe • Theophysics Institute\n[The Coherence Factor](/glossary/?term=the-coherence-factor \"See glossary: The Coherence Factor\")\n**The Coherence Factor (χ)** measures the degree to which a civilization's subsystems—families, institutions, trust networks, moral frameworks, and information flows—remain internally consistent, mutually reinforcing, and capable of coordinated action.\nχ = 1.0 means perfect alignment. χ = 0.0 means total fragmentation.\nCurrent U.S. χ: **≈ 0.27**\nCritical Threshold: **0.35**\nStatus: **Threshold Crossed**\nThe collapse didn't happen overnight.\nFor 65 years—from 1900 to 1965—coherence declined slowly. Invisibly. Like a foundation cracking underground while the house above looks fine.\n**χ went from 0.85 to 0.72.**\nA 15% decline. Barely noticeable in any given year. But the structure was weakening.\nHere's what happened.\n---"
+    },
+    {
+      "title": "The Four Pressure Waves",
+      "text": "### Wave 1: Urbanization (1900–1930)\n**What changed**:\n* 1900: 40% urban, 60% rural\n* 1930: 56% urban, 44% rural\n* People left multi-generational communities for anonymous cities\n**Impact on χ**:\n* **Family**: Grandparents left behind. Nuclear family isolated.\n* **Trust**: Neighbors became strangers.\n* **Civic**: Voluntary associations weakened. Bowling leagues replaced barn raisings.\n* **Intergenerational**: Physical distance severed transmission chains.\n**χ trajectory**: 0.85 → 0.82\nThe move to cities wasn't inherently bad. But it required **new coherence structures** to replace the old ones. Those structures never fully formed.\n---"
+    },
+    {
+      "title": "Wave 2: Mass Media (1920–1950)",
+      "text": "**What changed**:\n* 1920: Radio enters homes\n* 1927: First \"talkies\" (movies with sound)\n* 1948: Television begins mass adoption\n* 1955: 65% of homes have TV\n**Impact on χ**:\n* **Shared Meaning**: Shifted from local/church sources to national/entertainment sources\n* **Information**: Common experience, but controlled by distant elites\n* **Family**: Gathering around the radio/TV replaced conversation\n* **Intergenerational**: Children exposed to values different from parents\n**χ trajectory**: 0.82 → 0.78\nMass media created **artificial coherence**—everyone watching the same thing—while eroding **organic coherence**—people actually talking to each other.\nThe illusion of connection replaced the reality.\n---"
+    },
+    {
+      "title": "Wave 3: World Wars and Depression (1914–1945)",
+      "text": "**What changed**:\n* 16 million Americans served in WWII\n* Women entered workforce en masse\n* Government expanded dramatically\n* Geographic mobility exploded\n**Impact on χ**:\n* **Family**: Men absent for years. Women's roles shifted permanently.\n* **Trust**: Institutional trust peaked (military, government)\n* **Economic**: Post-war boom masked underlying changes\n* **Civic**: Veterans organizations provided temporary coherence\n**χ trajectory**: 0.78 → 0.76\nParadox: The wars **temporarily increased** some coherence metrics (shared purpose, institutional trust, civic participation) while **permanently disrupting** others (family structure, geographic stability, gender roles).\nThe post-war boom felt like coherence. It was actually borrowed time.\n![Story Illustration](../images/mda/Signal_Blackout conv 4.webp)\n---"
+    },
+    {
+      "title": "Wave 4: Suburbanization (1945–1965)",
+      "text": "**What changed**:\n* Levittown model spreads nationwide\n* Car ownership becomes universal\n* White flight fragments urban communities\n* Nuclear family becomes isolated unit\n**Impact on χ**:\n* **Family**: Extended family networks shattered\n* **Trust**: Neighbors no longer share history\n* **Civic**: Long commutes kill community involvement\n* **Intergenerational**: Elderly separated from grandchildren\n**χ trajectory**: 0.76 → 0.72\nThe suburbs looked like the American Dream.\nWhite picket fence. Two-car garage. Good schools.\nBut they were **coherence deserts**. No sidewalks. No corner stores. No grandparents. No history.\nEach house an island. Each family alone.\n---"
+    },
+    {
+      "title": "The Numbers Tell the Story",
+      "text": "| Metric | 1900 | 1930 | 1950 | 1965 |\n| --- | --- | --- | --- | --- |\n| Divorce rate | 0.7 | 1.6 | 2.6 | 2.5 |\n| Children with both parents | 95% | 90% | 88% | 85% |\n| Church attendance | 40% | 38% | 49%\\* | 42% |\n| Trust \"most people\" | 75% | 70% | 72% | 55% |\n| Civic org membership | 60% | 55% | 45% | 38% |\n| Multi-gen households | 25% | 18% | 12% | 8% |\n*\\*1950 church attendance spike was post-war anomaly, not trend reversal*\n---"
+    },
+    {
+      "title": "What Nobody Noticed",
+      "text": "**The decline was invisible because**:\n1. **Economic growth masked it**. GDP kept rising. Standards of living improved. Who noticed that grandma didn't live nearby anymore when you could afford a new car?\n2. **Mass media created fake coherence**. Everyone watched I Love Lucy. Everyone listened to Elvis. The shared experience of consumption replaced the shared experience of community.\n3. **Mobility seemed like freedom**. Moving for a job meant opportunity. Nobody talked about what it cost to leave your roots behind.\n4. **The old structures hadn't collapsed yet**. Churches still existed. Marriages still formed. Neighborhoods still had block parties. The skeleton was intact even as the bones weakened.\n5. **Each change seemed small**. One family moving to the suburbs. One church losing members. One bowling league folding. Who could see the pattern?\n---"
+    },
+    {
+      "title": "The Set-Up",
+      "text": "By 1965, coherence had dropped 15%—from 0.85 to 0.72.\nStill above threshold. Still functional. Still recoverable.\nBut the foundations were cracked. The support structures were hollow. The buffers were gone.\nThe society had become **brittle**.\nIt could handle normal stress. But it couldn't handle what came next.\n---"
+    },
+    {
+      "title": "The Fuse",
+      "text": "Several things were converging by 1965:\n* **Birth control pill** approved in 1960\n* **Secular higher education** expanding rapidly\n* **Television** in 90% of homes\n* **Mainline Protestant churches** beginning to abandon traditional theology\n* **Trust in institutions** about to collapse (Vietnam, assassinations, Watergate)\n* **Sexual revolution** visible on the horizon\nEach of these alone might have been absorbed.\nTogether, they would trigger **phase transition**.\nThe house that looked fine was about to collapse.\n1900: χ = 0.85\n1965: χ = 0.72\nSlow decline. Invisible damage.\nThe structure weakened.\nThe collapse was coming.\nNext: Part 5 — The Phase Transition (1968–1973).\n*Five years that broke everything.*\n[Previous: Part 3\nThe 1900 Baseline](MDA-009-the-1900-baseline.html)"
+    },
+    {
+      "title": "Part 4 of 10",
+      "text": "[Next: Part 5\nThe Phase Transition](MDA-020-phase-transition.html)\nMoral Decline of America • Theophysics Institute\nDavid Lowe • Theophysics Institute • 2024-2026"
+    }
+  ],
+  "equations": [
+    "[The Coherence Factor](/glossary/?term=the-coherence-factor \"See glossary: The Coherence Factor\")",
+    "1900: χ = 0.85",
+    "1965: χ = 0.72"
+  ],
+  "claims": [
+    {
+      "paper_id": "MDA-015-long-decline",
+      "section": "What Nobody Noticed",
+      "one_sentence_claim": "**The decline was invisible because**: 1. **Economic growth masked it**.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

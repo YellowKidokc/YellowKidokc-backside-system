@@ -1,0 +1,41 @@
+{
+  "paper_id": "MDA-025-cognitive-decline",
+  "series": "Unsorted",
+  "bundle": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-025-cognitive-decline",
+  "source_json": "\\\\dlowenas\\brain\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\03_FINAL_READY\\Unsorted\\MDA-025-cognitive-decline\\JSON\\MDA-025-cognitive-decline.paper-grade.json",
+  "generated_at": "2026-05-30T05:35:29",
+  "verdict": "NEEDS_RIGOR",
+  "claim_count": 2,
+  "failing_claim_count": 2,
+  "formal_marker_count": 0,
+  "failure_counts": {
+    "weak:Q3_mechanism": 2,
+    "weak:Q4_evidence": 2,
+    "weak:Q5_falsifiability": 2,
+    "weak:Q6_boundary": 2
+  },
+  "claim_results": [
+    {
+      "index": 1,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Rigorous thought requires the ability to tell yourself \"No.\" It requires the impulse control that the 1962 Semantic crash destroyed."
+    },
+    {
+      "index": 2,
+      "status": "FAIL",
+      "failures": [
+        "weak:Q3_mechanism",
+        "weak:Q4_evidence",
+        "weak:Q5_falsifiability",
+        "weak:Q6_boundary"
+      ],
+      "claim": "Core article, supporting evidence, and broader context Ring 1 — This Article"
+    }
+  ]
+}

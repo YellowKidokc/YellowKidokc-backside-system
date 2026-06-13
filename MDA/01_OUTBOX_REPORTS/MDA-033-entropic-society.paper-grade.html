@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Paper Proof Grader - MDA-033-entropic-society</title>
+<style>
+:root { --gold:#d7a629; --text:#efe7cf; --text-dim:#c9bea4; --text-muted:#9d9279; --surface2:#11100d; --border:#4d3b13; --green:#41b879; --red:#d45b5b; --orange:#d88b35; }
+body { margin: 0; background: #080807; color: var(--text); font-family: Georgia, serif; }
+main { max-width: 1180px; margin: 0 auto; padding: 42px 24px; }
+h1, h2 { color: var(--gold); }
+.metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; margin: 22px 0; }
+.metric, .pr-section-wrap { border: 1px solid var(--border); background: var(--surface2); padding: 14px; border-radius: 6px; }
+.meta { color: var(--text-dim); }
+.qa-btn { display:inline-flex; align-items:center; gap:6px; border:1px solid var(--border); background:#17140d; color:var(--gold); border-radius:6px; padding:7px 10px; font-size:0.78rem; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th, td { border-bottom: 1px solid #34270d; padding: 10px; vertical-align: top; }
+th { color: var(--gold); text-align: left; }
+@media (max-width: 800px) { .transparency-grid { grid-template-columns: 1fr !important; } }
+</style>
+</head>
+<body><main>
+<h1>Paper Proof Grader</h1>
+<p class="meta">MDA-033-entropic-society</p>
+<!-- PAPER INTELLIGENCE TRANSPARENCY NOTICE -->
+<section class="pr-section-wrap" style="border-color:rgba(212,175,55,0.25); margin-bottom:2rem;">
+  <h3 style="color:var(--gold); margin-top:0;">Transparency Notice</h3>
+  <p style="font-size:0.85rem; color:var(--text-dim); line-height:1.7; margin:0.8rem 0;">
+    This paper has been evaluated by the <strong style="color:var(--text);">Theophysics Paper Intelligence</strong> pipeline &mdash;
+    a deterministic, open-source scoring system distributed as a Docker container.
+    The pipeline performs automated analysis across multiple dimensions including coherence index (&chi;),
+    truth density, claim-support ratio, equation coverage, lexical and semantic Fruits alignment,
+    readability metrics, and Master Equation variable mapping.
+  </p>
+  <div class="transparency-grid" style="display:grid; grid-template-columns:1fr 1fr; gap:1rem; margin:1rem 0; font-size:0.8rem;">
+    <div style="border-left:2px solid var(--green); padding-left:12px;">
+      <div style="color:var(--text-muted); text-transform:uppercase; letter-spacing:1px; font-size:0.65rem; margin-bottom:4px;">What these scores measure</div>
+      <div style="color:var(--text-dim); line-height:1.6;">
+        Structural properties of the text. High coherence = all ten Master Equation variables engaged.
+        High truth density = claims paired with evidence at a high ratio.
+        Neither score validates content. That remains the reader&rsquo;s work.
+      </div>
+    </div>
+    <div style="border-left:2px solid var(--red); padding-left:12px;">
+      <div style="color:var(--text-muted); text-transform:uppercase; letter-spacing:1px; font-size:0.65rem; margin-bottom:4px;">What these scores do not measure</div>
+      <div style="color:var(--text-dim); line-height:1.6;">
+        Correctness of conclusions, theological validity, experimental replicability,
+        or domain-specific peer review. This is a structural audit, not a truth oracle.
+      </div>
+    </div>
+  </div>
+  <div style="background:var(--surface2); border:1px solid var(--border); border-radius:6px; padding:12px 14px; margin:1rem 0;">
+    <div style="font-size:0.75rem; color:var(--gold); text-transform:uppercase; letter-spacing:1.5px; margin-bottom:6px;">Reproducibility Guarantee</div>
+    <p style="font-size:0.8rem; color:var(--text-dim); line-height:1.6; margin:0;">
+      This pipeline is deterministic. Given identical input, it produces identical output across runs,
+      machines, and operators. The Docker image, source code, and scoring methodology are publicly
+      available. You are invited&mdash;encouraged&mdash;to run this pipeline against this paper,
+      against any paper in this corpus, or against any paper from any source.
+    </p>
+  </div>
+  <details style="margin-top:0.8rem;">
+    <summary style="font-size:0.75rem; color:var(--text-muted); cursor:pointer; letter-spacing:0.5px;">Known Limitations of This Run</summary>
+    <ul style="font-size:0.78rem; color:var(--text-muted); line-height:1.8; margin:8px 0 0 16px; padding:0;">
+      <li>27 fine-grained emotion categories returned incomplete due to model unavailability. Affected sections are marked rather than populated with zeros.</li>
+      <li>Equation counts include inline mathematical notation and may overcount relative to distinct formal statements.</li>
+      <li>Formal verification against the axiom spine, Master Equation, Lagrangian, and Lean proofs requires a separate workflow not included in this scoring pass.</li>
+      <li>Counterargument detection identifies explicit rebuttal language only; structural objections embedded in argument flow may not be counted.</li>
+    </ul>
+  </details>
+  <div style="margin-top:0.8rem; display:flex; gap:8px; flex-wrap:wrap;">
+    <a class="qa-btn" href="https://github.com/YellowKidokc/paper-proof-grader" target="_blank" style="text-decoration:none;">Source &amp; Docker</a>
+    <a class="qa-btn" href="https://hub.docker.com/r/yellowkid/paper-intelligence" target="_blank" style="text-decoration:none;">Docker Hub</a>
+    <a class="qa-btn" href="https://theophysics.pro" target="_blank" style="text-decoration:none;">Theophysics</a>
+  </div>
+</section>
+<section class="metrics">
+<div class="metric"><b>Words</b><br>4475</div>
+<div class="metric"><b>Sections</b><br>51</div>
+<div class="metric"><b>Equations</b><br>0</div>
+<div class="metric"><b>Claims</b><br>17</div>
+</section>
+<h2>Scientific Claim Audit</h2>
+<table><thead><tr><th>#</th><th>Section</th><th>Claim</th><th>Maturity</th><th>Kill Conditions</th><th>Proof Boundary</th></tr></thead><tbody>
+<tr><td>1</td><td>I. The Technology of Human Will</td><td>A Conceptual and Critical Definition The investigation into the moral trajectory of American society requires a philosophical definition of technology that moves beyond mere tool usage.</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>2</td><td>A. Technology as Exteriorized Intent and Cultural Force</td><td>Technology's role as a cultural determinant places its study within the domain of the humanities philosophy of technology, which emphasizes its meaning and impact on society.2 If philosophy seeks to understand how things in the broadest sense relate, then the vast scope and complexity of technological systems compel analysis of their moral footprint.</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>3</td><td>A. Technology as Exteriorized Intent and Cultural Force</td><td>This conceptual framework requires acknowledging that technology is fundamentally value-laden.1 Technical systems embody the goals of efficiency and power.</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>4</td><td>A. Technology as Exteriorized Intent and Cultural Force</td><td>When humans engage with the world through technology, they are, by necessity, adopting a maximizing and controlling approach.1 This approach, when applied ubiquitously, determines a &quot;technological way of life.&quot; The observed decline in social capital and psychological stability may, therefore, be viewed as the catastrophic consequences of a technological development driven by these unchecked values.1</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>5</td><td>C. Entropy as a Digital Design Principle</td><td>The structural implication of this design choice is profound: if technological artifacts are the exteriorization of human intent,1 then the shift toward designed decay indicates a societal and corporate will that prioritizes maximum extraction (economic efficiency and power) over cultural permanence and stability.1 This technological entropy establishes a negative feedback loop: it structurally undermines the value of durability, making societal acceptance of transience and systemic breakdown seem normative.</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>6</td><td>B. Informational Integrity: Erosion of Institutional Trust</td><td>Informational Integrity, defined by public confidence in governing and information-providing institutions, shows a crisis initiated long before the digital age, which subsequently allowed for the fragmentation of the Perpetual Connectivity era.</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>7</td><td>Disillusionment Versus Fragmentation</td><td>The data demonstrates that the crisis of Informational Integrity was initiated and cemented during Phase 1 (Mass Mediation) and the early part of Phase 2, primarily driven by centralized communication of political failure and war.13 Phase 1 generated **disillusionment**—the loss of faith in centralized authorities—decades before social media emerged.</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>8</td><td>C. Psychological Entropy: Internal Systemic Breakdown</td><td>Psychological Entropy, the internal systemic breakdown characterized by acute mental distress, shows a strong, temporally acute correlation with the saturation of Perpetual Connectivity technology (Phase 3).</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>9</td><td>The Acute Rise of Mental Distress</td><td>The prevalence of depression increased significantly from **8.2% in 2013–2014 to 13.1% in 2021–2023**.17 Current data shows that 16.0% of adolescents ages 12–17 have diagnosed anxiety, and 8.7% have diagnosed depression.18 Loneliness has been identified by the U.S.</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>10</td><td>Technological Causal Mechanisms</td><td>While suicide rates fluctuated over the second half of the 20th century, the contemporary crisis is marked by the temporal alignment of the mental distress spike with the saturation point of social media adoption.17 Experimental studies establish a **causal link** between limited use of platforms like Facebook, Snapchat, and Instagram and improved well-being.23 The evidence points to a biological mechanism underlying the creation of Psychological Entropy.</td><td>2 - Analogy</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Analogy, not a final proof.</td></tr>
+<tr><td>11</td><td>Phase 1</td><td>### Mass Mediation and the Foundation of Decay The strong statistical correlation established between the rise of passive, broadcast media (Phase 1) and the initiation of large-scale social decay demonstrates that the systemic vulnerabilities in American moral capital were laid decades ago.</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>12</td><td>Phase 3</td><td>The mass adoption of smartphones and social media (post-2013) corresponds precisely with the sharp, measurable spike in youth anxiety and depression.17 The causal evidence confirms that the technology is not merely present alongside the decay but actively diminishes well-being when used excessively.23 The crucial dynamic identified is the **entropic feedback loop**: the aesthetic of digital entropy (designed instability and transience) feeds directly into psychological entropy.</td><td>3 - Structural Correspondence</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Structural Correspondence, not a final proof.</td></tr>
+<tr><td>13</td><td>V. Falsification and Alternative Causal Pathways</td><td>The evidence suggests that technology often reflects or accelerates existing societal weaknesses.</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>14</td><td>VI. Conclusion and Policy Recommendations</td><td>The **Mass Mediation era (Phase 1)** initiated the fundamental structural decay, establishing an isolating media consumption model that severely undermined **Relational Coherence** (civic bonds) and generating the systemic political and media failures that destroyed **Informational Integrity** (institutional trust).</td><td>4 - Formal Model</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Formal Model, not a final proof.</td></tr>
+<tr><td>15</td><td>Democratizing Technology Design and Deployment</td><td>Technological systems must be submitted to a more democratic process to ensure that their embedded values extend beyond maximization and control.1 This requires mandating design transparency, allowing public scrutiny of algorithmic objectives, and holding technological corporations accountable for the measurable negative externalities (Psychological Entropy) produced by their systems.</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>16</td><td>Mitigating the Crisis of Psychological Entropy</td><td>These measures should include mandating default settings that impose age-appropriate usage limits, restrict features that interfere with sleep, and prohibit designs engineered to overstimulate the developing brain's reward centers.7 Addressing the public health epidemic of loneliness and disconnection19 requires not only limiting harmful exposure but also prioritizing and resourcing community-based interventions that emphasize non-mediated social interaction to rebuild the Relational Coherence eroded by preceding technological phases. ---</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+<tr><td>17</td><td>Related Work</td><td>Core article, supporting evidence, and broader context Ring 1 — This Article</td><td>1 - Metaphor</td><td>Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?</td><td>Current boundary: deterministic pass classifies this as Metaphor, not a final proof.</td></tr>
+</tbody></table>
+</main></body></html>

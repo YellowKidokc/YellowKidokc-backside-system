@@ -1,0 +1,42 @@
+{
+  "portal_title": "Theophysics AI Portal",
+  "portal_slug": "theophysics-ai-portal",
+  "portal_base_url": "https://ai.faiththruphysics.com",
+  "output_dir": "X:\\proof-explorer\\ai-portal",
+  "gtq": {
+    "enabled": true,
+    "series_name": "Genesis to Quantum",
+    "source_html_dir": "C:\\Users\\lowes\\OneDrive\\Desktop\\genesis-to-quantum",
+    "grader_run_dir": "X:\\proof-explorer\\reports\\gtq_docker_all25_20260507_191530",
+    "snapshot_dir": "X:\\proof-explorer\\reports\\gtq_full_20260507_180345\\defensibility_gtq_batch",
+    "fruits_scores": "X:\\brain\\00_WORKFLOWS\\paper-proof-grader\\OUTPUT\\fruits_of_spirit\\fruits_run_20260507_173715\\fruits_scores.json",
+    "proof_explorer_root": "X:\\proof-explorer",
+    "verification_repo": "X:\\github\\genesis-quantum-verification"
+  },
+  "formal_yardstick": {
+    "enabled": true,
+    "run_dir": "X:\\brain\\00_WORKFLOWS\\paper-proof-grader\\OUTPUT\\formal_yardstick_20260507_183006"
+  },
+  "verification": {
+    "enabled": true,
+    "root": "X:\\github\\genesis-quantum-verification"
+  },
+  "canonical": {
+    "enabled": true,
+    "root": "O:\\_Theophysics_v5\\00_Canonical",
+    "exclude_dir_names": [
+      ".git",
+      "__pycache__",
+      "_QUARANTINE",
+      "_ARCHIVED_FROM_CANONICAL",
+      "Archive"
+    ],
+    "extensions": [
+      ".md",
+      ".txt",
+      ".html",
+      ".json",
+      ".lean"
+    ]
+  }
+}

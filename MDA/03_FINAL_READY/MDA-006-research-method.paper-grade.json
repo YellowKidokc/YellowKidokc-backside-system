@@ -1,0 +1,243 @@
+{
+  "paper_id": "MDA-006-research-method",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-006-research-method.md",
+  "generated_at": "2026-05-30T05:31:49",
+  "metrics": {
+    "word_count": 1116,
+    "section_count": 18,
+    "equation_count": 0,
+    "claim_candidate_count": 7,
+    "top_terms": "this, research, where, question, that, with, method, what, contradictions, html, used, does, evidence, found, before"
+  },
+  "sections": [
+    {
+      "title": "Document Start",
+      "text": "---\nscrape_mode: markitdown_full\nsource_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-006-research-method.html\"\nsource_sha256: 3e44ff51a7e5d67e3a48dc9abd6827f0b01443d17628c4966a74fe6cb2dbb347\ntitle: \"Research Method — The Moral Decline of America\"\nmain_selector: \"main\"\nscraped_at: \"2026-05-25T13:22:48\"\n---\n[← Main Index](../index.html)\n|\n[Moral Decline](index.html)"
+    },
+    {
+      "title": "Research Method",
+      "text": "Theophysics Research • Series 6.8"
+    },
+    {
+      "title": "Research Method",
+      "text": "Human-led research with AI as a collaborator, not an authority\n![Story Illustration](../images/mda/Phantom_Money_Phantom_Morals conv 7.webp)\nDavid Lowe • Theophysics Institute\nThis is not \"deep research by prompt.\"\nThis workflow was designed for **human-led research with AI as a collaborator** — not an authority, not a conclusion machine, and not a shortcut past hard thinking.\nAI is used here to map intellectual terrain quickly, surface contradictions, organize competing interpretations, and suggest where deeper study is needed. AI is **not** used to decide what is true. Some outputs may be incomplete or wrong. That is expected.\nThe purpose of this method is to **compress time without compressing understanding** — by forcing disagreement, structure, and coherence to surface early. It is doing the research yourself, faster and more honestly, with AI helping at the edges.\n\"Truth is rarely found where everyone agrees. It is found where disagreement is sharpest and still survivable.\"\n---"
+    },
+    {
+      "title": "Why This Question Matters",
+      "text": "I believe very strongly that we are heading toward economic, social, and financial collapse. The research question isn't academic to me. It comes from somewhere more personal than that.\nI feel the weight of this in a way I can't fully explain — like there's something I'm supposed to do about it even though I recognize how delusional that sounds. That's where I'm at in life. I feel like I should do something about it.\nThis is not a commitment to having the answers. It is a starting point for asking the right questions.\nPersonal Note — David Lowe\nThe research question driving this project: **Why is there a ubiquitous, measurable change in moral decline in America from the early 1900s to present day?**\nBefore answering a question, ask what kind of question it is. This one spans sociology, theology, economics, family structure, institutional trust, and philosophy. It cannot be answered by a single discipline. It requires a method that can hold that complexity without collapsing it.\n---"
+    },
+    {
+      "title": "The Five-Page System",
+      "text": "Each inquiry in this project uses **five pages**. They are not optional and they are not decorative. Each page performs a distinct cognitive function. Duplicate all five for each new question.\n01"
+    },
+    {
+      "title": "Inquiry Seed",
+      "text": "Question & Orientation\nStates the research question precisely. Captures the researcher's initial intuition or belief before any AI input contaminates it. This matters: your pre-AI thinking is load-bearing. If you let AI frame the question, you've already lost authorship of the answer.\nFile: Inquiry\\_Seed\\_[Question].md\n02"
+    },
+    {
+      "title": "AI Prompt Engine",
+      "text": "How AI Is Used\nDocuments the exact prompts used, the AI models consulted, and the outputs received — without yet evaluating them. The AI output is pasted or summarized here raw. No judgment at this stage. The engine maps the terrain: competing interpretations, key names, major fault lines, suggested search domains. It does not decide what is true.\nFile: AI\\_Prompt\\_Engine\\_[Question].md\n03"
+    },
+    {
+      "title": "Research Workspace",
+      "text": "Evidence & Links\nThe living document where actual evidence accumulates. Primary sources, data links, study citations, statistics with dates and sourcing. This is where AI suggestions get stress-tested against real sources. Not every AI claim survives contact with the primary literature. The workspace is where that collision happens.\nFile: Research\\_Workspace\\_[Question].md\n04"
+    },
+    {
+      "title": "Contradictions & Resolution",
+      "text": "Sense-Making\n![Story Illustration](../images/mda/The_Observer_Collapsed conv 5.webp)\nThis is the most important page in the system. Where do the sources disagree? Where does the AI output contradict the primary literature? Where does your intuition conflict with the data? This page forces you to sit with irresolution long enough to understand it — rather than selecting only evidence that confirms the hypothesis you arrived with.\nTruth is most often found in the contradiction that refuses to resolve cleanly, not in the consensus that resolves too easily.\nFile: Contradictions\\_Resolution\\_[Question].md\n05"
+    },
+    {
+      "title": "Quotes, Domains, & Links",
+      "text": "Shared Library\nA shared reference library built across all inquiries. Key quotes with attribution and date. Domain categories surfaced during research. External links with brief context annotations. This page is cumulative — it grows across every inquiry and builds the raw material from which publications are drawn.\nFile: Quotes\\_Domains\\_Links\\_[Question].md\n---"
+    },
+    {
+      "title": "What AI Does — and Does Not Do",
+      "text": "### AI Is Used To\n* Map intellectual terrain quickly across multiple disciplines\n* Surface contradictions between competing interpretations\n* Organize competing frameworks side by side\n* Suggest where deeper primary-source study is needed\n* Stress-test early conclusions against counterarguments"
+    },
+    {
+      "title": "AI Is Not Used To",
+      "text": "* Decide what is true\n* Replace primary-source verification\n* Frame the initial question before the researcher does\n* Select which evidence counts as significant\n* Resolve contradictions that require human judgment\nSome AI outputs in this project are incomplete. Some are wrong. That is expected and is not a failure of the method. The method treats AI error as a signal — it tells you where the intellectual terrain is genuinely contested, where consensus has been manufactured rather than earned, and where you need to dig deeper into primary sources.\n---"
+    },
+    {
+      "title": "How to Use This System",
+      "text": "Workflow Sequence\n1.\nStart with the **Inquiry Seed**. Write your question and your initial intuition *before* running any AI prompt.\n2.\nRun the **AI Prompt Engine**. Paste the output. Do not judge it yet — just collect it.\n3.\nOpen the **Research Workspace**. Follow the AI's leads into primary sources. Cite everything. Record what the data actually says.\n4.\nBuild the **Contradictions page**. Force the disagreements into the open. Sit with them. Do not paper over them.\n5.\nMaintain the **Quotes, Domains, & Links** library as you go. Every session adds to it.\nDuplicate all five pages for each new question. The structure is not bureaucracy — it is the cognitive architecture that prevents AI-assisted research from collapsing into AI-generated opinion.\n---\n\"Truth is rarely found where everyone agrees. It is found where disagreement is sharpest and still survivable.\"\nThis research exists because someone felt the weight of it and decided that feeling was not enough. You have to actually look. You have to go where the data is uncomfortable. You have to let the contradictions speak before you reach for resolution.\nThat is what this project is. That is what this method is for.\n[Moral Decline Series](index.html)"
+    },
+    {
+      "title": "Research Method",
+      "text": "[Part 1\nIntroduction](MDA-900-appendix-original-introduction.html)\nGenesis to Quantum • Theophysics Institute\nDavid Lowe • Theophysics Institute"
+    },
+    {
+      "title": "Related Work",
+      "text": "Core article, supporting evidence, and broader context\nRing 1 — This Article"
+    },
+    {
+      "title": "The core argument",
+      "text": "You are here.\nRing 2 — Supporting Evidence"
+    },
+    {
+      "title": "Deeper dives and formal treatments",
+      "text": "No connections mapped yet.\nRing 3 — Broader Context"
+    },
+    {
+      "title": "Related topics across the framework",
+      "text": "No connections mapped yet."
+    }
+  ],
+  "equations": [],
+  "claims": [
+    {
+      "paper_id": "MDA-006-research-method",
+      "section": "Why This Question Matters",
+      "one_sentence_claim": "It requires a method that can hold that complexity without collapsing it. ---",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-006-research-method",
+      "section": "Research Workspace",
+      "one_sentence_claim": "Evidence & Links The living document where actual evidence accumulates.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-006-research-method",
+      "section": "Research Workspace",
+      "one_sentence_claim": "Not every AI claim survives contact with the primary literature.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-006-research-method",
+      "section": "Contradictions & Resolution",
+      "one_sentence_claim": "This page forces you to sit with irresolution long enough to understand it — rather than selecting only evidence that confirms the hypothesis you arrived with.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "present",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-006-research-method",
+      "section": "AI Is Not Used To",
+      "one_sentence_claim": "* Decide what is true * Replace primary-source verification * Frame the initial question before the researcher does * Select which evidence counts as significant * Resolve contradictions that require human judgment Some AI outputs in this project are incomplete.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "source",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "bounded",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "present",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-006-research-method",
+      "section": "How to Use This System",
+      "one_sentence_claim": "It is found where disagreement is sharpest and still survivable.\" This research exists because someone felt the weight of it and decided that feeling was not enough.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "clear",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-006-research-method",
+      "section": "Related Work",
+      "one_sentence_claim": "Core article, supporting evidence, and broader context Ring 1 — This Article",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

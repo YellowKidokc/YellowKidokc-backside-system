@@ -1,0 +1,107 @@
+{
+  "paper_id": "MDA-901-appendix-america-index",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-901-appendix-america-index.md",
+  "generated_at": "2026-05-30T05:31:59",
+  "metrics": {
+    "word_count": 394,
+    "section_count": 17,
+    "equation_count": 0,
+    "claim_candidate_count": 1,
+    "top_terms": "html, series, index, moral, framework, decline, theophysics, facts, stories, data, from, begins, institute, parts, methodology"
+  },
+  "sections": [
+    {
+      "title": "Document Start",
+      "text": "---\nscrape_mode: markitdown_full\nsource_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-901-appendix-america-index.html\"\nsource_sha256: 6479373847b1e350bd615b53623fefa5ffda584bf44c6f2a518f03d8dd72dd0e\ntitle: \"The Moral Decline of America — Series Index | Theophysics Institute\"\nmain_selector: \"body\"\nscraped_at: \"2026-05-25T13:23:05\"\n---\n[← Main Index](../index.html)\n|\n[Moral Decline](index.html)\n[Genesis to Quantum](index.html)"
+    },
+    {
+      "title": "Moral Decline Series",
+      "text": "[FACTS](#framework)\n[All Parts](#series)\n[Stories](#stories)\n[Methodology](#methodology)\nTheophysics Research • Series 6.2"
+    },
+    {
+      "title": "The Moral Decline of America",
+      "text": "A Quantitative Framework for Civilizational Entropy, 1958–2025\nDavid Lowe • Theophysics Institute\n10"
+    },
+    {
+      "title": "Parts",
+      "text": "67"
+    },
+    {
+      "title": "Years of Data",
+      "text": "5"
+    },
+    {
+      "title": "FACTS Pillars",
+      "text": "7"
+    },
+    {
+      "title": "Family Stories",
+      "text": "Read Aloud\n0:00"
+    },
+    {
+      "title": "Deep Dive",
+      "text": "0:00"
+    },
+    {
+      "title": "Podcast",
+      "text": "0:00"
+    },
+    {
+      "title": "Critical Thresholds",
+      "text": "1962\nEngel v. Vitale — Supreme Court removes prayer from public schools.\nWithin one generation, every FACTS metric begins declining.\n1968\nPhase Transition Begins — SAT scores peak, social trust begins declining, divorce rate accelerates.\nThe inflection point across multiple independent datasets.\n1971\nNixon Shock — Dollar decoupled from gold. Monetary integrity severed.\nReal wages decouple from productivity. Economic morality becomes phantom.\n1973\nRoe v. Wade — Sanctity of life redefined by judicial fiat.\nMoral consequence separated from personal choice by institutional decree.\n2008\nFinancial Crisis & Smartphone Saturation — Institutional trust collapses below recovery threshold.\nAlgorithmic attention capture begins. The observer starts dissolving."
+    },
+    {
+      "title": "A Note on Methodology",
+      "text": "This series applies thermodynamic modeling to social data — not as metaphor, but as\nstructural isomorphism. When entropy increases in a closed system, it does not reverse\nspontaneously. The same mathematics that governs phase transitions in physics (ice to water,\nwater to steam) maps precisely onto the observed social data: gradual degradation, acceleration\npast critical thresholds, and irreversibility without external energy input.\nEvery claim is sourced. Every metric is longitudinal. The FACTS framework was constructed\nto be falsifiable: if any pillar showed recovery, the thesis would weaken. None has."
+    },
+    {
+      "title": "Begin the Series",
+      "text": "Start with the Introduction for the full framework, or jump directly to any chapter.\n[Read Part 01: Introduction](MDA-900-appendix-original-introduction.html)\n10 parts • ~45,000 words • 200+ cited data points\nGenesis to Quantum • Theophysics Institute\nDavid Lowe • 2025\n[Home](index.html)\n[Part 01](MDA-900-appendix-original-introduction.html)\n[Part 10](MDA-056-way-back.html)\n[Stories](MDA-001-story-introduction.html)"
+    },
+    {
+      "title": "Related Work",
+      "text": "Core article, supporting evidence, and broader context\nRing 1 — This Article"
+    },
+    {
+      "title": "The core argument",
+      "text": "You are here.\nRing 2 — Supporting Evidence"
+    },
+    {
+      "title": "Deeper dives and formal treatments",
+      "text": "No connections mapped yet.\nRing 3 — Broader Context"
+    },
+    {
+      "title": "Related topics across the framework",
+      "text": "No connections mapped yet."
+    },
+    {
+      "title": "Audio",
+      "text": "0:00"
+    }
+  ],
+  "equations": [],
+  "claims": [
+    {
+      "paper_id": "MDA-901-appendix-america-index",
+      "section": "Related Work",
+      "one_sentence_claim": "Core article, supporting evidence, and broader context Ring 1 — This Article",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "Detected terms: evidence",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

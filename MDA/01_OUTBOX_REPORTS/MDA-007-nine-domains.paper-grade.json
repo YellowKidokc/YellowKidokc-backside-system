@@ -1,0 +1,200 @@
+{
+  "paper_id": "MDA-007-nine-domains",
+  "source_file": "X:\\apps\\paper-intelligence-suite-python\\OUTPUT\\mda_math_translation_full61_20260530_053137\\00_INBOX_DROP_PAPERS_HERE\\MDA-007-nine-domains.md",
+  "generated_at": "2026-05-30T05:31:49",
+  "metrics": {
+    "word_count": 1081,
+    "section_count": 28,
+    "equation_count": 4,
+    "claim_candidate_count": 3,
+    "top_terms": "score0, rate, coherence, people, 1900, 2024, html, question, part, trust, indicators, matters, when, nine, moral"
+  },
+  "sections": [
+    {
+      "title": "Document Start",
+      "text": "---\nscrape_mode: markitdown_full\nsource_path: \"\\\\dlowenas\\HPWorkstation\\Desktop\\Master HTMl\\K-Production-Ready\\03-moral-decline\\MDA-007-nine-domains.html\"\nsource_sha256: 2a860c456d5e060f04df2202609a814bc342a33c53364c11077247edb9565516\ntitle: \"Part 2: The Nine Domains — The Moral Decline of America\"\nmain_selector: \"main\"\nscraped_at: \"2026-05-25T13:22:48\"\n---\n[← Main Index](../index.html)\n|\n[Moral Decline](index.html)\n[← Prev](MDA-003-measuring-moral-health.html)\n|\n[Next: Part 3 →](MDA-009-the-1900-baseline.html)\n[Moral Decline of America](index.html)"
+    },
+    {
+      "title": "Part-Series",
+      "text": "Part 2 of 10\n[Next](MDA-009-the-1900-baseline.html)\nTheophysics Research • MDA Part-Series"
+    },
+    {
+      "title": "PART 02 OF 10",
+      "text": "# The Nine Domains\nNine dimensions of social health. Each measurable. Each declining. All connected.\n![Story Illustration](../images/mda/Phantom_Money_Phantom_Morals conv 8.webp)\nDavid Lowe • Theophysics Institute\n[The Coherence Factor](/glossary/?term=the-coherence-factor \"See glossary: The Coherence Factor\")\n**The Coherence Factor (χ)** measures the degree to which a civilization's subsystems—families, institutions, trust networks, moral frameworks, and information flows—remain internally consistent, mutually reinforcing, and capable of coordinated action.\nχ = 1.0 means perfect alignment. χ = 0.0 means total fragmentation.\nCurrent U.S. χ: **≈ 0.24**\nCritical Threshold: **0.35**\nStatus: **Threshold Crossed**\nIn Part 1, we introduced the Coherence Factor (χ).\nNow let's open the hood. What exactly are we measuring?\nχ is calculated from **nine domains**. Each domain captures a different dimension of social health. Together, they tell us whether a civilization is holding together or flying apart.\n---"
+    },
+    {
+      "title": "The Nine Domains",
+      "text": "01\nFamily Structure (F)\n**Question:** Are families forming and staying together?"
+    },
+    {
+      "title": "Indicators",
+      "text": "* Marriage rate per 1,000 adults\n* Divorce rate\n* Percentage of children living with both biological parents\n* Single-parent household rate\n* Birth rate within marriage vs. outside"
+    },
+    {
+      "title": "Why it matters",
+      "text": "The family is the smallest coherence-generating unit. When families fragment, every other domain eventually follows.\n1900 score0.92\n2024 score0.31\n02\nSocial Trust (T)\n**Question:** Do people trust each other and institutions?"
+    },
+    {
+      "title": "Indicators",
+      "text": "* \"Can most people be trusted?\" survey responses\n* Institutional confidence (government, media, churches, courts)\n* Contract enforcement needs\n* Neighbor-to-neighbor trust"
+    },
+    {
+      "title": "Why it matters",
+      "text": "Trust is the lubricant of cooperation. Without it, every transaction requires verification, every promise requires enforcement, and coordination becomes impossible.\n1900 score0.85\n2024 score0.22\n03\nSafety (S)\n**Question:** Are people safe from violence?"
+    },
+    {
+      "title": "Indicators",
+      "text": "* Murder rate per 100,000\n* Violent crime rate\n* Sexual assault rate\n* Domestic violence rate\n* Child abuse rate"
+    },
+    {
+      "title": "Why it matters",
+      "text": "Physical safety is the baseline for all other coherence. When people fear each other, community becomes impossible.\n1900 score0.75(higher crime in cities, but lower overall)\n2024 score0.45(varies dramatically by location)\n04\nSelf-Control (C)\n**Question:** Can people resist destructive impulses?"
+    },
+    {
+      "title": "Indicators",
+      "text": "* Addiction rates (alcohol, drugs, gambling, pornography)\n* Obesity rate\n* Consumer debt levels\n* Impulse-related bankruptcy\n* STD transmission rates"
+    },
+    {
+      "title": "Why it matters",
+      "text": "Self-control is coherence at the individual level. A society of people who cannot control themselves cannot maintain any higher-order coherence.\n1900 score0.80\n2024 score0.28\n05\nMental Health (M)\n**Question:** Are people psychologically healthy?"
+    },
+    {
+      "title": "Indicators",
+      "text": "* Suicide rate\n* Depression rates (clinical diagnosis)\n* Anxiety disorder rates\n* \"Deaths of despair\" (suicide + overdose + alcoholic liver disease)\n* Psychiatric medication usage"
+    },
+    {
+      "title": "Why it matters",
+      "text": "Mental health is the individual's coherence with themselves. Mass psychological deterioration is both symptom and cause of social incoherence.\n1900 score0.82\n2024 score0.25\n06\nEconomic Stability (E)\n**Question:** Can people build and maintain wealth?"
+    },
+    {
+      "title": "Indicators",
+      "text": "* Household savings rate\n* Home ownership rate\n* Bankruptcy rate\n* Generational wealth transfer\n* Economic mobility"
+    },
+    {
+      "title": "Why it matters",
+      "text": "Economic stability enables long-term planning, which enables commitment, which enables coherence.\n1900 score0.78\n2024 score0.35\n07\nCivic Participation (P)\n**Question:** Do people engage in community?"
+    },
+    {
+      "title": "Indicators",
+      "text": "* Volunteering rate\n* Membership in civic organizations\n* Voter participation\n* Community event attendance\n* Neighbor interaction frequency"
+    },
+    {
+      "title": "Why it matters",
+      "text": "Civic participation is the visible expression of social coherence—people choosing to coordinate with strangers for shared purposes.\n1900 score0.88\n2024 score0.22\n08\nShared Meaning (Σ)\n**Question:** Do people share a common framework?\n![Story Illustration](../images/mda/Signal_Blackout conv 10.webp)"
+    },
+    {
+      "title": "Indicators",
+      "text": "* Religious participation rate\n* Agreement on basic moral questions\n* Shared cultural knowledge\n* Common information sources\n* Consensus on historical narrative"
+    },
+    {
+      "title": "Why it matters",
+      "text": "Shared meaning is what allows people to coordinate without explicit negotiation. When it disappears, everything must be argued.\n1900 score0.90\n2024 score0.18\n09\nIntergenerational Transfer (I)\n**Question:** Is wisdom passing to the next generation?"
+    },
+    {
+      "title": "Indicators",
+      "text": "* Children learning parents' trade/profession rate\n* Family business survival across generations\n* Religious/cultural continuity child-to-parent\n* Elder care by family vs. institution\n* Grandparent involvement in child-rearing"
+    },
+    {
+      "title": "Why it matters",
+      "text": "A society that cannot transmit its wisdom dies in one generation, no matter how wise it was.\n1900 score0.92\n2024 score0.20\n---"
+    },
+    {
+      "title": "The Coherence Factor Formula",
+      "text": "χ is calculated as the weighted average of all nine domains:"
+    },
+    {
+      "title": "Coherence Factor",
+      "text": "**χ = (F + T + S + C + M + E + P + Σ + I) / 9**\nEach domain is normalized to a 0–1 scale using historical benchmarks.\n---"
+    },
+    {
+      "title": "The 2024 Calculation",
+      "text": "| Domain | 1900 | 2024 | Δ |\n| --- | --- | --- | --- |\n| Family (F) | 0.92 | 0.31 | -66% |\n| Trust (T) | 0.85 | 0.22 | -74% |\n| Safety (S) | 0.75 | 0.45 | -40% |\n| Self-Control (C) | 0.80 | 0.28 | -65% |\n| Mental Health (M) | 0.82 | 0.25 | -70% |\n| Economic (E) | 0.78 | 0.35 | -55% |\n| Civic (P) | 0.88 | 0.22 | -75% |\n| Shared Meaning (Σ) | 0.90 | 0.18 | -80% |\n| Intergenerational (I) | 0.92 | 0.20 | -78% |\n| **χ (Total)** | **0.85** | **0.27** | **-68%** |\n---"
+    },
+    {
+      "title": "What Jumps Out",
+      "text": "Look at those numbers again.\n* **Trust:** Down 74%\n* **Shared Meaning:** Down 80%\n* **Intergenerational Transfer:** Down 78%\n* **Civic Participation:** Down 75%\nThese aren't gradual declines. These are **collapses**.\nAnd here's what's critical: **they're all connected**.\nWhen shared meaning drops, trust drops. When trust drops, civic participation drops. When civic participation drops, families fragment. When families fragment, intergenerational transfer fails.\nIt's a **cascade**. Each domain pulls down the others.\nThat's why χ isn't just an average—it's a measure of **systemic failure**.\n---"
+    },
+    {
+      "title": "The Threshold Question",
+      "text": "Why do we say χ = 0.35 is the threshold?\nBecause that's the level below which **no civilization in recorded history has self-corrected**.\nBelow 0.35, the feedback loops become self-reinforcing in the wrong direction. Decline accelerates. The system cannot generate enough internal coherence to reverse the trend.\nAbove 0.35, self-correction is possible. Below it, only external intervention changes the trajectory.\nWe crossed that line.\nχ = 0.27. Threshold = 0.35. We're below it.\nNine domains. All declining. All connected.\nThis is the shape of collapse.\nNext: Part 3 — The 1900 Baseline.\n*What did χ = 0.85 actually look like? How did people live when coherence was high?*\n[Previous: Part 1\nMeasuring Moral Health](MDA-003-measuring-moral-health.html)"
+    },
+    {
+      "title": "Part 2 of 10",
+      "text": "[Next: Part 3\nThe 1900 Baseline](MDA-009-the-1900-baseline.html)\nMoral Decline of America • Theophysics Institute\nDavid Lowe • Theophysics Institute • 2024-2026"
+    }
+  ],
+  "equations": [
+    "[The Coherence Factor](/glossary/?term=the-coherence-factor \"See glossary: The Coherence Factor\")",
+    "**χ = (F + T + S + C + M + E + P + Σ + I) / 9**",
+    "Why do we say χ = 0.35 is the threshold?",
+    "*What did χ = 0.85 actually look like? How did people live when coherence was high?*"
+  ],
+  "claims": [
+    {
+      "paper_id": "MDA-007-nine-domains",
+      "section": "Why it matters",
+      "one_sentence_claim": "Without it, every transaction requires verification, every promise requires enforcement, and coordination becomes impossible.",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-007-nine-domains",
+      "section": "What Jumps Out",
+      "one_sentence_claim": "That's why χ isn't just an average—it's a measure of **systemic failure**. ---",
+      "claim_maturity_level": 1,
+      "claim_maturity_label": "Metaphor",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Metaphor, not a final proof.",
+      "nearby_equation": "",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "missing",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    },
+    {
+      "paper_id": "MDA-007-nine-domains",
+      "section": "The Threshold Question",
+      "one_sentence_claim": "Because that's the level below which **no civilization in recorded history has self-corrected**.",
+      "claim_maturity_level": 4,
+      "claim_maturity_label": "Formal Model",
+      "facts_snapshot": "No hard factual terms detected by deterministic pass.",
+      "forward_test": "If the claim is true, the described pattern should appear where the paper says it should appear.",
+      "reverse_test": "If the pattern can appear without the proposed framework, the claim should be downgraded or narrowed.",
+      "evidence_bar": "No explicit evidence marker in sentence.",
+      "kill_conditions": "Needs an explicit failure case: what observation, logic result, or counterexample would make this claim false?",
+      "not_claimed": "Does not by itself claim that physics proves theology.",
+      "proof_boundary": "Current boundary: deterministic pass classifies this as Formal Model, not a final proof.",
+      "nearby_equation": "Why do we say χ = 0.35 is the threshold?",
+      "Q1_identity": "implicit",
+      "Q2_scope": "broad",
+      "Q3_mechanism": "present",
+      "Q4_evidence": "missing",
+      "Q5_falsifiability": "missing",
+      "Q6_boundary": "missing",
+      "Q7_listener_risk": "normal"
+    }
+  ]
+}

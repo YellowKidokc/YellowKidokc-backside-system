@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: theophysics-conversion
+Version: 0.1.0
+Summary: Unified format normalization: source documents and links to canonical markdown
+Requires-Python: >=3.10
+Requires-Dist: beautifulsoup4>=4.12
+Requires-Dist: html2text>=2024.2.26
+Requires-Dist: pydantic>=2.0
+Requires-Dist: pyyaml>=6.0
+Provides-Extra: all
+Requires-Dist: markitdown[all]>=0.0.1a3; extra == "all"
+Requires-Dist: yt-dlp>=2024.1; extra == "all"
+Requires-Dist: youtube-transcript-api>=0.6; extra == "all"
+Requires-Dist: pytesseract>=0.3; extra == "all"
+Provides-Extra: whisper
+Requires-Dist: openai-whisper>=20240930; extra == "whisper"
+Provides-Extra: ocr
+Requires-Dist: pytesseract>=0.3; extra == "ocr"
