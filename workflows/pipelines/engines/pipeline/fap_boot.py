@@ -22,7 +22,7 @@ import argparse
 import sys
 import os
 import logging
-from pathlib import Path, PureWindowsPath
+from pathlib import Path
 
 # Add pipeline repo root to path
 PIPELINE_REPO_ROOT = Path(__file__).resolve().parents[2]
@@ -57,27 +57,20 @@ logger = logging.getLogger("FAP-Boot")
 # ══════════════════════════════════════════════════════════════════
 # BACKSIDE DIRECTORY STRUCTURE
 # ══════════════════════════════════════════════════════════════════
-FAP_ROOT = PureWindowsPath(os.environ.get("FAP_ROOT", str(PIPELINE_RUNTIME_ROOT)))
-
-
-def _root_path(*parts: str) -> str:
-    """Return a canonical Windows-style pipeline runtime path."""
-    return str(FAP_ROOT.joinpath(*parts))
-
-
+FAP_ROOT = os.environ.get("FAP_ROOT", str(PIPELINE_RUNTIME_ROOT))
 DIRS = {
-    "intake":         _root_path("intake"),
-    "lossless":       _root_path("lossless"),
-    "vectorized":     _root_path("vectorized"),
-    "classified":     _root_path("classified"),
-    "media_routed":   _root_path("media-routed"),
-    "framework_tagged": _root_path("framework-tagged"),
-    "graded":         _root_path("graded"),
-    "axiom_mapped":   _root_path("axiom-mapped"),
-    "output":         str(KNOWLEDGE_GRAPHS_ROOT / "pipeline-output"),
-    "rubric_output":  _root_path("rubric-output"),
-    "review":         _root_path("_review"),
-    "rejected":       _root_path("_rejected"),
+    "intake":         os.path.join(FAP_ROOT, "intake"),
+    "lossless":       os.path.join(FAP_ROOT, "lossless"),
+    "vectorized":     os.path.join(FAP_ROOT, "vectorized"),
+    "classified":     os.path.join(FAP_ROOT, "classified"),
+    "media_routed":   os.path.join(FAP_ROOT, "media-routed"),
+    "framework_tagged": os.path.join(FAP_ROOT, "framework-tagged"),
+    "graded":         os.path.join(FAP_ROOT, "graded"),
+    "axiom_mapped":   os.path.join(FAP_ROOT, "axiom-mapped"),
+    "output":         os.path.join(KNOWLEDGE_GRAPHS_ROOT, "pipeline-output"),
+    "rubric_output":  os.path.join(FAP_ROOT, "rubric-output"),
+    "review":         os.path.join(FAP_ROOT, "_review"),
+    "rejected":       os.path.join(FAP_ROOT, "_rejected"),
     "wiki":           str(PIPELINE_WIKI_DIR),
     "queue":          str(PIPELINE_QUEUE_DIR),
     "logs":           str(PIPELINE_LOG_DIR),
