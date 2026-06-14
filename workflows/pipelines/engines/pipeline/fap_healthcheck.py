@@ -13,8 +13,10 @@ from pathlib import Path
 
 ROOT = Path(os.environ.get("FAP_REPO_ROOT", Path(__file__).resolve().parents[2]))
 PIPELINE = ROOT / "engines" / "pipeline"
-REPORTS = Path(os.environ.get("FAP_HEALTH_REPORT_DIR", r"D:\BIL\data\fap_health"))
 sys.path.insert(0, str(ROOT))
+from engines.pipeline.backside_paths import PIPELINE_LOG_DIR, PIPELINE_REPORT_DIR, PIPELINE_RUNTIME_ROOT, PIPELINE_WIKI_DIR
+
+REPORTS = Path(os.environ.get("FAP_HEALTH_REPORT_DIR", str(PIPELINE_REPORT_DIR / "health")))
 
 REQUIRED_FILES = [
     "station_base.py",
@@ -58,20 +60,19 @@ def main() -> int:
             rows.append({"check": f"import:{module}", "status": "FAIL", "detail": str(exc)})
 
     for folder in [
-        Path(r"D:\FAP"),
-        Path(r"D:\FAP\intake"),
-        Path(r"D:\FAP\classified"),
-        Path(r"D:\FAP\media-routed"),
-        Path(r"D:\FAP\lossless"),
-        Path(r"D:\FAP\vectorized"),
-        Path(r"D:\FAP\graded"),
-        Path(r"D:\FAP\axiom-mapped"),
-        Path(r"D:\FAP\output"),
-        Path(r"D:\FAP\_review"),
-        Path(r"D:\FAP\_rejected"),
-        Path(r"D:\FAP\wiki"),
-        Path(r"D:\FAP\_queue"),
-        Path(r"D:\FAP\logs"),
+        PIPELINE_RUNTIME_ROOT,
+        PIPELINE_RUNTIME_ROOT / "intake",
+        PIPELINE_RUNTIME_ROOT / "lossless",
+        PIPELINE_RUNTIME_ROOT / "vectorized",
+        PIPELINE_RUNTIME_ROOT / "classified",
+        PIPELINE_RUNTIME_ROOT / "media-routed",
+        PIPELINE_RUNTIME_ROOT / "graded",
+        PIPELINE_RUNTIME_ROOT / "axiom-mapped",
+        PIPELINE_RUNTIME_ROOT / "_review",
+        PIPELINE_RUNTIME_ROOT / "_rejected",
+        PIPELINE_WIKI_DIR,
+        PIPELINE_RUNTIME_ROOT / "_queue",
+        PIPELINE_LOG_DIR,
     ]:
         folder.mkdir(parents=True, exist_ok=True)
         rows.append({"check": "folder", "status": "OK" if folder.exists() else "FAIL", "detail": str(folder)})

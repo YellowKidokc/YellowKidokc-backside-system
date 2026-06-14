@@ -25,6 +25,8 @@ from typing import Optional
 from dataclasses import dataclass, field, asdict
 from enum import Enum
 
+from .backside_paths import PIPELINE_LOG_DIR, PIPELINE_PROMPTS_DIR, PIPELINE_QUEUE_DIR, PIPELINE_WIKI_DIR
+
 try:
     import requests
     HAS_REQUESTS = True
@@ -76,12 +78,12 @@ class LLMHub:
     dispatches to backends, tracks costs, logs everything.
     """
 
-    def __init__(self, queue_dir: str = r"D:\FAP\_queue",
-                 prompts_dir: str = r"D:\FAP\wiki\prompts",
-                 log_dir: str = r"D:\FAP\logs"):
-        self.queue_dir = Path(queue_dir)
-        self.prompts_dir = Path(prompts_dir)
-        self.log_dir = Path(log_dir)
+    def __init__(self, queue_dir: str | None = None,
+                 prompts_dir: str | None = None,
+                 log_dir: str | None = None):
+        self.queue_dir = Path(queue_dir or PIPELINE_QUEUE_DIR)
+        self.prompts_dir = Path(prompts_dir or PIPELINE_PROMPTS_DIR)
+        self.log_dir = Path(log_dir or PIPELINE_LOG_DIR)
         self._backends = {}
         self._running = False
         self._lock = threading.Lock()
@@ -431,7 +433,7 @@ class LLMHub:
 
     def update_wiki_page(self, station_name: str, stats: dict):
         """Auto-update a station's wiki page with latest stats."""
-        wiki_dir = Path(r"D:\FAP\wiki\stations")
+        wiki_dir = Path(PIPELINE_WIKI_DIR) / "stations"
         wiki_dir.mkdir(parents=True, exist_ok=True)
         page = wiki_dir / f"{station_name}.md"
 
